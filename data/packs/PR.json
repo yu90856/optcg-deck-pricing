@@ -135,7 +135,7 @@
           "R"
         ],
         "createdTime": "2026-04-17T02:10:06+08:00",
-        "lowestPrice": 100,
+        "lowestPrice": 95,
         "averagePrice": 30
       },
       {
@@ -2310,7 +2310,7 @@
           "SR"
         ],
         "createdTime": "2026-04-17T02:10:06+08:00",
-        "lowestPrice": 50,
+        "lowestPrice": 45,
         "averagePrice": 80
       },
       {
@@ -3525,7 +3525,7 @@
           "SR"
         ],
         "createdTime": "2026-04-17T02:10:06+08:00",
-        "lowestPrice": 600,
+        "lowestPrice": 580,
         "averagePrice": 550
       },
       {
@@ -4230,7 +4230,7 @@
           "PR"
         ],
         "createdTime": "2026-03-24T17:09:48+08:00",
-        "lowestPrice": 148,
+        "lowestPrice": 198,
         "averagePrice": 90
       },
       {
@@ -4440,7 +4440,7 @@
           "PR"
         ],
         "createdTime": "2026-03-24T17:09:48+08:00",
-        "lowestPrice": 250,
+        "lowestPrice": 380,
         "averagePrice": 200
       },
       {
@@ -5371,7 +5371,7 @@
         ],
         "createdTime": "2009-05-26T18:53:27+08:00",
         "lowestPrice": 900,
-        "averagePrice": 800
+        "averagePrice": 1000
       },
       {
         "id": 323743,
@@ -10935,7 +10935,7 @@
           "SR"
         ],
         "createdTime": "2026-04-17T02:10:06+08:00",
-        "lowestPrice": 150,
+        "lowestPrice": 145,
         "averagePrice": 150
       },
       {
@@ -11220,7 +11220,7 @@
           "SR"
         ],
         "createdTime": "2026-04-17T02:10:06+08:00",
-        "lowestPrice": 4000,
+        "lowestPrice": 3800,
         "averagePrice": 329
       },
       {

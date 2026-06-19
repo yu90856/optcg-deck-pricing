@@ -195,8 +195,8 @@
           "SR"
         ],
         "createdTime": "2026-05-26T17:43:55+08:00",
-        "lowestPrice": 18,
-        "averagePrice": 45
+        "lowestPrice": 20,
+        "averagePrice": 18
       },
       {
         "id": 326465,
@@ -721,7 +721,7 @@
         ],
         "createdTime": "2026-05-26T17:44:07+08:00",
         "lowestPrice": 99,
-        "averagePrice": 124
+        "averagePrice": 99
       },
       {
         "id": 326471,
@@ -781,7 +781,7 @@
         ],
         "createdTime": "2026-05-29T14:29:11+08:00",
         "lowestPrice": 800,
-        "averagePrice": 800
+        "averagePrice": 675
       },
       {
         "id": 322888,
@@ -1036,7 +1036,7 @@
         ],
         "createdTime": "2026-05-29T14:29:15+08:00",
         "lowestPrice": 400,
-        "averagePrice": 400
+        "averagePrice": 381
       },
       {
         "id": 322902,
@@ -1365,8 +1365,8 @@
           "SR"
         ],
         "createdTime": "2026-05-26T17:44:22+08:00",
-        "lowestPrice": 55,
-        "averagePrice": 60
+        "lowestPrice": 60,
+        "averagePrice": 59
       },
       {
         "id": 326481,
@@ -1711,7 +1711,7 @@
         ],
         "createdTime": "2026-05-26T17:44:29+08:00",
         "lowestPrice": 75,
-        "averagePrice": 98
+        "averagePrice": 91
       },
       {
         "id": 326487,
@@ -1725,7 +1725,7 @@
           "SR異圖"
         ],
         "createdTime": "2026-05-29T14:29:33+08:00",
-        "lowestPrice": 600,
+        "lowestPrice": 588,
         "averagePrice": 600
       },
       {
@@ -1876,7 +1876,7 @@
         ],
         "createdTime": "2026-05-26T17:44:32+08:00",
         "lowestPrice": 5,
-        "averagePrice": 12
+        "averagePrice": 10
       },
       {
         "id": 322945,
@@ -1966,7 +1966,7 @@
         ],
         "createdTime": "2026-05-26T17:44:35+08:00",
         "lowestPrice": 2,
-        "averagePrice": 23
+        "averagePrice": 15
       },
       {
         "id": 322951,
@@ -2356,7 +2356,7 @@
         ],
         "createdTime": "2026-05-26T17:44:44+08:00",
         "lowestPrice": 1200,
-        "averagePrice": 1066
+        "averagePrice": 1060
       },
       {
         "id": 326494,
