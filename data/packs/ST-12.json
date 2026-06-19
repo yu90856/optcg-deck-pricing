@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162441,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-12-000P",
+        "cardName": "起始牌組 索隆&香吉士",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:41:09+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 450
+      },
+      {
+        "id": 22307,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-001",
+        "cardGlobalKey": "ST12-001",
+        "cardName": "羅羅亞・索隆＆香吉士",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 350
+      },
+      {
+        "id": 20977,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-002",
+        "cardGlobalKey": "ST12-002",
+        "cardName": "克伊娜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22463,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-003",
+        "cardGlobalKey": "ST12-003",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 85,
+        "averagePrice": 70
+      },
+      {
+        "id": 22133,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-004",
+        "cardGlobalKey": "ST12-004",
+        "cardName": "人鬼狒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21976,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-005",
+        "cardGlobalKey": "ST12-005",
+        "cardName": "培羅娜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20507,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-006",
+        "cardGlobalKey": "ST12-006",
+        "cardName": "約瑟夫＆強尼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21637,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-007",
+        "cardGlobalKey": "ST12-007",
+        "cardName": "麗佳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20573,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-008",
+        "cardGlobalKey": "ST12-008",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21027,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-009",
+        "cardGlobalKey": "ST12-009",
+        "cardName": "大象真鮪魚",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22485,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-010",
+        "cardGlobalKey": "ST12-010",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 15
+      },
+      {
+        "id": 22199,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-011",
+        "cardGlobalKey": "ST12-011",
+        "cardName": "香吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 20533,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-012",
+        "cardGlobalKey": "ST12-012",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 22193,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-013",
+        "cardGlobalKey": "ST12-013",
+        "cardName": "哲普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 22424,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-014",
+        "cardGlobalKey": "ST12-014",
+        "cardName": "迪巴魯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21967,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-015",
+        "cardGlobalKey": "ST12-015",
+        "cardName": "派迪卡＆爾涅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22308,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-016",
+        "cardGlobalKey": "ST12-016",
+        "cardName": "獅子歌歌",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 20814,
+        "game": "onejp",
+        "packId": "ST-12",
+        "packName": "索隆&香吉士",
+        "packCardId": "ST12-017",
+        "cardGlobalKey": "ST12-017",
+        "cardName": "整形SHOT",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      }
+    ]
+  },
+  "message": "ok"
+}

@@ -1,0 +1,2349 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 255554,
+        "game": "onejp",
+        "packId": "DONG-T",
+        "packName": "咚！卡",
+        "packCardId": "OP15-DON",
+        "cardGlobalKey": "DONG",
+        "cardName": "咚！！",
+        "rare": [
+          "DON"
+        ],
+        "createdTime": "2026-02-28T05:14:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255555,
+        "game": "onejp",
+        "packId": "DONG-T",
+        "packName": "咚！卡",
+        "packCardId": "OP15-DON",
+        "cardGlobalKey": "DONG",
+        "cardName": "咚！！",
+        "rare": [
+          "金DON"
+        ],
+        "createdTime": "2026-02-28T05:14:28+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 450
+      },
+      {
+        "id": 232108,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP15-000P",
+        "cardName": "補充包 神之島的冒險(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-02-18T14:22:31+08:00",
+        "lowestPrice": 3300,
+        "averagePrice": 3790
+      },
+      {
+        "id": 232109,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP15-000P",
+        "cardName": "補充包 神之島的冒險(未拆封)",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-02-18T14:22:31+08:00",
+        "lowestPrice": 46,
+        "averagePrice": 46
+      },
+      {
+        "id": 255400,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "001",
+        "cardGlobalKey": "OP15-001",
+        "cardName": "克利克",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-02-27T17:32:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255401,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "001",
+        "cardGlobalKey": "OP15-001",
+        "cardName": "克利克",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:20+08:00",
+        "lowestPrice": 170,
+        "averagePrice": 150
+      },
+      {
+        "id": 255402,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "002",
+        "cardGlobalKey": "OP15-002",
+        "cardName": "魯西",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255403,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "002",
+        "cardGlobalKey": "OP15-002",
+        "cardName": "魯西",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 820,
+        "averagePrice": 775
+      },
+      {
+        "id": 255404,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "003",
+        "cardGlobalKey": "OP15-003",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255405,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "003",
+        "cardGlobalKey": "OP15-003",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "R-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 140,
+        "averagePrice": 150
+      },
+      {
+        "id": 255406,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "004",
+        "cardGlobalKey": "OP15-004",
+        "cardName": "海貓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255407,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "005",
+        "cardGlobalKey": "OP15-005",
+        "cardName": "卡巴吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255408,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "006",
+        "cardGlobalKey": "OP15-006",
+        "cardName": "卡文迪許",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255409,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "007",
+        "cardGlobalKey": "OP15-007",
+        "cardName": "銀仔",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255410,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "007",
+        "cardGlobalKey": "OP15-007",
+        "cardName": "銀仔",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:21+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 255411,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "008",
+        "cardGlobalKey": "OP15-008",
+        "cardName": "克利克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255412,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "008",
+        "cardGlobalKey": "OP15-008",
+        "cardName": "克利克",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:22+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 255413,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "009",
+        "cardGlobalKey": "OP15-009",
+        "cardName": "克比",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255414,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "010",
+        "cardGlobalKey": "OP15-010",
+        "cardName": "老鼠",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255415,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "011",
+        "cardGlobalKey": "OP15-011",
+        "cardName": "帕魯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 255416,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "012",
+        "cardGlobalKey": "OP15-012",
+        "cardName": "巴其",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255417,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "013",
+        "cardGlobalKey": "OP15-013",
+        "cardName": "剪刀",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255418,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "014",
+        "cardGlobalKey": "OP15-014",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 255419,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "015",
+        "cardGlobalKey": "OP15-015",
+        "cardName": "西格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255420,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "016",
+        "cardGlobalKey": "OP15-016",
+        "cardName": "芬布迪",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255421,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "017",
+        "cardGlobalKey": "OP15-017",
+        "cardName": "蒙卡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255422,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "018",
+        "cardGlobalKey": "OP15-018",
+        "cardName": "摩奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 255423,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "019",
+        "cardGlobalKey": "OP15-019",
+        "cardName": "防護罩突進牛",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255424,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "020",
+        "cardGlobalKey": "OP15-020",
+        "cardName": "火拳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255425,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "021",
+        "cardGlobalKey": "OP15-021",
+        "cardName": "你看著吧!艾斯!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255426,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "022",
+        "cardGlobalKey": "OP15-022",
+        "cardName": "布魯克",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-02-27T17:32:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255427,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "022",
+        "cardGlobalKey": "OP15-022",
+        "cardName": "布魯克",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:24+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 499
+      },
+      {
+        "id": 255428,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "023",
+        "cardGlobalKey": "OP15-023",
+        "cardName": "惡龍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255429,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "024",
+        "cardGlobalKey": "OP15-024",
+        "cardName": "騙人布",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255430,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "025",
+        "cardGlobalKey": "OP15-025",
+        "cardName": "克洛",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255431,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "025",
+        "cardGlobalKey": "OP15-025",
+        "cardName": "克洛",
+        "rare": [
+          "R-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:24+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 80
+      },
+      {
+        "id": 255432,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "026",
+        "cardGlobalKey": "OP15-026",
+        "cardName": "傑克斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255433,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "027",
+        "cardGlobalKey": "OP15-027",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255434,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "028",
+        "cardGlobalKey": "OP15-028",
+        "cardName": "貓人兄弟",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 255435,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "029",
+        "cardGlobalKey": "OP15-029",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255436,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "030",
+        "cardGlobalKey": "OP15-030",
+        "cardName": "藍藏",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255437,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "031",
+        "cardGlobalKey": "OP15-031",
+        "cardName": "布林布林",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 255438,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "032",
+        "cardGlobalKey": "OP15-032",
+        "cardName": "布魯克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 7
+      },
+      {
+        "id": 255439,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "032",
+        "cardGlobalKey": "OP15-032",
+        "cardName": "布魯克",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:25+08:00",
+        "lowestPrice": 750,
+        "averagePrice": 350
+      },
+      {
+        "id": 255440,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "033",
+        "cardGlobalKey": "OP15-033",
+        "cardName": "荷帝・瓊斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255441,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "034",
+        "cardGlobalKey": "OP15-034",
+        "cardName": "尤奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 255442,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "035",
+        "cardGlobalKey": "OP15-035",
+        "cardName": "拉布",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 255443,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "036",
+        "cardGlobalKey": "OP15-036",
+        "cardName": "龍馬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255444,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "037",
+        "cardGlobalKey": "OP15-037",
+        "cardName": "是強是弱讓結果來決定",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255445,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "038",
+        "cardGlobalKey": "OP15-038",
+        "cardName": "這是命令 誰都不准違抗我!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 255446,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "039",
+        "cardGlobalKey": "OP15-039",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-02-27T17:32:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255447,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "039",
+        "cardGlobalKey": "OP15-039",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:26+08:00",
+        "lowestPrice": 340,
+        "averagePrice": 320
+      },
+      {
+        "id": 255448,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "040",
+        "cardGlobalKey": "OP15-040",
+        "cardName": "碧歐菈",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255449,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "041",
+        "cardGlobalKey": "OP15-041",
+        "cardName": "歐隆拜斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255450,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "042",
+        "cardGlobalKey": "OP15-042",
+        "cardName": "居魯士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255451,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "043",
+        "cardGlobalKey": "OP15-043",
+        "cardName": "凱利・放克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 255452,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "044",
+        "cardGlobalKey": "OP15-044",
+        "cardName": "可亞拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255453,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "045",
+        "cardGlobalKey": "OP15-045",
+        "cardName": "雜菜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255454,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "046",
+        "cardGlobalKey": "OP15-046",
+        "cardName": "薩波",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:27+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 71
+      },
+      {
+        "id": 255455,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "046",
+        "cardGlobalKey": "OP15-046",
+        "cardName": "薩波",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:27+08:00",
+        "lowestPrice": 650,
+        "averagePrice": 640
+      },
+      {
+        "id": 255456,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "047",
+        "cardGlobalKey": "OP15-047",
+        "cardName": "香吉士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255457,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "047",
+        "cardGlobalKey": "OP15-047",
+        "cardName": "香吉士",
+        "rare": [
+          "R-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:27+08:00",
+        "lowestPrice": 299,
+        "averagePrice": 299
+      },
+      {
+        "id": 255458,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "048",
+        "cardGlobalKey": "OP15-048",
+        "cardName": "青椒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255459,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "049",
+        "cardGlobalKey": "OP15-049",
+        "cardName": "哈爾汀",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255460,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "050",
+        "cardGlobalKey": "OP15-050",
+        "cardName": "鮑比・放克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255461,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "051",
+        "cardGlobalKey": "OP15-051",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255462,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "052",
+        "cardGlobalKey": "OP15-052",
+        "cardName": "雷奧",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255463,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "053",
+        "cardGlobalKey": "OP15-053",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:28+08:00",
+        "lowestPrice": 55,
+        "averagePrice": 55
+      },
+      {
+        "id": 255464,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "053",
+        "cardGlobalKey": "OP15-053",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:28+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 440
+      },
+      {
+        "id": 255465,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "054",
+        "cardGlobalKey": "OP15-054",
+        "cardName": "我不會交給任何人的! 這是「那傢伙」的遺物",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255466,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "055",
+        "cardGlobalKey": "OP15-055",
+        "cardName": "魯夫前輩‼用這個爬上去!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 255467,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "056",
+        "cardGlobalKey": "OP15-056",
+        "cardName": "「火焰果實」可以給我吃嗎？",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255468,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "057",
+        "cardGlobalKey": "OP15-057",
+        "cardName": "多雷斯羅薩王國",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255469,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "058",
+        "cardGlobalKey": "OP15-058",
+        "cardName": "艾涅爾",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255470,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "058",
+        "cardGlobalKey": "OP15-058",
+        "cardName": "艾涅爾",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 900,
+        "averagePrice": 980
+      },
+      {
+        "id": 255471,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "059",
+        "cardGlobalKey": "OP15-059",
+        "cardName": "亞馬遜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255472,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "060",
+        "cardGlobalKey": "OP15-060",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255473,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "060",
+        "cardGlobalKey": "OP15-060",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 280,
+        "averagePrice": 250
+      },
+      {
+        "id": 255474,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "061",
+        "cardGlobalKey": "OP15-061",
+        "cardName": "歐姆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255475,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "061",
+        "cardGlobalKey": "OP15-061",
+        "cardName": "歐姆",
+        "rare": [
+          "R-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:29+08:00",
+        "lowestPrice": 240,
+        "averagePrice": 250
+      },
+      {
+        "id": 255476,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "062",
+        "cardGlobalKey": "OP15-062",
+        "cardName": "西馬斯船長",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255477,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "063",
+        "cardGlobalKey": "OP15-063",
+        "cardName": "涅槃",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255478,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "064",
+        "cardGlobalKey": "OP15-064",
+        "cardName": "小悟",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255479,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "065",
+        "cardGlobalKey": "OP15-065",
+        "cardName": "吾郎",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255480,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "066",
+        "cardGlobalKey": "OP15-066",
+        "cardName": "大悟",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 255481,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "067",
+        "cardGlobalKey": "OP15-067",
+        "cardName": "修羅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255482,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "068",
+        "cardGlobalKey": "OP15-068",
+        "cardName": "神兵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255483,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "069",
+        "cardGlobalKey": "OP15-069",
+        "cardName": "諾蘭",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255484,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "070",
+        "cardGlobalKey": "OP15-070",
+        "cardName": "盤腿",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255485,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "071",
+        "cardGlobalKey": "OP15-071",
+        "cardName": "聖潔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255486,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "072",
+        "cardGlobalKey": "OP15-072",
+        "cardName": "中悟",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255487,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "073",
+        "cardGlobalKey": "OP15-073",
+        "cardName": "長大山",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255488,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "074",
+        "cardGlobalKey": "OP15-074",
+        "cardName": "放電",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255489,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "075",
+        "cardGlobalKey": "OP15-075",
+        "cardName": "神的制裁",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:32+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255490,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "076",
+        "cardGlobalKey": "OP15-076",
+        "cardName": "雷獸",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:32+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255491,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "077",
+        "cardGlobalKey": "OP15-077",
+        "cardName": "雷龍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:32+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255492,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "077",
+        "cardGlobalKey": "OP15-077",
+        "cardName": "雷龍",
+        "rare": [
+          "R-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:32+08:00",
+        "lowestPrice": 3600,
+        "averagePrice": 3000
+      },
+      {
+        "id": 255493,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "078",
+        "cardGlobalKey": "OP15-078",
+        "cardName": "萬雷",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:32+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 273
+      },
+      {
+        "id": 255494,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "078",
+        "cardGlobalKey": "OP15-078",
+        "cardName": "萬雷",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:32+08:00",
+        "lowestPrice": 950,
+        "averagePrice": 1000
+      },
+      {
+        "id": 255495,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "079",
+        "cardGlobalKey": "OP15-079",
+        "cardName": "阿布薩羅姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:32+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 255496,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "080",
+        "cardGlobalKey": "OP15-080",
+        "cardName": "歐斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:32+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255497,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "081",
+        "cardGlobalKey": "OP15-081",
+        "cardName": "香吉士",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255498,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "082",
+        "cardGlobalKey": "OP15-082",
+        "cardName": "夏洛特・羅拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 255499,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "083",
+        "cardGlobalKey": "OP15-083",
+        "cardName": "斯波伊魯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255500,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "084",
+        "cardGlobalKey": "OP15-084",
+        "cardName": "赫古巴庫醫生",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255501,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "085",
+        "cardGlobalKey": "OP15-085",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255502,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "086",
+        "cardGlobalKey": "OP15-086",
+        "cardName": "娜美",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:33+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 50
+      },
+      {
+        "id": 255503,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "086",
+        "cardGlobalKey": "OP15-086",
+        "cardName": "娜美",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:33+08:00",
+        "lowestPrice": 9500,
+        "averagePrice": 10000
+      },
+      {
+        "id": 255504,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "087",
+        "cardGlobalKey": "OP15-087",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255505,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "088",
+        "cardGlobalKey": "OP15-088",
+        "cardName": "海賊六人合體",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255506,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "089",
+        "cardGlobalKey": "OP15-089",
+        "cardName": "佛朗基",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255507,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "090",
+        "cardGlobalKey": "OP15-090",
+        "cardName": "培羅娜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255508,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "091",
+        "cardGlobalKey": "OP15-091",
+        "cardName": "馬爾卡莉塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255509,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "092",
+        "cardGlobalKey": "OP15-092",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255510,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "092",
+        "cardGlobalKey": "OP15-092",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:34+08:00",
+        "lowestPrice": 999,
+        "averagePrice": 750
+      },
+      {
+        "id": 255511,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "093",
+        "cardGlobalKey": "OP15-093",
+        "cardName": "松鼠基兄弟",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255512,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "094",
+        "cardGlobalKey": "OP15-094",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255513,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "095",
+        "cardGlobalKey": "OP15-095",
+        "cardName": "橡膠暴風雨",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255514,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "096",
+        "cardGlobalKey": "OP15-096",
+        "cardName": "飛燕前跳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 255515,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "097",
+        "cardGlobalKey": "OP15-097",
+        "cardName": "身為一個人這太丟臉了",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255516,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "098",
+        "cardGlobalKey": "OP15-098",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-02-27T17:32:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255517,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "098",
+        "cardGlobalKey": "OP15-098",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:35+08:00",
+        "lowestPrice": 2500,
+        "averagePrice": 2500
+      },
+      {
+        "id": 255518,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "099",
+        "cardGlobalKey": "OP15-099",
+        "cardName": "烏魯基",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255519,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "100",
+        "cardGlobalKey": "OP15-100",
+        "cardName": "卡馬奇利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255520,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "101",
+        "cardGlobalKey": "OP15-101",
+        "cardName": "卡爾葛拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255521,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "102",
+        "cardGlobalKey": "OP15-102",
+        "cardName": "甘・福爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255522,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "103",
+        "cardGlobalKey": "OP15-103",
+        "cardName": "捷寶",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255523,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "104",
+        "cardGlobalKey": "OP15-104",
+        "cardName": "柯妮絲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255524,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "105",
+        "cardGlobalKey": "OP15-105",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 255525,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "106",
+        "cardGlobalKey": "OP15-106",
+        "cardName": "章魚熱氣球",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 255526,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "107",
+        "cardGlobalKey": "OP15-107",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 255527,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "108",
+        "cardGlobalKey": "OP15-108",
+        "cardName": "娜美",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 255528,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "109",
+        "cardGlobalKey": "OP15-109",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255529,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "109",
+        "cardGlobalKey": "OP15-109",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "R-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 300
+      },
+      {
+        "id": 255530,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "110",
+        "cardGlobalKey": "OP15-110",
+        "cardName": "布拉哈姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255531,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "111",
+        "cardGlobalKey": "OP15-111",
+        "cardName": "蒙布朗・諾蘭德",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255532,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "112",
+        "cardGlobalKey": "OP15-112",
+        "cardName": "蘭奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255533,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "113",
+        "cardGlobalKey": "OP15-113",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 80
+      },
+      {
+        "id": 255534,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "113",
+        "cardGlobalKey": "OP15-113",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:37+08:00",
+        "lowestPrice": 900,
+        "averagePrice": 1100
+      },
+      {
+        "id": 255535,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "114",
+        "cardGlobalKey": "OP15-114",
+        "cardName": "瓦夷帕",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-02-27T17:32:38+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 18
+      },
+      {
+        "id": 255536,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "114",
+        "cardGlobalKey": "OP15-114",
+        "cardName": "瓦夷帕",
+        "rare": [
+          "SR-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:38+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 430
+      },
+      {
+        "id": 255537,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "115",
+        "cardGlobalKey": "OP15-115",
+        "cardName": "衝擊貝",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-02-27T17:32:38+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255538,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "116",
+        "cardGlobalKey": "OP15-116",
+        "cardName": "橡膠黃金螺旋彈",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-02-27T17:32:38+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 255539,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "116",
+        "cardGlobalKey": "OP15-116",
+        "cardName": "橡膠黃金螺旋彈",
+        "rare": [
+          "R-異圖"
+        ],
+        "createdTime": "2026-02-27T17:32:38+08:00",
+        "lowestPrice": 3600,
+        "averagePrice": 3750
+      },
+      {
+        "id": 255540,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "117",
+        "cardGlobalKey": "OP15-117",
+        "cardName": "肚臍!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-02-27T17:32:38+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 255546,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "118",
+        "cardGlobalKey": "OP15-118",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-02-27T17:34:36+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 550
+      },
+      {
+        "id": 255547,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "118",
+        "cardGlobalKey": "OP15-118",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SEC異圖"
+        ],
+        "createdTime": "2026-02-27T17:34:36+08:00",
+        "lowestPrice": 1399,
+        "averagePrice": 1200
+      },
+      {
+        "id": 255548,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "118",
+        "cardGlobalKey": "OP15-118",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SEC漫畫"
+        ],
+        "createdTime": "2026-02-27T17:34:36+08:00",
+        "lowestPrice": 29000,
+        "averagePrice": 25000
+      },
+      {
+        "id": 255549,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "119",
+        "cardGlobalKey": "OP15-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-02-27T17:34:36+08:00",
+        "lowestPrice": 490,
+        "averagePrice": 550
+      },
+      {
+        "id": 255550,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "119",
+        "cardGlobalKey": "OP15-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC異圖"
+        ],
+        "createdTime": "2026-02-27T17:34:36+08:00",
+        "lowestPrice": 2100,
+        "averagePrice": 2000
+      },
+      {
+        "id": 255541,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "EB02-052",
+        "cardGlobalKey": "EB02-052",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-02-27T17:32:38+08:00",
+        "lowestPrice": 2900,
+        "averagePrice": 2900
+      },
+      {
+        "id": 255542,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "OP12-014",
+        "cardGlobalKey": "OP12-014",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-02-27T17:32:38+08:00",
+        "lowestPrice": 15000,
+        "averagePrice": 10000
+      },
+      {
+        "id": 255543,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "OP13-031",
+        "cardGlobalKey": "OP13-031",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-02-27T17:32:39+08:00",
+        "lowestPrice": 3800,
+        "averagePrice": 4000
+      },
+      {
+        "id": 255544,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "OP13-042",
+        "cardGlobalKey": "OP13-042",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-02-27T17:32:39+08:00",
+        "lowestPrice": 4500,
+        "averagePrice": 3740
+      },
+      {
+        "id": 255551,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "P-105",
+        "cardGlobalKey": "P-105",
+        "cardName": "薩波",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-02-27T17:34:36+08:00",
+        "lowestPrice": 1950,
+        "averagePrice": 1980
+      },
+      {
+        "id": 255545,
+        "game": "onejp",
+        "packId": "OP15",
+        "packName": "神之島的冒險",
+        "packCardId": "ST26-005",
+        "cardGlobalKey": "ST26-005",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-02-27T17:32:39+08:00",
+        "lowestPrice": 12000,
+        "averagePrice": 9000
+      }
+    ]
+  },
+  "message": "ok"
+}

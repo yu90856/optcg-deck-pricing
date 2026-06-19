@@ -1,0 +1,2349 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282290,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-05-000P",
+        "cardName": "新時代的主角 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 9500,
+        "averagePrice": 0
+      },
+      {
+        "id": 282291,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-05-000P",
+        "cardName": "新時代的主角 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 550,
+        "averagePrice": 150
+      },
+      {
+        "id": 21103,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP01-016",
+        "cardGlobalKey": "OP01-016",
+        "cardName": "娜美(異圖卡)",
+        "rare": [
+          "SP卡 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 4200,
+        "averagePrice": 2580
+      },
+      {
+        "id": 21487,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP01-121",
+        "cardGlobalKey": "OP01-121",
+        "cardName": "大和(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 2350,
+        "averagePrice": 1800
+      },
+      {
+        "id": 22681,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP02-120",
+        "cardGlobalKey": "OP02-120",
+        "cardName": "美音(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 2499
+      },
+      {
+        "id": 22383,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP03-092",
+        "cardGlobalKey": "OP03-092",
+        "cardName": "羅布・路基(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 500
+      },
+      {
+        "id": 22714,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP04-044",
+        "cardGlobalKey": "OP04-044",
+        "cardName": "海道(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 1450
+      },
+      {
+        "id": 282292,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-001",
+        "cardGlobalKey": "OP05-001",
+        "cardName": "薩波",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 282293,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-001",
+        "cardGlobalKey": "OP05-001",
+        "cardName": "薩波",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 199,
+        "averagePrice": 200
+      },
+      {
+        "id": 282294,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-002",
+        "cardGlobalKey": "OP05-002",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282295,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-002",
+        "cardGlobalKey": "OP05-002",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 0
+      },
+      {
+        "id": 21593,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-003",
+        "cardGlobalKey": "OP05-003",
+        "cardName": "雷電",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22194,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-004",
+        "cardGlobalKey": "OP05-004",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21135,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-005",
+        "cardGlobalKey": "OP05-005",
+        "cardName": "卡拉司(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282296,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-006",
+        "cardGlobalKey": "OP05-006",
+        "cardName": "可亞拉",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282297,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-006",
+        "cardGlobalKey": "OP05-006",
+        "cardName": "可亞拉",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 190,
+        "averagePrice": 150
+      },
+      {
+        "id": 282298,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-007",
+        "cardGlobalKey": "OP05-007",
+        "cardName": "薩波",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282299,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-007",
+        "cardGlobalKey": "OP05-007",
+        "cardName": "薩波",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 35
+      },
+      {
+        "id": 20613,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-008",
+        "cardGlobalKey": "OP05-008",
+        "cardName": "加卡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21089,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-009",
+        "cardGlobalKey": "OP05-009",
+        "cardName": "多托",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22634,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-010",
+        "cardGlobalKey": "OP05-010",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22357,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-011",
+        "cardGlobalKey": "OP05-011",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21879,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-012",
+        "cardGlobalKey": "OP05-012",
+        "cardName": "哈克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22392,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-013",
+        "cardGlobalKey": "OP05-013",
+        "cardName": "巴尼・喬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21209,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-014",
+        "cardGlobalKey": "OP05-014",
+        "cardName": "貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282300,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-015",
+        "cardGlobalKey": "OP05-015",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 15
+      },
+      {
+        "id": 282301,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-015",
+        "cardGlobalKey": "OP05-015",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 100
+      },
+      {
+        "id": 21858,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-016",
+        "cardGlobalKey": "OP05-016",
+        "cardName": "摩利",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20663,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-017",
+        "cardGlobalKey": "OP05-017",
+        "cardName": "林德伯格",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21201,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-018",
+        "cardGlobalKey": "OP05-018",
+        "cardName": "艾波利歐・幹勁荷爾蒙",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21684,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-019",
+        "cardGlobalKey": "OP05-019",
+        "cardName": "火拳(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22597,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-020",
+        "cardGlobalKey": "OP05-020",
+        "cardName": "四千枚瓦正拳",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21809,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-021",
+        "cardGlobalKey": "OP05-021",
+        "cardName": "革命軍總部",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282302,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-022",
+        "cardGlobalKey": "OP05-022",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282303,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-022",
+        "cardGlobalKey": "OP05-022",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 140,
+        "averagePrice": 210
+      },
+      {
+        "id": 20955,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-023",
+        "cardGlobalKey": "OP05-023",
+        "cardName": "威爾可",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22712,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-024",
+        "cardGlobalKey": "OP05-024",
+        "cardName": "裘茵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20956,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-025",
+        "cardGlobalKey": "OP05-025",
+        "cardName": "古拉迪斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22388,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-026",
+        "cardGlobalKey": "OP05-026",
+        "cardName": "薩奇斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22335,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-027",
+        "cardGlobalKey": "OP05-027",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21709,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-028",
+        "cardGlobalKey": "OP05-028",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21141,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-029",
+        "cardGlobalKey": "OP05-029",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22279,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-030",
+        "cardGlobalKey": "OP05-030",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 22622,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-031",
+        "cardGlobalKey": "OP05-031",
+        "cardName": "水牛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282304,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-032",
+        "cardGlobalKey": "OP05-032",
+        "cardName": "皮卡",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282305,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-032",
+        "cardGlobalKey": "OP05-032",
+        "cardName": "皮卡",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 30
+      },
+      {
+        "id": 20607,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-033",
+        "cardGlobalKey": "OP05-033",
+        "cardName": "BABY５",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282306,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-034",
+        "cardGlobalKey": "OP05-034",
+        "cardName": "BABY５",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282307,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-034",
+        "cardGlobalKey": "OP05-034",
+        "cardName": "BABY５",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 45,
+        "averagePrice": 40
+      },
+      {
+        "id": 20770,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-035",
+        "cardGlobalKey": "OP05-035",
+        "cardName": "貝拉密",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22064,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-036",
+        "cardGlobalKey": "OP05-036",
+        "cardName": "莫內",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22542,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-037",
+        "cardGlobalKey": "OP05-037",
+        "cardName": "只有贏家才是正義!!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      },
+      {
+        "id": 21803,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-038",
+        "cardGlobalKey": "OP05-038",
+        "cardName": "舞踏石",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 22736,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-039",
+        "cardGlobalKey": "OP05-039",
+        "cardName": "黏稠流星",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 22149,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-040",
+        "cardGlobalKey": "OP05-040",
+        "cardName": "鳥籠",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 282308,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-041",
+        "cardGlobalKey": "OP05-041",
+        "cardName": "盃",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282309,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-041",
+        "cardGlobalKey": "OP05-041",
+        "cardName": "盃",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 190
+      },
+      {
+        "id": 22294,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-042",
+        "cardGlobalKey": "OP05-042",
+        "cardName": "一笑",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282310,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-043",
+        "cardGlobalKey": "OP05-043",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282311,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-043",
+        "cardGlobalKey": "OP05-043",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 125
+      },
+      {
+        "id": 20878,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-044",
+        "cardGlobalKey": "OP05-044",
+        "cardName": "約翰・巨人",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 21825,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-045",
+        "cardGlobalKey": "OP05-045",
+        "cardName": "史鐵雷斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20560,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-046",
+        "cardGlobalKey": "OP05-046",
+        "cardName": "達爾梅西亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22741,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-047",
+        "cardGlobalKey": "OP05-047",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 22281,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-048",
+        "cardGlobalKey": "OP05-048",
+        "cardName": "巴斯提憂",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20633,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-049",
+        "cardGlobalKey": "OP05-049",
+        "cardName": "八茶",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22008,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-050",
+        "cardGlobalKey": "OP05-050",
+        "cardName": "希娜",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282312,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-051",
+        "cardGlobalKey": "OP05-051",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282313,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-051",
+        "cardGlobalKey": "OP05-051",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 22023,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-052",
+        "cardGlobalKey": "OP05-052",
+        "cardName": "梅納德",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21021,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-053",
+        "cardGlobalKey": "OP05-053",
+        "cardName": "莫三比亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21757,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-054",
+        "cardGlobalKey": "OP05-054",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282314,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-055",
+        "cardGlobalKey": "OP05-055",
+        "cardName": "X・多雷古",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282315,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-055",
+        "cardGlobalKey": "OP05-055",
+        "cardName": "X・多雷古",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 21216,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-056",
+        "cardGlobalKey": "OP05-056",
+        "cardName": "X・巴雷爾茲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21472,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-057",
+        "cardGlobalKey": "OP05-057",
+        "cardName": "犬齧紅蓮",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 21354,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-058",
+        "cardGlobalKey": "OP05-058",
+        "cardName": "太浪費生命了!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20536,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-059",
+        "cardGlobalKey": "OP05-059",
+        "cardName": "準備開始「暴力的世界」吧!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282316,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-060",
+        "cardGlobalKey": "OP05-060",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 282317,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-060",
+        "cardGlobalKey": "OP05-060",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 1500,
+        "averagePrice": 1300
+      },
+      {
+        "id": 21058,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-061",
+        "cardGlobalKey": "OP05-061",
+        "cardName": "騙人八",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21936,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-062",
+        "cardGlobalKey": "OP05-062",
+        "cardName": "阿娜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 21251,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-063",
+        "cardGlobalKey": "OP05-063",
+        "cardName": "阿賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 20816,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-064",
+        "cardGlobalKey": "OP05-064",
+        "cardName": "奇拉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 21112,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-065",
+        "cardGlobalKey": "OP05-065",
+        "cardName": "香吉五郎",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 22505,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-066",
+        "cardGlobalKey": "OP05-066",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282318,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-067",
+        "cardGlobalKey": "OP05-067",
+        "cardName": "索隆十郎(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 282319,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-067",
+        "cardGlobalKey": "OP05-067",
+        "cardName": "索隆十郎(異圖卡)",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 390,
+        "averagePrice": 150
+      },
+      {
+        "id": 22103,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-068",
+        "cardGlobalKey": "OP05-068",
+        "cardName": "喬巴衛門",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282320,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-069",
+        "cardGlobalKey": "OP05-069",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 8
+      },
+      {
+        "id": 282321,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-069",
+        "cardGlobalKey": "OP05-069",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 180
+      },
+      {
+        "id": 282322,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-069",
+        "cardGlobalKey": "OP05-069",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 9999
+      },
+      {
+        "id": 20957,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-070",
+        "cardGlobalKey": "OP05-070",
+        "cardName": "佛朗之介",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22158,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-071",
+        "cardGlobalKey": "OP05-071",
+        "cardName": "培波",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 22497,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-072",
+        "cardGlobalKey": "OP05-072",
+        "cardName": "骨吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22181,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-073",
+        "cardGlobalKey": "OP05-073",
+        "cardName": "Miss雙手指(薩菈)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282323,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-074",
+        "cardGlobalKey": "OP05-074",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282324,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-074",
+        "cardGlobalKey": "OP05-074",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 75,
+        "averagePrice": 100
+      },
+      {
+        "id": 282325,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-074",
+        "cardGlobalKey": "OP05-074",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 18000,
+        "averagePrice": 0
+      },
+      {
+        "id": 21160,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-075",
+        "cardGlobalKey": "OP05-075",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21140,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-076",
+        "cardGlobalKey": "OP05-076",
+        "cardName": "在海上，海賊才是對手!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 22602,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-077",
+        "cardGlobalKey": "OP05-077",
+        "cardName": "伽馬刀",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 20891,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-078",
+        "cardGlobalKey": "OP05-078",
+        "cardName": "磁氣魔人",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21395,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-079",
+        "cardGlobalKey": "OP05-079",
+        "cardName": "碧歐菈",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21379,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-080",
+        "cardGlobalKey": "OP05-080",
+        "cardName": "伊力薩貝羅II世",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 22025,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-081",
+        "cardGlobalKey": "OP05-081",
+        "cardName": "單腳士兵",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20708,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-082",
+        "cardGlobalKey": "OP05-082",
+        "cardName": "白星",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 20625,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-083",
+        "cardGlobalKey": "OP05-083",
+        "cardName": "史泰利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21962,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-084",
+        "cardGlobalKey": "OP05-084",
+        "cardName": "查爾羅斯聖",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22603,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-085",
+        "cardGlobalKey": "OP05-085",
+        "cardName": "納菲魯塔利・寇布拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22318,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-086",
+        "cardGlobalKey": "OP05-086",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 21559,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-087",
+        "cardGlobalKey": "OP05-087",
+        "cardName": "白馬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 15
+      },
+      {
+        "id": 282326,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-088",
+        "cardGlobalKey": "OP05-088",
+        "cardName": "蔓雪莉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282327,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-088",
+        "cardGlobalKey": "OP05-088",
+        "cardName": "蔓雪莉",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 120
+      },
+      {
+        "id": 21327,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-089",
+        "cardGlobalKey": "OP05-089",
+        "cardName": "繆斯卡爾特聖",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21187,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-090",
+        "cardGlobalKey": "OP05-090",
+        "cardName": "利克‧德爾多3世",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282328,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-091",
+        "cardGlobalKey": "OP05-091",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282329,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-091",
+        "cardGlobalKey": "OP05-091",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 250
+      },
+      {
+        "id": 22081,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-092",
+        "cardGlobalKey": "OP05-092",
+        "cardName": "羅斯瓦德聖",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282330,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-093",
+        "cardGlobalKey": "OP05-093",
+        "cardName": "羅布・路基",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282331,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-093",
+        "cardGlobalKey": "OP05-093",
+        "cardName": "羅布・路基",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 45,
+        "averagePrice": 80
+      },
+      {
+        "id": 20695,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-094",
+        "cardGlobalKey": "OP05-094",
+        "cardName": "高級時裝拼湊★縫合",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 21261,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-095",
+        "cardGlobalKey": "OP05-095",
+        "cardName": "龍鉤爪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21210,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-096",
+        "cardGlobalKey": "OP05-096",
+        "cardName": "我要花5億買下來～～!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22189,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-097",
+        "cardGlobalKey": "OP05-097",
+        "cardName": "聖地馬力喬亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282332,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-098",
+        "cardGlobalKey": "OP05-098",
+        "cardName": "艾涅爾(異圖卡)",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 2
+      },
+      {
+        "id": 282333,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-098",
+        "cardGlobalKey": "OP05-098",
+        "cardName": "艾涅爾(異圖卡)",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 330,
+        "averagePrice": 330
+      },
+      {
+        "id": 22122,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-099",
+        "cardGlobalKey": "OP05-099",
+        "cardName": "亞馬遜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282334,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-100",
+        "cardGlobalKey": "OP05-100",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 282335,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-100",
+        "cardGlobalKey": "OP05-100",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 150
+      },
+      {
+        "id": 282336,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-100",
+        "cardGlobalKey": "OP05-100",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 1300
+      },
+      {
+        "id": 21673,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-101",
+        "cardGlobalKey": "OP05-101",
+        "cardName": "歐姆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 282337,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-102",
+        "cardGlobalKey": "OP05-102",
+        "cardName": "涅槃",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 282338,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-102",
+        "cardGlobalKey": "OP05-102",
+        "cardName": "涅槃",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 0
+      },
+      {
+        "id": 21892,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-103",
+        "cardGlobalKey": "OP05-103",
+        "cardName": "小悟",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22465,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-104",
+        "cardGlobalKey": "OP05-104",
+        "cardName": "柯妮絲",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 21859,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-105",
+        "cardGlobalKey": "OP05-105",
+        "cardName": "大悟",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 22489,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-106",
+        "cardGlobalKey": "OP05-106",
+        "cardName": "修羅(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 22230,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-107",
+        "cardGlobalKey": "OP05-107",
+        "cardName": "史培西中尉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20556,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-108",
+        "cardGlobalKey": "OP05-108",
+        "cardName": "諾蘭",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21413,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-109",
+        "cardGlobalKey": "OP05-109",
+        "cardName": "派葛亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20889,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-110",
+        "cardGlobalKey": "OP05-110",
+        "cardName": "聖潔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22626,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-111",
+        "cardGlobalKey": "OP05-111",
+        "cardName": "中悟",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22358,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-112",
+        "cardGlobalKey": "OP05-112",
+        "cardName": "麥金利隊長",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22530,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-113",
+        "cardGlobalKey": "OP05-113",
+        "cardName": "長大山",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20833,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-114",
+        "cardGlobalKey": "OP05-114",
+        "cardName": "神的制裁(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21202,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-115",
+        "cardGlobalKey": "OP05-115",
+        "cardName": "2億伏特雷神",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 22412,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-116",
+        "cardGlobalKey": "OP05-116",
+        "cardName": "3000萬伏特雷鳥",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21279,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-117",
+        "cardGlobalKey": "OP05-117",
+        "cardName": "神之島",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282339,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-118",
+        "cardGlobalKey": "OP05-118",
+        "cardName": "海道",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 12
+      },
+      {
+        "id": 282340,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-118",
+        "cardGlobalKey": "OP05-118",
+        "cardName": "海道",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 150
+      },
+      {
+        "id": 282341,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 180
+      },
+      {
+        "id": 282342,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 6000,
+        "averagePrice": 4250
+      },
+      {
+        "id": 282343,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 200000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282344,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "ST01-012",
+        "cardGlobalKey": "ST01-012",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282345,
+        "game": "onejp",
+        "packId": "OP-05",
+        "packName": "新時代的主角",
+        "packCardId": "ST01-012",
+        "cardGlobalKey": "ST01-012",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "SR 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:10+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 2000
+      }
+    ]
+  },
+  "message": "ok"
+}

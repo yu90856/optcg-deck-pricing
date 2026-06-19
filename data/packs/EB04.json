@@ -1,0 +1,1314 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 205595,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "000P",
+        "cardGlobalKey": "EB04-000P",
+        "cardName": "特殊補充包 EGGHEAD CRISIS(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-01-26T15:23:33+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 2200
+      },
+      {
+        "id": 205596,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "000P",
+        "cardGlobalKey": "EB04-000P",
+        "cardName": "特殊補充包 EGGHEAD CRISIS(未拆封)",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-01-26T15:23:33+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 30
+      },
+      {
+        "id": 206379,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "001",
+        "cardGlobalKey": "EB04-001",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-01-30T15:26:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 206380,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "001",
+        "cardGlobalKey": "EB04-001",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:13+08:00",
+        "lowestPrice": 3200,
+        "averagePrice": 3100
+      },
+      {
+        "id": 206381,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "002",
+        "cardGlobalKey": "EB04-002",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 12
+      },
+      {
+        "id": 206382,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "002",
+        "cardGlobalKey": "EB04-002",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:13+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 340
+      },
+      {
+        "id": 206383,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "003",
+        "cardGlobalKey": "EB04-003",
+        "cardName": "斯摩格＆達絲琪",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206384,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "003",
+        "cardGlobalKey": "EB04-003",
+        "cardName": "斯摩格＆達絲琪",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-01-30T15:26:13+08:00",
+        "lowestPrice": 1800,
+        "averagePrice": 1700
+      },
+      {
+        "id": 206385,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "004",
+        "cardGlobalKey": "EB04-004",
+        "cardName": "哲普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206386,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "005",
+        "cardGlobalKey": "EB04-005",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206387,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "006",
+        "cardGlobalKey": "EB04-006",
+        "cardName": "莫妲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206388,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "007",
+        "cardGlobalKey": "EB04-007",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:14+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 580
+      },
+      {
+        "id": 206389,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "007",
+        "cardGlobalKey": "EB04-007",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:14+08:00",
+        "lowestPrice": 2300,
+        "averagePrice": 2090
+      },
+      {
+        "id": 206390,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "008",
+        "cardGlobalKey": "EB04-008",
+        "cardName": "扭曲未來",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206391,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "009",
+        "cardGlobalKey": "EB04-009",
+        "cardName": "我的徒弟要出航了，就給點面子吧…",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 206392,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "010",
+        "cardGlobalKey": "EB04-010",
+        "cardName": "魯魯西亞王國",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206393,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "011",
+        "cardGlobalKey": "EB04-011",
+        "cardName": "鱗片",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206394,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "012",
+        "cardGlobalKey": "EB04-012",
+        "cardName": "菊之丞",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 13
+      },
+      {
+        "id": 206395,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "012",
+        "cardGlobalKey": "EB04-012",
+        "cardName": "菊之丞",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 49
+      },
+      {
+        "id": 206396,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "013",
+        "cardGlobalKey": "EB04-013",
+        "cardName": "凱洛特",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 10
+      },
+      {
+        "id": 206397,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "013",
+        "cardGlobalKey": "EB04-013",
+        "cardName": "凱洛特",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 145,
+        "averagePrice": 145
+      },
+      {
+        "id": 206398,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "014",
+        "cardGlobalKey": "EB04-014",
+        "cardName": "光月鋤燒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206399,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "015",
+        "cardGlobalKey": "EB04-015",
+        "cardName": "吉貝爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 206400,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "016",
+        "cardGlobalKey": "EB04-016",
+        "cardName": "鳥類",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206401,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "017",
+        "cardGlobalKey": "EB04-017",
+        "cardName": "神秘姆斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 206402,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "018",
+        "cardGlobalKey": "EB04-018",
+        "cardName": "梅卡洛",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 206403,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "018",
+        "cardGlobalKey": "EB04-018",
+        "cardName": "梅卡洛",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 488,
+        "averagePrice": 400
+      },
+      {
+        "id": 206404,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "019",
+        "cardGlobalKey": "EB04-019",
+        "cardName": "電爪",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 206405,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "020",
+        "cardGlobalKey": "EB04-020",
+        "cardName": "鮫瓦正拳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206406,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "021",
+        "cardGlobalKey": "EB04-021",
+        "cardName": "尹卡蘭姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 206407,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "022",
+        "cardGlobalKey": "EB04-022",
+        "cardName": "一笑",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 7
+      },
+      {
+        "id": 206408,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "022",
+        "cardGlobalKey": "EB04-022",
+        "cardName": "一笑",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 120
+      },
+      {
+        "id": 206409,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "023",
+        "cardGlobalKey": "EB04-023",
+        "cardName": "加卡＆貝爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 206410,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "024",
+        "cardGlobalKey": "EB04-024",
+        "cardName": "蒂菈歌妲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 206411,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "025",
+        "cardGlobalKey": "EB04-025",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 32
+      },
+      {
+        "id": 206412,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "025",
+        "cardGlobalKey": "EB04-025",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 280,
+        "averagePrice": 400
+      },
+      {
+        "id": 206413,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "026",
+        "cardGlobalKey": "EB04-026",
+        "cardName": "布魯格拉絲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 206414,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "027",
+        "cardGlobalKey": "EB04-027",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 206415,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "028",
+        "cardGlobalKey": "EB04-028",
+        "cardName": "冰凍時刻",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 15
+      },
+      {
+        "id": 206416,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "029",
+        "cardGlobalKey": "EB04-029",
+        "cardName": "我聽見…女性淚水落下的聲音",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206417,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "030",
+        "cardGlobalKey": "EB04-030",
+        "cardName": "海道",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 206418,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "031",
+        "cardGlobalKey": "EB04-031",
+        "cardName": "KING",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 206419,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "031",
+        "cardGlobalKey": "EB04-031",
+        "cardName": "KING",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:17+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 206420,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "032",
+        "cardGlobalKey": "EB04-032",
+        "cardName": "QUEEN",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 206421,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "033",
+        "cardGlobalKey": "EB04-033",
+        "cardName": "火爆鬥球怪兄弟",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 206422,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "034",
+        "cardGlobalKey": "EB04-034",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206423,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "035",
+        "cardGlobalKey": "EB04-035",
+        "cardName": "砍人鐮藏",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 206424,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "036",
+        "cardGlobalKey": "EB04-036",
+        "cardName": "弗克西",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206425,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "036",
+        "cardGlobalKey": "EB04-036",
+        "cardName": "弗克西",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 100
+      },
+      {
+        "id": 206426,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "037",
+        "cardGlobalKey": "EB04-037",
+        "cardName": "波琪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206427,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "038",
+        "cardGlobalKey": "EB04-038",
+        "cardName": "羅希南特＆羅",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 13
+      },
+      {
+        "id": 206428,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "038",
+        "cardGlobalKey": "EB04-038",
+        "cardName": "羅希南特＆羅",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 850,
+        "averagePrice": 1000
+      },
+      {
+        "id": 206429,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "039",
+        "cardGlobalKey": "EB04-039",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 206430,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "039",
+        "cardGlobalKey": "EB04-039",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 999,
+        "averagePrice": 900
+      },
+      {
+        "id": 206431,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "040",
+        "cardGlobalKey": "EB04-040",
+        "cardName": "火龍大炬",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 206432,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "041",
+        "cardGlobalKey": "EB04-041",
+        "cardName": "漆黑隱伏",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206433,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "042",
+        "cardGlobalKey": "EB04-042",
+        "cardName": "阿爾法",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206434,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "043",
+        "cardGlobalKey": "EB04-043",
+        "cardName": "卡古",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206435,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "043",
+        "cardGlobalKey": "EB04-043",
+        "cardName": "卡古",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 65,
+        "averagePrice": 100
+      },
+      {
+        "id": 206436,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "044",
+        "cardGlobalKey": "EB04-044",
+        "cardName": "克比",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 20
+      },
+      {
+        "id": 206437,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "044",
+        "cardGlobalKey": "EB04-044",
+        "cardName": "克比",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 340,
+        "averagePrice": 400
+      },
+      {
+        "id": 206466,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "044",
+        "cardGlobalKey": "EB04-044",
+        "cardName": "克比",
+        "rare": [
+          "SR漫畫"
+        ],
+        "createdTime": "2026-01-30T15:33:09+08:00",
+        "lowestPrice": 18000,
+        "averagePrice": 13000
+      },
+      {
+        "id": 206438,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "045",
+        "cardGlobalKey": "EB04-045",
+        "cardName": "金妮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206439,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "046",
+        "cardGlobalKey": "EB04-046",
+        "cardName": "朵爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 206440,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "047",
+        "cardGlobalKey": "EB04-047",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 206441,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "048",
+        "cardGlobalKey": "EB04-048",
+        "cardName": "羅布・路基",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 7
+      },
+      {
+        "id": 206442,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "048",
+        "cardGlobalKey": "EB04-048",
+        "cardName": "羅布・路基",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 206443,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "049",
+        "cardGlobalKey": "EB04-049",
+        "cardName": "指槍 黃蓮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206444,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "050",
+        "cardGlobalKey": "EB04-050",
+        "cardName": "由我來調教你們♡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 206445,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "051",
+        "cardGlobalKey": "EB04-051",
+        "cardName": "艾米思",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206446,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "052",
+        "cardGlobalKey": "EB04-052",
+        "cardName": "香吉士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 206447,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "052",
+        "cardGlobalKey": "EB04-052",
+        "cardName": "香吉士",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 180
+      },
+      {
+        "id": 206448,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "053",
+        "cardGlobalKey": "EB04-053",
+        "cardName": "戰桃丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 206449,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "054",
+        "cardGlobalKey": "EB04-054",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 206450,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "055",
+        "cardGlobalKey": "EB04-055",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206451,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "056",
+        "cardGlobalKey": "EB04-056",
+        "cardName": "和平主義者",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 206452,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "057",
+        "cardGlobalKey": "EB04-057",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 206453,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "058",
+        "cardGlobalKey": "EB04-058",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 1200,
+        "averagePrice": 1210
+      },
+      {
+        "id": 206454,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "058",
+        "cardGlobalKey": "EB04-058",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 2700,
+        "averagePrice": 2400
+      },
+      {
+        "id": 206455,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "059",
+        "cardGlobalKey": "EB04-059",
+        "cardName": "黑繩・大龍卷",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 206456,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "060",
+        "cardGlobalKey": "EB04-060",
+        "cardName": "橡膠鷹槍亂打",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 206457,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "061",
+        "cardGlobalKey": "EB04-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 420
+      },
+      {
+        "id": 206458,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "061",
+        "cardGlobalKey": "EB04-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2026-01-30T15:26:21+08:00",
+        "lowestPrice": 1200,
+        "averagePrice": 2480
+      },
+      {
+        "id": 206463,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "EB01-023",
+        "cardGlobalKey": "EB01-023",
+        "cardName": "艾德華・衛伯",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-01-30T15:28:54+08:00",
+        "lowestPrice": 699,
+        "averagePrice": 689
+      },
+      {
+        "id": 206465,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "OP11-106",
+        "cardGlobalKey": "OP11-106",
+        "cardName": "宙斯",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-01-30T15:30:06+08:00",
+        "lowestPrice": 8400,
+        "averagePrice": 8666
+      },
+      {
+        "id": 206467,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "PRB02-006",
+        "cardGlobalKey": "PRB02-006",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-01-30T15:35:07+08:00",
+        "lowestPrice": 22000,
+        "averagePrice": 8000
+      },
+      {
+        "id": 206468,
+        "game": "onejp",
+        "packId": "EB04",
+        "packName": "蛋頭島危機",
+        "packCardId": "PRB02-014",
+        "cardGlobalKey": "PRB02-014",
+        "cardName": "薩波",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-01-30T15:35:07+08:00",
+        "lowestPrice": 4000,
+        "averagePrice": 3500
+      }
+    ]
+  },
+  "message": "ok"
+}

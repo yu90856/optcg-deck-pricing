@@ -1,0 +1,1239 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 279179,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "000P",
+        "cardGlobalKey": "EB-01-000P",
+        "cardName": "回憶收藏 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 65000,
+        "averagePrice": 0
+      },
+      {
+        "id": 279180,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "000P",
+        "cardGlobalKey": "EB-01-000P",
+        "cardName": "回憶收藏 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 129,
+        "averagePrice": 129
+      },
+      {
+        "id": 279181,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-001",
+        "cardGlobalKey": "EB01-001",
+        "cardName": "光月御田",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 279182,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-001",
+        "cardGlobalKey": "EB01-001",
+        "cardName": "光月御田",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 400
+      },
+      {
+        "id": 20887,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-002",
+        "cardGlobalKey": "EB01-002",
+        "cardName": "以藏",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279183,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-003",
+        "cardGlobalKey": "EB01-003",
+        "cardName": "基德&奇拉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279184,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-003",
+        "cardGlobalKey": "EB01-003",
+        "cardName": "基德&奇拉",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 80
+      },
+      {
+        "id": 20665,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-004",
+        "cardGlobalKey": "EB01-004",
+        "cardName": "寇沙",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 21005,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-005",
+        "cardGlobalKey": "EB01-005",
+        "cardName": "多馬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 1
+      },
+      {
+        "id": 279185,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-006",
+        "cardGlobalKey": "EB01-006",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 289,
+        "averagePrice": 289
+      },
+      {
+        "id": 279186,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-006",
+        "cardGlobalKey": "EB01-006",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 999,
+        "averagePrice": 550
+      },
+      {
+        "id": 279187,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-006",
+        "cardGlobalKey": "EB01-006",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22608,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-007",
+        "cardGlobalKey": "EB01-007",
+        "cardName": "大和",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22144,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-008",
+        "cardGlobalKey": "EB01-008",
+        "cardName": "小歐斯Jr.",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 21627,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-009",
+        "cardGlobalKey": "EB01-009",
+        "cardName": "少囉唆！走吧！",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22729,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-010",
+        "cardGlobalKey": "EB01-010",
+        "cardName": "你怎麼可能…打得贏我！",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 22058,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-011",
+        "cardGlobalKey": "EB01-011",
+        "cardName": "迷你梅利2號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 279188,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-012",
+        "cardGlobalKey": "EB01-012",
+        "cardName": "卡文迪許(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 25
+      },
+      {
+        "id": 279189,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-012",
+        "cardGlobalKey": "EB01-012",
+        "cardName": "卡文迪許(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 140,
+        "averagePrice": 150
+      },
+      {
+        "id": 279190,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-013",
+        "cardGlobalKey": "EB01-013",
+        "cardName": "光月日和",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 279191,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-013",
+        "cardGlobalKey": "EB01-013",
+        "cardName": "光月日和",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 142,
+        "averagePrice": 200
+      },
+      {
+        "id": 20811,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-014",
+        "cardGlobalKey": "EB01-014",
+        "cardName": "香吉士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 21980,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-015",
+        "cardGlobalKey": "EB01-015",
+        "cardName": "刮盤人・亞普",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 20791,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-016",
+        "cardGlobalKey": "EB01-016",
+        "cardName": "鬢豪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20605,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-017",
+        "cardGlobalKey": "EB01-017",
+        "cardName": "布魯諾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21436,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-018",
+        "cardGlobalKey": "EB01-018",
+        "cardName": "大山",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20924,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-019",
+        "cardGlobalKey": "EB01-019",
+        "cardName": "盾白線",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21006,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-020",
+        "cardGlobalKey": "EB01-020",
+        "cardName": "移植",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279192,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-021",
+        "cardGlobalKey": "EB01-021",
+        "cardName": "般若拔",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 279193,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-021",
+        "cardGlobalKey": "EB01-021",
+        "cardName": "般若拔",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 200
+      },
+      {
+        "id": 279194,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-022",
+        "cardGlobalKey": "EB01-022",
+        "cardName": "雷電",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279195,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-022",
+        "cardGlobalKey": "EB01-022",
+        "cardName": "雷電",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 60
+      },
+      {
+        "id": 20570,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-023",
+        "cardGlobalKey": "EB01-023",
+        "cardName": "艾德華・衛伯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 10
+      },
+      {
+        "id": 20976,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-024",
+        "cardGlobalKey": "EB01-024",
+        "cardName": "哈姆雷特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20982,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-025",
+        "cardGlobalKey": "EB01-025",
+        "cardName": "佛特黎克斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 20812,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-026",
+        "cardGlobalKey": "EB01-026",
+        "cardName": "貝雷特王子",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279196,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-027",
+        "cardGlobalKey": "EB01-027",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 279197,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-027",
+        "cardGlobalKey": "EB01-027",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 0
+      },
+      {
+        "id": 21464,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-028",
+        "cardGlobalKey": "EB01-028",
+        "cardName": "橡膠拳王螺旋彈",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 60
+      },
+      {
+        "id": 21551,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-029",
+        "cardGlobalKey": "EB01-029",
+        "cardName": "抱歉，我要死了",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22550,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-030",
+        "cardGlobalKey": "EB01-030",
+        "cardName": "羅格鎮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279198,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-031",
+        "cardGlobalKey": "EB01-031",
+        "cardName": "卡莉法",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 6
+      },
+      {
+        "id": 279199,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-031",
+        "cardGlobalKey": "EB01-031",
+        "cardName": "卡莉法",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 100
+      },
+      {
+        "id": 21065,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-032",
+        "cardGlobalKey": "EB01-032",
+        "cardName": "軍狼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22370,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-033",
+        "cardGlobalKey": "EB01-033",
+        "cardName": "布魯諾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279200,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-034",
+        "cardGlobalKey": "EB01-034",
+        "cardName": "Miss星期三",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 15
+      },
+      {
+        "id": 279201,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-034",
+        "cardGlobalKey": "EB01-034",
+        "cardName": "Miss星期三",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 150
+      },
+      {
+        "id": 22042,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-035",
+        "cardGlobalKey": "EB01-035",
+        "cardName": "Miss星期一",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21348,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-036",
+        "cardGlobalKey": "EB01-036",
+        "cardName": "米諾吉娃娃",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 21365,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-037",
+        "cardGlobalKey": "EB01-037",
+        "cardName": "Mr.9",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22533,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-038",
+        "cardGlobalKey": "EB01-038",
+        "cardName": "人妖道",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21945,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-039",
+        "cardGlobalKey": "EB01-039",
+        "cardName": "降三世引奈落",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279202,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-040",
+        "cardGlobalKey": "EB01-040",
+        "cardName": "居魯士",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 1
+      },
+      {
+        "id": 279203,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-040",
+        "cardGlobalKey": "EB01-040",
+        "cardName": "居魯士",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 199,
+        "averagePrice": 300
+      },
+      {
+        "id": 20687,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-041",
+        "cardGlobalKey": "EB01-041",
+        "cardName": "可樂克斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22734,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-042",
+        "cardGlobalKey": "EB01-042",
+        "cardName": "史卡雷多",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21846,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-043",
+        "cardGlobalKey": "EB01-043",
+        "cardName": "斯帕達因",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 6
+      },
+      {
+        "id": 20658,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-044",
+        "cardGlobalKey": "EB01-044",
+        "cardName": "法古佛立德",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21671,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-045",
+        "cardGlobalKey": "EB01-045",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 279204,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-046",
+        "cardGlobalKey": "EB01-046",
+        "cardName": "布魯克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 279205,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-046",
+        "cardGlobalKey": "EB01-046",
+        "cardName": "布魯克",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 180
+      },
+      {
+        "id": 20964,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-047",
+        "cardGlobalKey": "EB01-047",
+        "cardName": "拉布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 279206,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-048",
+        "cardGlobalKey": "EB01-048",
+        "cardName": "拉布",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 279207,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-048",
+        "cardGlobalKey": "EB01-048",
+        "cardName": "拉布",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 150
+      },
+      {
+        "id": 279208,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-049",
+        "cardGlobalKey": "EB01-049",
+        "cardName": "T彭恩",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279209,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-049",
+        "cardGlobalKey": "EB01-049",
+        "cardName": "T彭恩",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 80
+      },
+      {
+        "id": 20930,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-050",
+        "cardGlobalKey": "EB01-050",
+        "cardName": "我想活下去！",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 20783,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-051",
+        "cardGlobalKey": "EB01-051",
+        "cardName": "指槍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279210,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-052",
+        "cardGlobalKey": "EB01-052",
+        "cardName": "碧歐菈",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 279211,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-052",
+        "cardGlobalKey": "EB01-052",
+        "cardName": "碧歐菈",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 120
+      },
+      {
+        "id": 21953,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-053",
+        "cardGlobalKey": "EB01-053",
+        "cardName": "葛斯提諾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 22326,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-054",
+        "cardGlobalKey": "EB01-054",
+        "cardName": "甘・福爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21044,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-055",
+        "cardGlobalKey": "EB01-055",
+        "cardName": "夏洛特・肯珀特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 279212,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-056",
+        "cardGlobalKey": "EB01-056",
+        "cardName": "夏洛特・芙蘭佩",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 279213,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-056",
+        "cardGlobalKey": "EB01-056",
+        "cardName": "夏洛特・芙蘭佩",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 279214,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-057",
+        "cardGlobalKey": "EB01-057",
+        "cardName": "白星",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279215,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-057",
+        "cardGlobalKey": "EB01-057",
+        "cardName": "白星",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 190,
+        "averagePrice": 150
+      },
+      {
+        "id": 22564,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-058",
+        "cardGlobalKey": "EB01-058",
+        "cardName": "蒙布朗・庫力凱",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 21268,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-059",
+        "cardGlobalKey": "EB01-059",
+        "cardName": "雷迎",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 35,
+        "averagePrice": 35
+      },
+      {
+        "id": 22551,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-060",
+        "cardGlobalKey": "EB01-060",
+        "cardName": "我乃神是也",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 279216,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-061",
+        "cardGlobalKey": "EB01-061",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 100
+      },
+      {
+        "id": 279217,
+        "game": "onejp",
+        "packId": "EB-01",
+        "packName": "回憶收藏",
+        "packCardId": "EB01-061",
+        "cardGlobalKey": "EB01-061",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 580,
+        "averagePrice": 600
+      }
+    ]
+  },
+  "message": "ok"
+}

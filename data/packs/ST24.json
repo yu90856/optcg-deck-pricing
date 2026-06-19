@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 320532,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "000T",
+        "cardGlobalKey": "ST24-000T",
+        "cardName": "起始牌組 綠 珠寶・波妮(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-05-09T18:12:09+08:00",
+        "lowestPrice": 220,
+        "averagePrice": 340
+      },
+      {
+        "id": 173445,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "EB01-015",
+        "cardGlobalKey": "EB01-015",
+        "cardName": "刮盤人・亞普",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173446,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-019",
+        "cardGlobalKey": "OP07-019",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 173447,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-021",
+        "cardGlobalKey": "OP07-021",
+        "cardName": "烏魯基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173448,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-023",
+        "cardGlobalKey": "OP07-023",
+        "cardName": "格列佛",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173449,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-025",
+        "cardGlobalKey": "OP07-025",
+        "cardName": "柯列佛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173450,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-031",
+        "cardGlobalKey": "OP07-031",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173451,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-033",
+        "cardGlobalKey": "OP07-033",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 173452,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-034",
+        "cardGlobalKey": "OP07-034",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173453,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-036",
+        "cardGlobalKey": "OP07-036",
+        "cardName": "鬼氣 九刀流 阿修羅 魔九閃",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 173454,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "OP07-037",
+        "cardGlobalKey": "OP07-037",
+        "cardName": "我～還～要～披薩!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:27:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173455,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "ST24-001",
+        "cardGlobalKey": "ST24-001",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:29:28+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 173456,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "ST24-002",
+        "cardGlobalKey": "ST24-002",
+        "cardName": "基德＆奇拉",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:29:29+08:00",
+        "lowestPrice": 39,
+        "averagePrice": 40
+      },
+      {
+        "id": 173457,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "ST24-003",
+        "cardGlobalKey": "ST24-003",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:29:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173458,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "ST24-004",
+        "cardGlobalKey": "ST24-004",
+        "cardName": "羅＆培波",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:29:29+08:00",
+        "lowestPrice": 74,
+        "averagePrice": 80
+      },
+      {
+        "id": 173459,
+        "game": "onejp",
+        "packId": "ST24",
+        "packName": "起始牌組 綠 珠寶・波妮",
+        "packCardId": "ST24-005",
+        "cardGlobalKey": "ST24-005",
+        "cardName": "X・多雷古",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:29:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      }
+    ]
+  },
+  "message": "ok"
+}

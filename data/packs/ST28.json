@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 320531,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "000T",
+        "cardGlobalKey": "ST28-000T",
+        "cardName": "起始牌組 綠黃 大和(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-05-09T18:12:27+08:00",
+        "lowestPrice": 170,
+        "averagePrice": 150
+      },
+      {
+        "id": 173505,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP06-022",
+        "cardGlobalKey": "OP06-022",
+        "cardName": "大和",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-07-11T15:57:27+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 120
+      },
+      {
+        "id": 173506,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP06-100",
+        "cardGlobalKey": "OP06-100",
+        "cardName": "犬嵐",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:57:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173507,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP06-103",
+        "cardGlobalKey": "OP06-103",
+        "cardName": "河松",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:57:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173508,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP06-104",
+        "cardGlobalKey": "OP06-104",
+        "cardName": "菊之丞(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:57:27+08:00",
+        "lowestPrice": 13,
+        "averagePrice": 15
+      },
+      {
+        "id": 173509,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP06-109",
+        "cardGlobalKey": "OP06-109",
+        "cardName": "傳二郎",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:57:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173510,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP06-110",
+        "cardGlobalKey": "OP06-110",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:57:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173511,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP06-112",
+        "cardGlobalKey": "OP06-112",
+        "cardName": "雷藏",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:57:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173512,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP07-116",
+        "cardGlobalKey": "OP07-116",
+        "cardName": "焰裂斬",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:57:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 173513,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "OP09-035",
+        "cardGlobalKey": "OP09-035",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:57:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173514,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "ST13-016",
+        "cardGlobalKey": "ST13-016",
+        "cardName": "大和",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:57:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 173515,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "ST28-001",
+        "cardGlobalKey": "ST28-001",
+        "cardName": "阿修羅童子",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:59:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173516,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "ST28-002",
+        "cardGlobalKey": "ST28-002",
+        "cardName": "以藏",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:59:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173517,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "ST28-003",
+        "cardGlobalKey": "ST28-003",
+        "cardName": "錦右衛門",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:59:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 173518,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "ST28-004",
+        "cardGlobalKey": "ST28-004",
+        "cardName": "光月桃之助",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:59:11+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 4
+      },
+      {
+        "id": 173519,
+        "game": "onejp",
+        "packId": "ST28",
+        "packName": "起始牌組 綠黃 大和",
+        "packCardId": "ST28-005",
+        "cardGlobalKey": "ST28-005",
+        "cardName": "大和",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:59:11+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 70
+      }
+    ]
+  },
+  "message": "ok"
+}

@@ -1,0 +1,2649 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282724,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP13-000P",
+        "cardName": "傳承的意志 補充包(未開封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 5000,
+        "averagePrice": 4700
+      },
+      {
+        "id": 282725,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP13-000P",
+        "cardName": "傳承的意志 補充包(未開封)",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 76,
+        "averagePrice": 80
+      },
+      {
+        "id": 177867,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "EB02-028",
+        "cardGlobalKey": "EB02-028",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-08-23T17:07:32+08:00",
+        "lowestPrice": 1500,
+        "averagePrice": 1500
+      },
+      {
+        "id": 177868,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP07-111",
+        "cardGlobalKey": "OP07-111",
+        "cardName": "莉莉絲",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-08-23T17:07:32+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 750
+      },
+      {
+        "id": 177869,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP07-118",
+        "cardGlobalKey": "OP07-118",
+        "cardName": "薩波",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-08-23T17:07:32+08:00",
+        "lowestPrice": 1380,
+        "averagePrice": 1380
+      },
+      {
+        "id": 282726,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP09-004",
+        "cardGlobalKey": "OP09-004",
+        "cardName": "傑克",
+        "rare": [
+          "三週年特殊-A"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 16500,
+        "averagePrice": 13000
+      },
+      {
+        "id": 282727,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP09-004",
+        "cardGlobalKey": "OP09-004",
+        "cardName": "傑克",
+        "rare": [
+          "三週年特殊-B"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 15000,
+        "averagePrice": 0
+      },
+      {
+        "id": 177871,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP09-009",
+        "cardGlobalKey": "OP09-009",
+        "cardName": "班・貝克曼",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-08-23T17:07:33+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 750
+      },
+      {
+        "id": 177872,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP09-118",
+        "cardGlobalKey": "OP09-118",
+        "cardName": "哥爾・D・羅傑",
+        "rare": [
+          "手配書"
+        ],
+        "createdTime": "2025-08-23T17:07:33+08:00",
+        "lowestPrice": 2600,
+        "averagePrice": 2800
+      },
+      {
+        "id": 177875,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP09-119",
+        "cardGlobalKey": "OP09-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-08-23T17:15:53+08:00",
+        "lowestPrice": 7900,
+        "averagePrice": 5900
+      },
+      {
+        "id": 177874,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP10-030",
+        "cardGlobalKey": "OP10-030",
+        "cardName": "斯摩格",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-08-23T17:07:33+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 950
+      },
+      {
+        "id": 282728,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-001",
+        "cardGlobalKey": "OP13-001",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282729,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-001",
+        "cardGlobalKey": "OP13-001",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 950,
+        "averagePrice": 850
+      },
+      {
+        "id": 282730,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-002",
+        "cardGlobalKey": "OP13-002",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282731,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-002",
+        "cardGlobalKey": "OP13-002",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 480,
+        "averagePrice": 529
+      },
+      {
+        "id": 282732,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-003",
+        "cardGlobalKey": "OP13-003",
+        "cardName": "哥爾・D・羅傑",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282733,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-003",
+        "cardGlobalKey": "OP13-003",
+        "cardName": "哥爾・D・羅傑",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 300
+      },
+      {
+        "id": 282734,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-004",
+        "cardGlobalKey": "OP13-004",
+        "cardName": "薩波",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282735,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-004",
+        "cardGlobalKey": "OP13-004",
+        "cardName": "薩波",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 198,
+        "averagePrice": 165
+      },
+      {
+        "id": 177751,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-005",
+        "cardGlobalKey": "OP13-005",
+        "cardName": "雷電",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177752,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-006",
+        "cardGlobalKey": "OP13-006",
+        "cardName": "烏普・史拉布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282736,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-007",
+        "cardGlobalKey": "OP13-007",
+        "cardName": "艾斯＆薩波＆魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 20
+      },
+      {
+        "id": 282737,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-007",
+        "cardGlobalKey": "OP13-007",
+        "cardName": "艾斯＆薩波＆魯夫",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 750,
+        "averagePrice": 400
+      },
+      {
+        "id": 177754,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-008",
+        "cardGlobalKey": "OP13-008",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177755,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-009",
+        "cardGlobalKey": "OP13-009",
+        "cardName": "卡莉・達坦",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177756,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-010",
+        "cardGlobalKey": "OP13-010",
+        "cardName": "近海霸主",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177757,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-011",
+        "cardGlobalKey": "OP13-011",
+        "cardName": "納菲魯塔利・寇布拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 177758,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-012",
+        "cardGlobalKey": "OP13-012",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177759,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-013",
+        "cardGlobalKey": "OP13-013",
+        "cardName": "西格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177760,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-014",
+        "cardGlobalKey": "OP13-014",
+        "cardName": "波特卡斯・D・露珠",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177761,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-015",
+        "cardGlobalKey": "OP13-015",
+        "cardName": "瑪姬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282738,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-016",
+        "cardGlobalKey": "OP13-016",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282739,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-016",
+        "cardGlobalKey": "OP13-016",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 272
+      },
+      {
+        "id": 177763,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-017",
+        "cardGlobalKey": "OP13-017",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 177764,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-018",
+        "cardGlobalKey": "OP13-018",
+        "cardName": "瓦波爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177765,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-019",
+        "cardGlobalKey": "OP13-019",
+        "cardName": "「火焰」說無法原諒你!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 177766,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-020",
+        "cardGlobalKey": "OP13-020",
+        "cardName": "拳・骨・隕石",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177767,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-021",
+        "cardGlobalKey": "OP13-021",
+        "cardName": "橡膠槍亂打",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177768,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-022",
+        "cardGlobalKey": "OP13-022",
+        "cardName": "佛夏村",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282740,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-023",
+        "cardGlobalKey": "OP13-023",
+        "cardName": "美音",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 7
+      },
+      {
+        "id": 282741,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-023",
+        "cardGlobalKey": "OP13-023",
+        "cardName": "美音",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 130,
+        "averagePrice": 100
+      },
+      {
+        "id": 177770,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-024",
+        "cardGlobalKey": "OP13-024",
+        "cardName": "高登",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177771,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-025",
+        "cardGlobalKey": "OP13-025",
+        "cardName": "克比",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177772,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-026",
+        "cardGlobalKey": "OP13-026",
+        "cardName": "千陽君",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 282742,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-027",
+        "cardGlobalKey": "OP13-027",
+        "cardName": "香吉士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282743,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-027",
+        "cardGlobalKey": "OP13-027",
+        "cardName": "香吉士",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 200
+      },
+      {
+        "id": 282744,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-028",
+        "cardGlobalKey": "OP13-028",
+        "cardName": "傑克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 282745,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-028",
+        "cardGlobalKey": "OP13-028",
+        "cardName": "傑克",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 143
+      },
+      {
+        "id": 177775,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-029",
+        "cardGlobalKey": "OP13-029",
+        "cardName": "吉貝爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177776,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-030",
+        "cardGlobalKey": "OP13-030",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177777,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-031",
+        "cardGlobalKey": "OP13-031",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 177778,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-032",
+        "cardGlobalKey": "OP13-032",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 177779,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-033",
+        "cardGlobalKey": "OP13-033",
+        "cardName": "佛朗基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177780,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-034",
+        "cardGlobalKey": "OP13-034",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177781,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-035",
+        "cardGlobalKey": "OP13-035",
+        "cardName": "培波",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177782,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-036",
+        "cardGlobalKey": "OP13-036",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177783,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-037",
+        "cardGlobalKey": "OP13-037",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 177784,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-038",
+        "cardGlobalKey": "OP13-038",
+        "cardName": "橡膠象槍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 177785,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-039",
+        "cardGlobalKey": "OP13-039",
+        "cardName": "橡膠蛇槍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177786,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-040",
+        "cardGlobalKey": "OP13-040",
+        "cardName": "既然知道他很強…一開始就使出全力吧!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 6
+      },
+      {
+        "id": 177787,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-041",
+        "cardGlobalKey": "OP13-041",
+        "cardName": "以藏",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282746,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-042",
+        "cardGlobalKey": "OP13-042",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 15
+      },
+      {
+        "id": 282747,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-042",
+        "cardGlobalKey": "OP13-042",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 353
+      },
+      {
+        "id": 177789,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-043",
+        "cardGlobalKey": "OP13-043",
+        "cardName": "玉兒",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-08-23T16:55:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 177790,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-044",
+        "cardGlobalKey": "OP13-044",
+        "cardName": "克利耶爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177791,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-045",
+        "cardGlobalKey": "OP13-045",
+        "cardName": "哈爾達",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177792,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-046",
+        "cardGlobalKey": "OP13-046",
+        "cardName": "比斯塔",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 177793,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-047",
+        "cardGlobalKey": "OP13-047",
+        "cardName": "佛薩",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177794,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-048",
+        "cardGlobalKey": "OP13-048",
+        "cardName": "布朗明哥",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177795,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-049",
+        "cardGlobalKey": "OP13-049",
+        "cardName": "布雷海姆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177796,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-050",
+        "cardGlobalKey": "OP13-050",
+        "cardName": "波雅・桑塔索妮雅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282748,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-051",
+        "cardGlobalKey": "OP13-051",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282749,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-051",
+        "cardGlobalKey": "OP13-051",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 740,
+        "averagePrice": 500
+      },
+      {
+        "id": 177798,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-052",
+        "cardGlobalKey": "OP13-052",
+        "cardName": "波雅・瑪莉哥德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177799,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-053",
+        "cardGlobalKey": "OP13-053",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282750,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-054",
+        "cardGlobalKey": "OP13-054",
+        "cardName": "大和",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282751,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-054",
+        "cardGlobalKey": "OP13-054",
+        "cardName": "大和",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 330,
+        "averagePrice": 480
+      },
+      {
+        "id": 177801,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-055",
+        "cardGlobalKey": "OP13-055",
+        "cardName": "落葉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177802,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-056",
+        "cardGlobalKey": "OP13-056",
+        "cardName": "小歐斯Jr.",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177803,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-057",
+        "cardGlobalKey": "OP13-057",
+        "cardName": "屈服在「力量」之下，就沒有生為男人的意義了",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 177804,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-058",
+        "cardGlobalKey": "OP13-058",
+        "cardName": "鳳梨碎石",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177805,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-059",
+        "cardGlobalKey": "OP13-059",
+        "cardName": "明亮龐克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177806,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-060",
+        "cardGlobalKey": "OP13-060",
+        "cardName": "天月時",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177807,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-061",
+        "cardGlobalKey": "OP13-061",
+        "cardName": "犬嵐",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177808,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-062",
+        "cardGlobalKey": "OP13-062",
+        "cardName": "可樂克斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177809,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-063",
+        "cardGlobalKey": "OP13-063",
+        "cardName": "光月御田",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282752,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-064",
+        "cardGlobalKey": "OP13-064",
+        "cardName": "哥爾・D・羅傑",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282753,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-064",
+        "cardGlobalKey": "OP13-064",
+        "cardName": "哥爾・D・羅傑",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 95,
+        "averagePrice": 150
+      },
+      {
+        "id": 282754,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-065",
+        "cardGlobalKey": "OP13-065",
+        "cardName": "傑克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282755,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-065",
+        "cardGlobalKey": "OP13-065",
+        "cardName": "傑克",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 135,
+        "averagePrice": 150
+      },
+      {
+        "id": 282756,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-066",
+        "cardGlobalKey": "OP13-066",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282757,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-066",
+        "cardGlobalKey": "OP13-066",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 150
+      },
+      {
+        "id": 177813,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-067",
+        "cardGlobalKey": "OP13-067",
+        "cardName": "斯克巴・賈巴",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 177814,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-068",
+        "cardGlobalKey": "OP13-068",
+        "cardName": "道格拉斯・巴列德",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177815,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-069",
+        "cardGlobalKey": "OP13-069",
+        "cardName": "湯姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177816,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-070",
+        "cardGlobalKey": "OP13-070",
+        "cardName": "拿破崙",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177817,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-071",
+        "cardGlobalKey": "OP13-071",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177818,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-072",
+        "cardGlobalKey": "OP13-072",
+        "cardName": "巴其",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177819,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-073",
+        "cardGlobalKey": "OP13-073",
+        "cardName": "普羅米修斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177820,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-074",
+        "cardGlobalKey": "OP13-074",
+        "cardName": "赫拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 177821,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-075",
+        "cardGlobalKey": "OP13-075",
+        "cardName": "來打一場活著才能享受的「廝殺」吧!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282758,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-076",
+        "cardGlobalKey": "OP13-076",
+        "cardName": "神避",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282759,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-076",
+        "cardGlobalKey": "OP13-076",
+        "cardName": "神避",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 900,
+        "averagePrice": 1000
+      },
+      {
+        "id": 177823,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-077",
+        "cardGlobalKey": "OP13-077",
+        "cardName": "去爬上頂點吧!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177824,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-078",
+        "cardGlobalKey": "OP13-078",
+        "cardName": "奧爾・傑克森號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282760,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-079",
+        "cardGlobalKey": "OP13-079",
+        "cardName": "伊姆",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282761,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-079",
+        "cardGlobalKey": "OP13-079",
+        "cardName": "伊姆",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 380,
+        "averagePrice": 400
+      },
+      {
+        "id": 282762,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-080",
+        "cardGlobalKey": "OP13-080",
+        "cardName": "夜殘刨瀧・V・茄壽郎聖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282763,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-080",
+        "cardGlobalKey": "OP13-080",
+        "cardName": "夜殘刨瀧・V・茄壽郎聖",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 250
+      },
+      {
+        "id": 282764,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-080",
+        "cardGlobalKey": "OP13-080",
+        "cardName": "夜殘刨瀧・V・茄壽郎聖",
+        "rare": [
+          "R-SP"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 25000,
+        "averagePrice": 0
+      },
+      {
+        "id": 177827,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-081",
+        "cardGlobalKey": "OP13-081",
+        "cardName": "可亞拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282765,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-082",
+        "cardGlobalKey": "OP13-082",
+        "cardName": "五老星",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282766,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-082",
+        "cardGlobalKey": "OP13-082",
+        "cardName": "五老星",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 130,
+        "averagePrice": 250
+      },
+      {
+        "id": 282767,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-083",
+        "cardGlobalKey": "OP13-083",
+        "cardName": "傑伊葛西亞・薩圖恩聖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282768,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-083",
+        "cardGlobalKey": "OP13-083",
+        "cardName": "傑伊葛西亞・薩圖恩聖",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 300
+      },
+      {
+        "id": 282769,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-083",
+        "cardGlobalKey": "OP13-083",
+        "cardName": "傑伊葛西亞・薩圖恩聖",
+        "rare": [
+          "R-SP"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 8000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282770,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-084",
+        "cardGlobalKey": "OP13-084",
+        "cardName": "雪帕德・十・彼德聖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282771,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-084",
+        "cardGlobalKey": "OP13-084",
+        "cardName": "雪帕德・十・彼德聖",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 300
+      },
+      {
+        "id": 282772,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-084",
+        "cardGlobalKey": "OP13-084",
+        "cardName": "雪帕德・十・彼德聖",
+        "rare": [
+          "R-SP"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 25000,
+        "averagePrice": 0
+      },
+      {
+        "id": 177831,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-085",
+        "cardGlobalKey": "OP13-085",
+        "cardName": "查爾馬克聖",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177832,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-086",
+        "cardGlobalKey": "OP13-086",
+        "cardName": "夏露莉雅宮",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177833,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-087",
+        "cardGlobalKey": "OP13-087",
+        "cardName": "查爾羅斯聖",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 177834,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-088",
+        "cardGlobalKey": "OP13-088",
+        "cardName": "泰利・基爾戴歐",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282773,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-089",
+        "cardGlobalKey": "OP13-089",
+        "cardName": "托普曼・沃裘利聖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282774,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-089",
+        "cardGlobalKey": "OP13-089",
+        "cardName": "托普曼・沃裘利聖",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 280,
+        "averagePrice": 350
+      },
+      {
+        "id": 282775,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-089",
+        "cardGlobalKey": "OP13-089",
+        "cardName": "托普曼・沃裘利聖",
+        "rare": [
+          "R-SP"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 25000,
+        "averagePrice": 0
+      },
+      {
+        "id": 177836,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-090",
+        "cardGlobalKey": "OP13-090",
+        "cardName": "哈克",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282776,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-091",
+        "cardGlobalKey": "OP13-091",
+        "cardName": "馬卡司・馬茲聖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282777,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-091",
+        "cardGlobalKey": "OP13-091",
+        "cardName": "馬卡司・馬茲聖",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 330,
+        "averagePrice": 250
+      },
+      {
+        "id": 282778,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-091",
+        "cardGlobalKey": "OP13-091",
+        "cardName": "馬卡司・馬茲聖",
+        "rare": [
+          "R-SP"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 25000,
+        "averagePrice": 7500
+      },
+      {
+        "id": 177838,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-092",
+        "cardGlobalKey": "OP13-092",
+        "cardName": "繆斯卡爾特聖",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177839,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-093",
+        "cardGlobalKey": "OP13-093",
+        "cardName": "摩甘茲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 177840,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-094",
+        "cardGlobalKey": "OP13-094",
+        "cardName": "尤克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177841,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-095",
+        "cardGlobalKey": "OP13-095",
+        "cardName": "羅斯瓦德聖",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177842,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-096",
+        "cardGlobalKey": "OP13-096",
+        "cardName": "「五老星」在此!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177843,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-097",
+        "cardGlobalKey": "OP13-097",
+        "cardName": "不可能永遠保持…世界的均衡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 177844,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-098",
+        "cardGlobalKey": "OP13-098",
+        "cardName": "本來就…不存在吧…",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177845,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-099",
+        "cardGlobalKey": "OP13-099",
+        "cardName": "虛位王座",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282779,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-100",
+        "cardGlobalKey": "OP13-100",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282780,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-100",
+        "cardGlobalKey": "OP13-100",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 85,
+        "averagePrice": 200
+      },
+      {
+        "id": 177847,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-101",
+        "cardGlobalKey": "OP13-101",
+        "cardName": "阿特拉斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177848,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-102",
+        "cardGlobalKey": "OP13-102",
+        "cardName": "愛迪生",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177849,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-103",
+        "cardGlobalKey": "OP13-103",
+        "cardName": "犰犰",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177850,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-104",
+        "cardGlobalKey": "OP13-104",
+        "cardName": "光月日和",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 177851,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-105",
+        "cardGlobalKey": "OP13-105",
+        "cardName": "光月桃之助",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 177852,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-106",
+        "cardGlobalKey": "OP13-106",
+        "cardName": "珂妮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177853,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-107",
+        "cardGlobalKey": "OP13-107",
+        "cardName": "釋迦",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282781,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-108",
+        "cardGlobalKey": "OP13-108",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 282782,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-108",
+        "cardGlobalKey": "OP13-108",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 180
+      },
+      {
+        "id": 177855,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-109",
+        "cardGlobalKey": "OP13-109",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282783,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-110",
+        "cardGlobalKey": "OP13-110",
+        "cardName": "絲媞希",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282784,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-110",
+        "cardGlobalKey": "OP13-110",
+        "cardName": "絲媞希",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 240
+      },
+      {
+        "id": 177857,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-111",
+        "cardGlobalKey": "OP13-111",
+        "cardName": "畢達哥拉斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 177858,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-112",
+        "cardGlobalKey": "OP13-112",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282785,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-113",
+        "cardGlobalKey": "OP13-113",
+        "cardName": "莉莉絲",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282786,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-113",
+        "cardGlobalKey": "OP13-113",
+        "cardName": "莉莉絲",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 219,
+        "averagePrice": 230
+      },
+      {
+        "id": 282787,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-114",
+        "cardGlobalKey": "OP13-114",
+        "cardName": "S-蛇",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282788,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-114",
+        "cardGlobalKey": "OP13-114",
+        "cardName": "S-蛇",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 210
+      },
+      {
+        "id": 177861,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-115",
+        "cardGlobalKey": "OP13-115",
+        "cardName": "「紙繪」「殘身」",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-08-23T16:55:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 6
+      },
+      {
+        "id": 177862,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-116",
+        "cardGlobalKey": "OP13-116",
+        "cardName": "在這片海上，最自由的人就是海賊王!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-08-23T16:55:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 177863,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-117",
+        "cardGlobalKey": "OP13-117",
+        "cardName": "橡膠純白圖章",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-08-23T16:55:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282789,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-118",
+        "cardGlobalKey": "OP13-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 240,
+        "averagePrice": 240
+      },
+      {
+        "id": 282790,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-118",
+        "cardGlobalKey": "OP13-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 2300
+      },
+      {
+        "id": 282791,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-118",
+        "cardGlobalKey": "OP13-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC漫畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 100000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282792,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-118",
+        "cardGlobalKey": "OP13-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC紅漫畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282793,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-118",
+        "cardGlobalKey": "OP13-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "手配書"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 7500,
+        "averagePrice": 4500
+      },
+      {
+        "id": 282794,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-119",
+        "cardGlobalKey": "OP13-119",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 282795,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-119",
+        "cardGlobalKey": "OP13-119",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 800
+      },
+      {
+        "id": 282796,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-119",
+        "cardGlobalKey": "OP13-119",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SEC漫畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 70000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282797,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-119",
+        "cardGlobalKey": "OP13-119",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SEC紅漫畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 999999,
+        "averagePrice": 0
+      },
+      {
+        "id": 282798,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-119",
+        "cardGlobalKey": "OP13-119",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "手配書"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 2600
+      },
+      {
+        "id": 282799,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-120",
+        "cardGlobalKey": "OP13-120",
+        "cardName": "薩波",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 39,
+        "averagePrice": 77
+      },
+      {
+        "id": 282800,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-120",
+        "cardGlobalKey": "OP13-120",
+        "cardName": "薩波",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 650
+      },
+      {
+        "id": 282801,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-120",
+        "cardGlobalKey": "OP13-120",
+        "cardName": "薩波",
+        "rare": [
+          "SEC漫畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 19999,
+        "averagePrice": 13000
+      },
+      {
+        "id": 282802,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-120",
+        "cardGlobalKey": "OP13-120",
+        "cardName": "薩波",
+        "rare": [
+          "SEC紅漫畫"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282803,
+        "game": "onejp",
+        "packId": "OP13",
+        "packName": "傳承的意志",
+        "packCardId": "OP13-120",
+        "cardGlobalKey": "OP13-120",
+        "cardName": "薩波",
+        "rare": [
+          "手配書"
+        ],
+        "createdTime": "2026-04-17T02:10:14+08:00",
+        "lowestPrice": 1700,
+        "averagePrice": 1200
+      }
+    ]
+  },
+  "message": "ok"
+}

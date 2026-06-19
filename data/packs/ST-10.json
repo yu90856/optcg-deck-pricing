@@ -1,0 +1,309 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162443,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-10-000P",
+        "cardName": "究極牌組 “三船長”集結",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:41:39+08:00",
+        "lowestPrice": 1800,
+        "averagePrice": 2500
+      },
+      {
+        "id": 20767,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "OP01-016",
+        "cardGlobalKey": "OP01-016",
+        "cardName": "娜美(異圖卡)",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 100
+      },
+      {
+        "id": 21403,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "OP01-025",
+        "cardGlobalKey": "OP01-025",
+        "cardName": "羅羅亞・索隆(異圖卡)",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 40
+      },
+      {
+        "id": 22541,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-001",
+        "cardGlobalKey": "ST10-001",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 90
+      },
+      {
+        "id": 21927,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-002",
+        "cardGlobalKey": "ST10-002",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 500
+      },
+      {
+        "id": 21689,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-003",
+        "cardGlobalKey": "ST10-003",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 20973,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-004",
+        "cardGlobalKey": "ST10-004",
+        "cardName": "香吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 22339,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-005",
+        "cardGlobalKey": "ST10-005",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 22139,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-006",
+        "cardGlobalKey": "ST10-006",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 22234,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-007",
+        "cardGlobalKey": "ST10-007",
+        "cardName": "奇拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22000,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-008",
+        "cardGlobalKey": "ST10-008",
+        "cardName": "夏奇＆企鵝",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21020,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-009",
+        "cardGlobalKey": "ST10-009",
+        "cardName": "強帕爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 20735,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-010",
+        "cardGlobalKey": "ST10-010",
+        "cardName": "托拉法爾加・羅(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 30
+      },
+      {
+        "id": 22284,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-011",
+        "cardGlobalKey": "ST10-011",
+        "cardName": "希特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21568,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-012",
+        "cardGlobalKey": "ST10-012",
+        "cardName": "培波",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 20895,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-013",
+        "cardGlobalKey": "ST10-013",
+        "cardName": "尤斯塔斯・基德(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 15
+      },
+      {
+        "id": 21482,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-014",
+        "cardGlobalKey": "ST10-014",
+        "cardName": "瓦耶",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21119,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-015",
+        "cardGlobalKey": "ST10-015",
+        "cardName": "橡膠巨人突掌",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 21812,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-016",
+        "cardGlobalKey": "ST10-016",
+        "cardName": "橡膠猿王槍亂打",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 21636,
+        "game": "onejp",
+        "packId": "ST-10",
+        "packName": "“三船長”集結",
+        "packCardId": "ST10-017",
+        "cardGlobalKey": "ST10-017",
+        "cardName": "磁氣虎鉗",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 10
+      }
+    ]
+  },
+  "message": "ok"
+}

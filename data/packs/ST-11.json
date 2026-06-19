@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162442,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-11-000P",
+        "cardName": "起始牌組 Side 美音",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:41:23+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 95
+      },
+      {
+        "id": 21833,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-028",
+        "cardGlobalKey": "OP02-028",
+        "cardName": "騙人布(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 1
+      },
+      {
+        "id": 20757,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-033",
+        "cardGlobalKey": "OP02-033",
+        "cardName": "吉貝爾(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22718,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-034",
+        "cardGlobalKey": "OP02-034",
+        "cardName": "多尼多尼・喬巴(異圖卡)",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 22579,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-035",
+        "cardGlobalKey": "OP02-035",
+        "cardName": "托拉法爾加・羅(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21250,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-037",
+        "cardGlobalKey": "OP02-037",
+        "cardName": "妮可・羅賓(異圖卡)",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20743,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-039",
+        "cardGlobalKey": "OP02-039",
+        "cardName": "佛朗基(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20894,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-040",
+        "cardGlobalKey": "OP02-040",
+        "cardName": "布魯克(異圖卡)",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 3
+      },
+      {
+        "id": 20668,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-041",
+        "cardGlobalKey": "OP02-041",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 3
+      },
+      {
+        "id": 22616,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-043",
+        "cardGlobalKey": "OP02-043",
+        "cardName": "羅羅亞・索隆(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 20606,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "OP02-045",
+        "cardGlobalKey": "OP02-045",
+        "cardName": "三刀流　鬼斬(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21066,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "ST11-001",
+        "cardGlobalKey": "ST11-001",
+        "cardName": "美音",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 20856,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "ST11-002",
+        "cardGlobalKey": "ST11-002",
+        "cardName": "美音",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 39,
+        "averagePrice": 40
+      },
+      {
+        "id": 22438,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "ST11-003",
+        "cardGlobalKey": "ST11-003",
+        "cardName": "逆光(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 15
+      },
+      {
+        "id": 22001,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "ST11-004",
+        "cardGlobalKey": "ST11-004",
+        "cardName": "新時代(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 30
+      },
+      {
+        "id": 20990,
+        "game": "onejp",
+        "packId": "ST-11",
+        "packName": "Side 美音",
+        "packCardId": "ST11-005",
+        "cardGlobalKey": "ST11-005",
+        "cardName": "我最強(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 15
+      }
+    ]
+  },
+  "message": "ok"
+}

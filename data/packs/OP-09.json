@@ -1,0 +1,2409 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282499,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-09-000P",
+        "cardName": "新世界的皇帝 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 4000,
+        "averagePrice": 4000
+      },
+      {
+        "id": 282500,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-09-000P",
+        "cardName": "新世界的皇帝 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 70
+      },
+      {
+        "id": 20622,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP04-119",
+        "cardGlobalKey": "OP04-119",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 9000,
+        "averagePrice": 800
+      },
+      {
+        "id": 22652,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP05-067",
+        "cardGlobalKey": "OP05-067",
+        "cardName": "索隆十郎(異圖卡)",
+        "rare": [
+          "SP卡 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 5250,
+        "averagePrice": 5500
+      },
+      {
+        "id": 22049,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP05-093",
+        "cardGlobalKey": "OP05-093",
+        "cardName": "羅布・路基",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1200,
+        "averagePrice": 600
+      },
+      {
+        "id": 22259,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SP卡 異圖六"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 10000,
+        "averagePrice": 9999
+      },
+      {
+        "id": 21178,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP07-015",
+        "cardGlobalKey": "OP07-015",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 800
+      },
+      {
+        "id": 21106,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP07-051",
+        "cardGlobalKey": "OP07-051",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SP卡 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 10000,
+        "averagePrice": 8500
+      },
+      {
+        "id": 20732,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP08-106",
+        "cardGlobalKey": "OP08-106",
+        "cardName": "娜美",
+        "rare": [
+          "SP卡 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 7200,
+        "averagePrice": 7500
+      },
+      {
+        "id": 282501,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-001",
+        "cardGlobalKey": "OP09-001",
+        "cardName": "傑克",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282502,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-001",
+        "cardGlobalKey": "OP09-001",
+        "cardName": "傑克",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 750
+      },
+      {
+        "id": 282503,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-002",
+        "cardGlobalKey": "OP09-002",
+        "cardName": "美音",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282504,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-002",
+        "cardGlobalKey": "OP09-002",
+        "cardName": "美音",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 200
+      },
+      {
+        "id": 22314,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-003",
+        "cardGlobalKey": "OP09-003",
+        "cardName": "夏奇＆企鵝",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282505,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-004",
+        "cardGlobalKey": "OP09-004",
+        "cardName": "傑克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282506,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-004",
+        "cardGlobalKey": "OP09-004",
+        "cardName": "傑克",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 450
+      },
+      {
+        "id": 282507,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-004",
+        "cardGlobalKey": "OP09-004",
+        "cardName": "傑克",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282508,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-004",
+        "cardGlobalKey": "OP09-004",
+        "cardName": "傑克",
+        "rare": [
+          "SP卡 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 4000,
+        "averagePrice": 4000
+      },
+      {
+        "id": 20873,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-005",
+        "cardGlobalKey": "OP09-005",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22282,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-006",
+        "cardGlobalKey": "OP09-006",
+        "cardName": "華林格葛布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21717,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-007",
+        "cardGlobalKey": "OP09-007",
+        "cardName": "希特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21731,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-008",
+        "cardGlobalKey": "OP09-008",
+        "cardName": "比爾丁格・史涅克",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282509,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-009",
+        "cardGlobalKey": "OP09-009",
+        "cardName": "班・貝克曼",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282510,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-009",
+        "cardGlobalKey": "OP09-009",
+        "cardName": "班・貝克曼",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 21198,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-010",
+        "cardGlobalKey": "OP09-010",
+        "cardName": "彭克・潘奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21217,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-011",
+        "cardGlobalKey": "OP09-011",
+        "cardName": "北鄉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21409,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-012",
+        "cardGlobalKey": "OP09-012",
+        "cardName": "蒙斯塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21402,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-013",
+        "cardGlobalKey": "OP09-013",
+        "cardName": "耶穌布",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 21033,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-014",
+        "cardGlobalKey": "OP09-014",
+        "cardName": "萊姆吉斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20679,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-015",
+        "cardGlobalKey": "OP09-015",
+        "cardName": "拉奇・魯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21053,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-016",
+        "cardGlobalKey": "OP09-016",
+        "cardName": "洛克斯達",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20805,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-017",
+        "cardGlobalKey": "OP09-017",
+        "cardName": "瓦耶",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22525,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-018",
+        "cardGlobalKey": "OP09-018",
+        "cardName": "給我滾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21676,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-019",
+        "cardGlobalKey": "OP09-019",
+        "cardName": "我不會放過任何傷害我朋友的人!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20518,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-020",
+        "cardGlobalKey": "OP09-020",
+        "cardName": "來吧…!!!就由我們來當對手!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20716,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-021",
+        "cardGlobalKey": "OP09-021",
+        "cardName": "紅色勢力號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282511,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-022",
+        "cardGlobalKey": "OP09-022",
+        "cardName": "莉姆",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282512,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-022",
+        "cardGlobalKey": "OP09-022",
+        "cardName": "莉姆",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 282513,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-023",
+        "cardGlobalKey": "OP09-023",
+        "cardName": "艾狄歐",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 6
+      },
+      {
+        "id": 282514,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-023",
+        "cardGlobalKey": "OP09-023",
+        "cardName": "艾狄歐",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 21810,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-024",
+        "cardGlobalKey": "OP09-024",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21179,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-025",
+        "cardGlobalKey": "OP09-025",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22638,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-026",
+        "cardGlobalKey": "OP09-026",
+        "cardName": "盃",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21307,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-027",
+        "cardGlobalKey": "OP09-027",
+        "cardName": "薩波",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20970,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-028",
+        "cardGlobalKey": "OP09-028",
+        "cardName": "香吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21131,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-029",
+        "cardGlobalKey": "OP09-029",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22689,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-030",
+        "cardGlobalKey": "OP09-030",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21670,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-031",
+        "cardGlobalKey": "OP09-031",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21286,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-032",
+        "cardGlobalKey": "OP09-032",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21314,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-033",
+        "cardGlobalKey": "OP09-033",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282515,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-034",
+        "cardGlobalKey": "OP09-034",
+        "cardName": "培羅娜",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282516,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-034",
+        "cardGlobalKey": "OP09-034",
+        "cardName": "培羅娜",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 60
+      },
+      {
+        "id": 21172,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-035",
+        "cardGlobalKey": "OP09-035",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22728,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-036",
+        "cardGlobalKey": "OP09-036",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282517,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-037",
+        "cardGlobalKey": "OP09-037",
+        "cardName": "莉姆",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282518,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-037",
+        "cardGlobalKey": "OP09-037",
+        "cardName": "莉姆",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 50
+      },
+      {
+        "id": 22039,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-038",
+        "cardGlobalKey": "OP09-038",
+        "cardName": "羅布・路基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20938,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-039",
+        "cardGlobalKey": "OP09-039",
+        "cardName": "橡膠「四棵樹」JET十字架衝擊火箭砲",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22152,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-040",
+        "cardGlobalKey": "OP09-040",
+        "cardName": "雷光槍後空翻煩惱鳳SHOT",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20822,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-041",
+        "cardGlobalKey": "OP09-041",
+        "cardName": "魂之佛朗基風速計BOXING喪劍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282519,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-042",
+        "cardGlobalKey": "OP09-042",
+        "cardName": "巴其",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282520,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-042",
+        "cardGlobalKey": "OP09-042",
+        "cardName": "巴其",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 130
+      },
+      {
+        "id": 21626,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-043",
+        "cardGlobalKey": "OP09-043",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22292,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-044",
+        "cardGlobalKey": "OP09-044",
+        "cardName": "以藏",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22340,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-045",
+        "cardGlobalKey": "OP09-045",
+        "cardName": "卡巴吉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282521,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-046",
+        "cardGlobalKey": "OP09-046",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282522,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-046",
+        "cardGlobalKey": "OP09-046",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 50
+      },
+      {
+        "id": 22683,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-047",
+        "cardGlobalKey": "OP09-047",
+        "cardName": "光月御田",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282523,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-048",
+        "cardGlobalKey": "OP09-048",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 282524,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-048",
+        "cardGlobalKey": "OP09-048",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 20978,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-049",
+        "cardGlobalKey": "OP09-049",
+        "cardName": "裘斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282525,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-050",
+        "cardGlobalKey": "OP09-050",
+        "cardName": "娜美",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 282526,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-050",
+        "cardGlobalKey": "OP09-050",
+        "cardName": "娜美",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 120
+      },
+      {
+        "id": 282527,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-051",
+        "cardGlobalKey": "OP09-051",
+        "cardName": "巴其",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282528,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-051",
+        "cardGlobalKey": "OP09-051",
+        "cardName": "巴其",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 329,
+        "averagePrice": 80
+      },
+      {
+        "id": 282529,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-051",
+        "cardGlobalKey": "OP09-051",
+        "cardName": "巴其",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 32000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282530,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-051",
+        "cardGlobalKey": "OP09-051",
+        "cardName": "巴其",
+        "rare": [
+          "SP卡 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 2400,
+        "averagePrice": 1600
+      },
+      {
+        "id": 21157,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-052",
+        "cardGlobalKey": "OP09-052",
+        "cardName": "馬可",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21677,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-053",
+        "cardGlobalKey": "OP09-053",
+        "cardName": "摩奇",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 22017,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-054",
+        "cardGlobalKey": "OP09-054",
+        "cardName": "利基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 22041,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-055",
+        "cardGlobalKey": "OP09-055",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22717,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-056",
+        "cardGlobalKey": "OP09-056",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22404,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-057",
+        "cardGlobalKey": "OP09-057",
+        "cardName": "CROSS GUILD",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21610,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-058",
+        "cardGlobalKey": "OP09-058",
+        "cardName": "特製馬其砲彈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20984,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-059",
+        "cardGlobalKey": "OP09-059",
+        "cardName": "蒸氣殺人事件",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20943,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-060",
+        "cardGlobalKey": "OP09-060",
+        "cardName": "卡萊巴利島",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282531,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-061",
+        "cardGlobalKey": "OP09-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282532,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-061",
+        "cardGlobalKey": "OP09-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1600,
+        "averagePrice": 1800
+      },
+      {
+        "id": 282533,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-062",
+        "cardGlobalKey": "OP09-062",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282534,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-062",
+        "cardGlobalKey": "OP09-062",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 299
+      },
+      {
+        "id": 21726,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-063",
+        "cardGlobalKey": "OP09-063",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21560,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-064",
+        "cardGlobalKey": "OP09-064",
+        "cardName": "奇拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282535,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-065",
+        "cardGlobalKey": "OP09-065",
+        "cardName": "香吉士",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282536,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-065",
+        "cardGlobalKey": "OP09-065",
+        "cardName": "香吉士",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 21430,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-066",
+        "cardGlobalKey": "OP09-066",
+        "cardName": "強帕爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21718,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-067",
+        "cardGlobalKey": "OP09-067",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21746,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-068",
+        "cardGlobalKey": "OP09-068",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282537,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-069",
+        "cardGlobalKey": "OP09-069",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282538,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-069",
+        "cardGlobalKey": "OP09-069",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 120
+      },
+      {
+        "id": 22289,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-070",
+        "cardGlobalKey": "OP09-070",
+        "cardName": "娜美",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21880,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-071",
+        "cardGlobalKey": "OP09-071",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282539,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-072",
+        "cardGlobalKey": "OP09-072",
+        "cardName": "佛朗基",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282540,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-072",
+        "cardGlobalKey": "OP09-072",
+        "cardName": "佛朗基",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 180
+      },
+      {
+        "id": 21167,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-073",
+        "cardGlobalKey": "OP09-073",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21247,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-074",
+        "cardGlobalKey": "OP09-074",
+        "cardName": "培波",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22231,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-075",
+        "cardGlobalKey": "OP09-075",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20932,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-076",
+        "cardGlobalKey": "OP09-076",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20835,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-077",
+        "cardGlobalKey": "OP09-077",
+        "cardName": "橡膠雷電",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 22320,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-078",
+        "cardGlobalKey": "OP09-078",
+        "cardName": "橡膠巨人",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 21634,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-079",
+        "cardGlobalKey": "OP09-079",
+        "cardName": "橡膠跳繩",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21599,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-080",
+        "cardGlobalKey": "OP09-080",
+        "cardName": "千陽號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282541,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-081",
+        "cardGlobalKey": "OP09-081",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282542,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-081",
+        "cardGlobalKey": "OP09-081",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 225
+      },
+      {
+        "id": 22124,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-082",
+        "cardGlobalKey": "OP09-082",
+        "cardName": "亞帕羅・比薩羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20615,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-083",
+        "cardGlobalKey": "OP09-083",
+        "cardName": "范・歐葛",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 21422,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-084",
+        "cardGlobalKey": "OP09-084",
+        "cardName": "卡達莉納・戴彭",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22309,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-085",
+        "cardGlobalKey": "OP09-085",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21083,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-086",
+        "cardGlobalKey": "OP09-086",
+        "cardName": "吉札士・伯吉斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20594,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-087",
+        "cardGlobalKey": "OP09-087",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21054,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-088",
+        "cardGlobalKey": "OP09-088",
+        "cardName": "矢龍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21173,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-089",
+        "cardGlobalKey": "OP09-089",
+        "cardName": "壯馬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21753,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-090",
+        "cardGlobalKey": "OP09-090",
+        "cardName": "Q醫生",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22190,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-091",
+        "cardGlobalKey": "OP09-091",
+        "cardName": "巴斯可・簫特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21890,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-092",
+        "cardGlobalKey": "OP09-092",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282543,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-093",
+        "cardGlobalKey": "OP09-093",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 16
+      },
+      {
+        "id": 282544,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-093",
+        "cardGlobalKey": "OP09-093",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 350
+      },
+      {
+        "id": 282545,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-093",
+        "cardGlobalKey": "OP09-093",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 77777,
+        "averagePrice": 0
+      },
+      {
+        "id": 282546,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-093",
+        "cardGlobalKey": "OP09-093",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SP卡 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 2800,
+        "averagePrice": 3200
+      },
+      {
+        "id": 20524,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-094",
+        "cardGlobalKey": "OP09-094",
+        "cardName": "桃鬍子",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22439,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-095",
+        "cardGlobalKey": "OP09-095",
+        "cardName": "拉菲特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 21561,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-096",
+        "cardGlobalKey": "OP09-096",
+        "cardName": "是我的時代啦!!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 22639,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-097",
+        "cardGlobalKey": "OP09-097",
+        "cardName": "闇水",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21454,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-098",
+        "cardGlobalKey": "OP09-098",
+        "cardName": "黑暗地道",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 22416,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-099",
+        "cardGlobalKey": "OP09-099",
+        "cardName": "蜂巢",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20981,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-100",
+        "cardGlobalKey": "OP09-100",
+        "cardName": "卡拉司",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21461,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-101",
+        "cardGlobalKey": "OP09-101",
+        "cardName": "庫山",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 20800,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-102",
+        "cardGlobalKey": "OP09-102",
+        "cardName": "克洛巴博士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282547,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-103",
+        "cardGlobalKey": "OP09-103",
+        "cardName": "可亞拉",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 282548,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-103",
+        "cardGlobalKey": "OP09-103",
+        "cardName": "可亞拉",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 45,
+        "averagePrice": 100
+      },
+      {
+        "id": 21113,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-104",
+        "cardGlobalKey": "OP09-104",
+        "cardName": "薩波",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 20511,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-105",
+        "cardGlobalKey": "OP09-105",
+        "cardName": "香吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22163,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-106",
+        "cardGlobalKey": "OP09-106",
+        "cardName": "妮可・歐爾比雅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282549,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-107",
+        "cardGlobalKey": "OP09-107",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282550,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-107",
+        "cardGlobalKey": "OP09-107",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 21077,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-108",
+        "cardGlobalKey": "OP09-108",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22018,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-109",
+        "cardGlobalKey": "OP09-109",
+        "cardName": "哈古瓦爾・D・薩烏羅",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21535,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-110",
+        "cardGlobalKey": "OP09-110",
+        "cardName": "皮耶爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22352,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-111",
+        "cardGlobalKey": "OP09-111",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21854,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-112",
+        "cardGlobalKey": "OP09-112",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21929,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-113",
+        "cardGlobalKey": "OP09-113",
+        "cardName": "摩利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22215,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-114",
+        "cardGlobalKey": "OP09-114",
+        "cardName": "林德伯格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21524,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-115",
+        "cardGlobalKey": "OP09-115",
+        "cardName": "冰塊「兩棘矛」",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21871,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-116",
+        "cardGlobalKey": "OP09-116",
+        "cardName": "別小看「奇蹟」!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20646,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-117",
+        "cardGlobalKey": "OP09-117",
+        "cardName": "跌雷嘻!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282551,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-118",
+        "cardGlobalKey": "OP09-118",
+        "cardName": "哥爾・D・羅傑",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 282552,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-118",
+        "cardGlobalKey": "OP09-118",
+        "cardName": "哥爾・D・羅傑",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 700
+      },
+      {
+        "id": 282553,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-118",
+        "cardGlobalKey": "OP09-118",
+        "cardName": "哥爾・D・羅傑",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 300000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282554,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-119",
+        "cardGlobalKey": "OP09-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 80
+      },
+      {
+        "id": 282555,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-119",
+        "cardGlobalKey": "OP09-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 500
+      },
+      {
+        "id": 282556,
+        "game": "onejp",
+        "packId": "OP-09",
+        "packName": "新世界的皇帝",
+        "packCardId": "OP09-119",
+        "cardGlobalKey": "OP09-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 120000,
+        "averagePrice": 0
+      }
+    ]
+  },
+  "message": "ok"
+}

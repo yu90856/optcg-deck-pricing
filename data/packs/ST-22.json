@@ -1,0 +1,489 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162259,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST22-000P",
+        "cardName": "起始牌組 艾斯&紐蓋特",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-26T14:51:20+08:00",
+        "lowestPrice": 1200,
+        "averagePrice": 0
+      },
+      {
+        "id": 289990,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-001",
+        "cardGlobalKey": "ST22-001",
+        "cardName": "艾斯＆紐蓋特",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 25
+      },
+      {
+        "id": 289991,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-001",
+        "cardGlobalKey": "ST22-001",
+        "cardName": "艾斯＆紐蓋特",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 5000,
+        "averagePrice": 0
+      },
+      {
+        "id": 289992,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-002",
+        "cardGlobalKey": "ST22-002",
+        "cardName": "以藏",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 250
+      },
+      {
+        "id": 289993,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-002",
+        "cardGlobalKey": "ST22-002",
+        "cardName": "以藏",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 289994,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-003",
+        "cardGlobalKey": "ST22-003",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289995,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-003",
+        "cardGlobalKey": "ST22-003",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 0
+      },
+      {
+        "id": 289996,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-004",
+        "cardGlobalKey": "ST22-004",
+        "cardName": "愛爾米",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 289997,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-004",
+        "cardGlobalKey": "ST22-004",
+        "cardName": "愛爾米",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 40
+      },
+      {
+        "id": 289998,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-005",
+        "cardGlobalKey": "ST22-005",
+        "cardName": "光月御田",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 289999,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-005",
+        "cardGlobalKey": "ST22-005",
+        "cardName": "光月御田",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 800
+      },
+      {
+        "id": 290000,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-006",
+        "cardGlobalKey": "ST22-006",
+        "cardName": "裘斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 290001,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-006",
+        "cardGlobalKey": "ST22-006",
+        "cardName": "裘斯",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 280,
+        "averagePrice": 0
+      },
+      {
+        "id": 290002,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-007",
+        "cardGlobalKey": "ST22-007",
+        "cardName": "史庫亞德",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 290003,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-007",
+        "cardGlobalKey": "ST22-007",
+        "cardName": "史庫亞德",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 290004,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-008",
+        "cardGlobalKey": "ST22-008",
+        "cardName": "迪卡爾班兄弟",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 290005,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-008",
+        "cardGlobalKey": "ST22-008",
+        "cardName": "迪卡爾班兄弟",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 80
+      },
+      {
+        "id": 290006,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-009",
+        "cardGlobalKey": "ST22-009",
+        "cardName": "比斯塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 290007,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-009",
+        "cardGlobalKey": "ST22-009",
+        "cardName": "比斯塔",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 70
+      },
+      {
+        "id": 290008,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-010",
+        "cardGlobalKey": "ST22-010",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 290009,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-010",
+        "cardGlobalKey": "ST22-010",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 500
+      },
+      {
+        "id": 290010,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-011",
+        "cardGlobalKey": "ST22-011",
+        "cardName": "雪白之珮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 290011,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-011",
+        "cardGlobalKey": "ST22-011",
+        "cardName": "雪白之珮",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 140
+      },
+      {
+        "id": 290012,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-012",
+        "cardGlobalKey": "ST22-012",
+        "cardName": "馬可",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 290013,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-012",
+        "cardGlobalKey": "ST22-012",
+        "cardName": "馬可",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 160,
+        "averagePrice": 99
+      },
+      {
+        "id": 290014,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-013",
+        "cardGlobalKey": "ST22-013",
+        "cardName": "小歐斯Jr.",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 290015,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-013",
+        "cardGlobalKey": "ST22-013",
+        "cardName": "小歐斯Jr.",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 180
+      },
+      {
+        "id": 290016,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-014",
+        "cardGlobalKey": "ST22-014",
+        "cardName": "Ａ・Ｏ",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 290017,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-014",
+        "cardGlobalKey": "ST22-014",
+        "cardName": "Ａ・Ｏ",
+        "rare": [
+          "C異畫"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 50
+      },
+      {
+        "id": 162273,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-015",
+        "cardGlobalKey": "ST22-015",
+        "cardName": "我可是「白鬍子」啊!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-26T15:37:16+08:00",
+        "lowestPrice": 44,
+        "averagePrice": 50
+      },
+      {
+        "id": 162275,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-016",
+        "cardGlobalKey": "ST22-016",
+        "cardName": "給我收回……!!!剛剛那句話……!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-26T15:38:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 162274,
+        "game": "onejp",
+        "packId": "ST-22",
+        "packName": "艾斯&紐蓋特",
+        "packCardId": "ST22-017",
+        "cardGlobalKey": "ST22-017",
+        "cardName": "火拳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-26T15:37:17+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      }
+    ]
+  },
+  "message": "ok"
+}

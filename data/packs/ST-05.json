@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162448,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-05-000P",
+        "cardName": "起始牌組 ONE PIECE FILM edition",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:42:54+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 110
+      },
+      {
+        "id": 20591,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-001",
+        "cardGlobalKey": "ST05-001",
+        "cardName": "傑克",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 20953,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-002",
+        "cardGlobalKey": "ST05-002",
+        "cardName": "艾茵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 21019,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-003",
+        "cardGlobalKey": "ST05-003",
+        "cardName": "安",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 20598,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-004",
+        "cardGlobalKey": "ST05-004",
+        "cardName": "美音",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 21257,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-005",
+        "cardGlobalKey": "ST05-005",
+        "cardName": "卡莉娜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 20527,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-006",
+        "cardGlobalKey": "ST05-006",
+        "cardName": "基爾德・泰佐羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21648,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-007",
+        "cardGlobalKey": "ST05-007",
+        "cardName": "高登",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22274,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-008",
+        "cardGlobalKey": "ST05-008",
+        "cardName": "獅鬼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21993,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-009",
+        "cardGlobalKey": "ST05-009",
+        "cardName": "史卡雷多",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22495,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-010",
+        "cardGlobalKey": "ST05-010",
+        "cardName": "Z",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21238,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-011",
+        "cardGlobalKey": "ST05-011",
+        "cardName": "道格拉斯・巴列德",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 22406,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-012",
+        "cardGlobalKey": "ST05-012",
+        "cardName": "芭卡拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20864,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-013",
+        "cardGlobalKey": "ST05-013",
+        "cardName": "賓茲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20686,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-014",
+        "cardGlobalKey": "ST05-014",
+        "cardName": "布埃納・費斯特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21304,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-015",
+        "cardGlobalKey": "ST05-015",
+        "cardName": "Dr.因迪可",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21451,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-016",
+        "cardGlobalKey": "ST05-016",
+        "cardName": "獅子威・皇宮地卷",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21229,
+        "game": "onejp",
+        "packId": "ST-05",
+        "packName": "ONE PIECE FILM edition",
+        "packCardId": "ST05-017",
+        "cardGlobalKey": "ST05-017",
+        "cardName": "鎧甲合體",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      }
+    ]
+  },
+  "message": "ok"
+}

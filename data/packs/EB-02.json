@@ -1,0 +1,1614 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 279218,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "000P",
+        "cardGlobalKey": "EB-02",
+        "cardName": "Anime 25th 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 279219,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "000P",
+        "cardGlobalKey": "EB-02",
+        "cardName": "Anime 25th 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 95
+      },
+      {
+        "id": 22071,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB01-001",
+        "cardGlobalKey": "EB01-001",
+        "cardName": "光月御田",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22577,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB01-021",
+        "cardGlobalKey": "EB01-021",
+        "cardName": "般若拔",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 1200
+      },
+      {
+        "id": 20945,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB01-040",
+        "cardGlobalKey": "EB01-040",
+        "cardName": "居魯士",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22739,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-001",
+        "cardGlobalKey": "EB02-001",
+        "cardName": "飛毛腿",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21455,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-002",
+        "cardGlobalKey": "EB02-002",
+        "cardName": "薩波",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 279220,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-003",
+        "cardGlobalKey": "EB02-003",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 279221,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-003",
+        "cardGlobalKey": "EB02-003",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 110,
+        "averagePrice": 150
+      },
+      {
+        "id": 21516,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-004",
+        "cardGlobalKey": "EB02-004",
+        "cardName": "頓・阿奇諾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21605,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-005",
+        "cardGlobalKey": "EB02-005",
+        "cardName": "冒牌草帽一行人",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 279222,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-006",
+        "cardGlobalKey": "EB02-006",
+        "cardName": "大和",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 80
+      },
+      {
+        "id": 279223,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-006",
+        "cardGlobalKey": "EB02-006",
+        "cardName": "大和",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 245,
+        "averagePrice": 250
+      },
+      {
+        "id": 20992,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-007",
+        "cardGlobalKey": "EB02-007",
+        "cardName": "刻蹄・櫻花飛舞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21366,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-008",
+        "cardGlobalKey": "EB02-008",
+        "cardName": "最高到達點",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 20
+      },
+      {
+        "id": 22211,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-009",
+        "cardGlobalKey": "EB02-009",
+        "cardName": "千陽號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 279224,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-010",
+        "cardGlobalKey": "EB02-010",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 279225,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-010",
+        "cardGlobalKey": "EB02-010",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 25000,
+        "averagePrice": 8750
+      },
+      {
+        "id": 279226,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-011",
+        "cardGlobalKey": "EB02-011",
+        "cardName": "惡龍",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279227,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-011",
+        "cardGlobalKey": "EB02-011",
+        "cardName": "惡龍",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 21529,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-012",
+        "cardGlobalKey": "EB02-012",
+        "cardName": "卡蒙",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21633,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-013",
+        "cardGlobalKey": "EB02-013",
+        "cardName": "凱洛特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22379,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-014",
+        "cardGlobalKey": "EB02-014",
+        "cardName": "薩芬庫魯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279228,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-015",
+        "cardGlobalKey": "EB02-015",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279229,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-015",
+        "cardGlobalKey": "EB02-015",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 110,
+        "averagePrice": 120
+      },
+      {
+        "id": 20690,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-016",
+        "cardGlobalKey": "EB02-016",
+        "cardName": "喬巴超人",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 279230,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-017",
+        "cardGlobalKey": "EB02-017",
+        "cardName": "娜美",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 279231,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-017",
+        "cardGlobalKey": "EB02-017",
+        "cardName": "娜美",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 550,
+        "averagePrice": 400
+      },
+      {
+        "id": 21059,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-018",
+        "cardGlobalKey": "EB02-018",
+        "cardName": "巴其",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 21643,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-019",
+        "cardGlobalKey": "EB02-019",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22527,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-020",
+        "cardGlobalKey": "EB02-020",
+        "cardName": "We Are!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 21315,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-021",
+        "cardGlobalKey": "EB02-021",
+        "cardName": "橡膠巨人槍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 279232,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-022",
+        "cardGlobalKey": "EB02-022",
+        "cardName": "騙人布",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 279233,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-022",
+        "cardGlobalKey": "EB02-022",
+        "cardName": "騙人布",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 22661,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-023",
+        "cardGlobalKey": "EB02-023",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20724,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-024",
+        "cardGlobalKey": "EB02-024",
+        "cardName": "狙擊王",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21055,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-025",
+        "cardGlobalKey": "EB02-025",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279234,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-026",
+        "cardGlobalKey": "EB02-026",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 80
+      },
+      {
+        "id": 279235,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-026",
+        "cardGlobalKey": "EB02-026",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 380,
+        "averagePrice": 329
+      },
+      {
+        "id": 21974,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-027",
+        "cardGlobalKey": "EB02-027",
+        "cardName": "比斯塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22203,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-028",
+        "cardGlobalKey": "EB02-028",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 20529,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-029",
+        "cardGlobalKey": "EB02-029",
+        "cardName": "龍爺",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21732,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-030",
+        "cardGlobalKey": "EB02-030",
+        "cardName": "就是夥伴的夢想被嘲笑的時候!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22395,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-031",
+        "cardGlobalKey": "EB02-031",
+        "cardName": "Hope",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 32
+      },
+      {
+        "id": 22185,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-032",
+        "cardGlobalKey": "EB02-032",
+        "cardName": "艾斯巴古",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22558,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-033",
+        "cardGlobalKey": "EB02-033",
+        "cardName": "船之妖精",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20738,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-034",
+        "cardGlobalKey": "EB02-034",
+        "cardName": "孔明",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279236,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-035",
+        "cardGlobalKey": "EB02-035",
+        "cardName": "香吉士&普琳",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 80
+      },
+      {
+        "id": 279237,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-035",
+        "cardGlobalKey": "EB02-035",
+        "cardName": "香吉士&普琳",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 420,
+        "averagePrice": 480
+      },
+      {
+        "id": 279238,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-036",
+        "cardGlobalKey": "EB02-036",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 279239,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-036",
+        "cardGlobalKey": "EB02-036",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 130,
+        "averagePrice": 230
+      },
+      {
+        "id": 21573,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-037",
+        "cardGlobalKey": "EB02-037",
+        "cardName": "佛朗基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21882,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-038",
+        "cardGlobalKey": "EB02-038",
+        "cardName": "麥哲倫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21117,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-039",
+        "cardGlobalKey": "EB02-039",
+        "cardName": "杰爾馬66",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22247,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-040",
+        "cardGlobalKey": "EB02-040",
+        "cardName": "BRAND NEW WORLD",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 20
+      },
+      {
+        "id": 20551,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-041",
+        "cardGlobalKey": "EB02-041",
+        "cardName": "前進梅利號",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 15
+      },
+      {
+        "id": 22441,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-042",
+        "cardGlobalKey": "EB02-042",
+        "cardName": "歐爾杭特・格朗特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22662,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-043",
+        "cardGlobalKey": "EB02-043",
+        "cardName": "強納森",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279240,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-044",
+        "cardGlobalKey": "EB02-044",
+        "cardName": "戰國",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279241,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-044",
+        "cardGlobalKey": "EB02-044",
+        "cardName": "戰國",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 279242,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-045",
+        "cardGlobalKey": "EB02-045",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 279243,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-045",
+        "cardGlobalKey": "EB02-045",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 100
+      },
+      {
+        "id": 21373,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-046",
+        "cardGlobalKey": "EB02-046",
+        "cardName": "希爾頓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22552,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-047",
+        "cardGlobalKey": "EB02-047",
+        "cardName": "布魯諾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279244,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-048",
+        "cardGlobalKey": "EB02-048",
+        "cardName": "布魯克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 279245,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-048",
+        "cardGlobalKey": "EB02-048",
+        "cardName": "布魯克",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 50
+      },
+      {
+        "id": 22310,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-049",
+        "cardGlobalKey": "EB02-049",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21576,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-050",
+        "cardGlobalKey": "EB02-050",
+        "cardName": "心之航海圖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 25
+      },
+      {
+        "id": 22523,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-051",
+        "cardGlobalKey": "EB02-051",
+        "cardName": "鼻唄三丁矢筈斬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279246,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-052",
+        "cardGlobalKey": "EB02-052",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 95
+      },
+      {
+        "id": 279247,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-052",
+        "cardGlobalKey": "EB02-052",
+        "cardName": "艾涅爾",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 250
+      },
+      {
+        "id": 22186,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-053",
+        "cardGlobalKey": "EB02-053",
+        "cardName": "歐爾嘉・米斯基納",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279248,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-054",
+        "cardGlobalKey": "EB02-054",
+        "cardName": "香吉士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279249,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-054",
+        "cardGlobalKey": "EB02-054",
+        "cardName": "香吉士",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 21883,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-055",
+        "cardGlobalKey": "EB02-055",
+        "cardName": "吉貝爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 279250,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-056",
+        "cardGlobalKey": "EB02-056",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 8
+      },
+      {
+        "id": 279251,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-056",
+        "cardGlobalKey": "EB02-056",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 100
+      },
+      {
+        "id": 22413,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-057",
+        "cardGlobalKey": "EB02-057",
+        "cardName": "馬德・托雷傑",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21107,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-058",
+        "cardGlobalKey": "EB02-058",
+        "cardName": "Assu!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 20
+      },
+      {
+        "id": 21714,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-059",
+        "cardGlobalKey": "EB02-059",
+        "cardName": "要是沒有你的話…我就沒辦法成為海賊王!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20691,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-060",
+        "cardGlobalKey": "EB02-060",
+        "cardName": "前進梅利號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 279252,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-061",
+        "cardGlobalKey": "EB02-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 75,
+        "averagePrice": 80
+      },
+      {
+        "id": 279253,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-061",
+        "cardGlobalKey": "EB02-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 480
+      },
+      {
+        "id": 279254,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "EB02-061",
+        "cardGlobalKey": "EB02-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:09:43+08:00",
+        "lowestPrice": 100000,
+        "averagePrice": 0
+      },
+      {
+        "id": 21681,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP05-001",
+        "cardGlobalKey": "OP05-001",
+        "cardName": "薩波",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 15000,
+        "averagePrice": 0
+      },
+      {
+        "id": 21331,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP05-002",
+        "cardGlobalKey": "OP05-002",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 3500
+      },
+      {
+        "id": 21934,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP05-022",
+        "cardGlobalKey": "OP05-022",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22145,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP05-060",
+        "cardGlobalKey": "OP05-060",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "L 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 21415,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP05-098",
+        "cardGlobalKey": "OP05-098",
+        "cardName": "艾涅爾(異圖卡)",
+        "rare": [
+          "L 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 15000,
+        "averagePrice": 2500
+      },
+      {
+        "id": 21275,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP06-001",
+        "cardGlobalKey": "OP06-001",
+        "cardName": "美音",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 21827,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP06-020",
+        "cardGlobalKey": "OP06-020",
+        "cardName": "荷帝・瓊斯",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 21847,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP06-021",
+        "cardGlobalKey": "OP06-021",
+        "cardName": "培羅娜",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 12000,
+        "averagePrice": 1900
+      },
+      {
+        "id": 22614,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP06-022",
+        "cardGlobalKey": "OP06-022",
+        "cardName": "大和",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22102,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP06-042",
+        "cardGlobalKey": "OP06-042",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 20000,
+        "averagePrice": 0
+      },
+      {
+        "id": 20741,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP06-080",
+        "cardGlobalKey": "OP06-080",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 819
+      },
+      {
+        "id": 20643,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP07-001",
+        "cardGlobalKey": "OP07-001",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 1100
+      },
+      {
+        "id": 21390,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP07-019",
+        "cardGlobalKey": "OP07-019",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 10000,
+        "averagePrice": 0
+      },
+      {
+        "id": 21205,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP07-038",
+        "cardGlobalKey": "OP07-038",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 65000,
+        "averagePrice": 0
+      },
+      {
+        "id": 20553,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP07-059",
+        "cardGlobalKey": "OP07-059",
+        "cardName": "弗克西",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 350
+      },
+      {
+        "id": 21190,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP07-079",
+        "cardGlobalKey": "OP07-079",
+        "cardName": "羅布・路基",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3300,
+        "averagePrice": 0
+      },
+      {
+        "id": 21423,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP07-097",
+        "cardGlobalKey": "OP07-097",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 850
+      },
+      {
+        "id": 22695,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP08-001",
+        "cardGlobalKey": "OP08-001",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22125,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP08-002",
+        "cardGlobalKey": "OP08-002",
+        "cardName": "馬可",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22720,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP08-021",
+        "cardGlobalKey": "OP08-021",
+        "cardName": "凱洛特",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22419,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP08-057",
+        "cardGlobalKey": "OP08-057",
+        "cardName": "KING",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 4500,
+        "averagePrice": 4800
+      },
+      {
+        "id": 20575,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP08-058",
+        "cardGlobalKey": "OP08-058",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 1400
+      },
+      {
+        "id": 20554,
+        "game": "onejp",
+        "packId": "EB-02",
+        "packName": "Anime 25th collection",
+        "packCardId": "OP08-098",
+        "cardGlobalKey": "OP08-098",
+        "cardName": "卡爾葛拉",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 1000
+      }
+    ]
+  },
+  "message": "ok"
+}

@@ -1,0 +1,2349 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282117,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-02-000P",
+        "cardName": "頂點決戰 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 7200,
+        "averagePrice": 0
+      },
+      {
+        "id": 282118,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-02-000P",
+        "cardName": "頂點決戰 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282119,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-001",
+        "cardGlobalKey": "OP02-001",
+        "cardName": "艾德華・紐蓋特(異圖卡)",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282120,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-001",
+        "cardGlobalKey": "OP02-001",
+        "cardName": "艾德華・紐蓋特(異圖卡)",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 999
+      },
+      {
+        "id": 282121,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-002",
+        "cardGlobalKey": "OP02-002",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282122,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-002",
+        "cardGlobalKey": "OP02-002",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 450
+      },
+      {
+        "id": 21866,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-003",
+        "cardGlobalKey": "OP02-003",
+        "cardName": "亞托摩斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282123,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-004",
+        "cardGlobalKey": "OP02-004",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282124,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-004",
+        "cardGlobalKey": "OP02-004",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 200
+      },
+      {
+        "id": 21239,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-005",
+        "cardGlobalKey": "OP02-005",
+        "cardName": "卡莉・達坦",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 22448,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-006",
+        "cardGlobalKey": "OP02-006",
+        "cardName": "金格杜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22225,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-007",
+        "cardGlobalKey": "OP02-007",
+        "cardName": "薩吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20522,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-008",
+        "cardGlobalKey": "OP02-008",
+        "cardName": "裘斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282125,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-009",
+        "cardGlobalKey": "OP02-009",
+        "cardName": "史庫亞德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282126,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-009",
+        "cardGlobalKey": "OP02-009",
+        "cardName": "史庫亞德",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 20
+      },
+      {
+        "id": 22130,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-010",
+        "cardGlobalKey": "OP02-010",
+        "cardName": "多古拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22128,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-011",
+        "cardGlobalKey": "OP02-011",
+        "cardName": "比斯塔",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21898,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-012",
+        "cardGlobalKey": "OP02-012",
+        "cardName": "布雷海姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282127,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-013",
+        "cardGlobalKey": "OP02-013",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 15
+      },
+      {
+        "id": 282128,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-013",
+        "cardGlobalKey": "OP02-013",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1500,
+        "averagePrice": 1500
+      },
+      {
+        "id": 282129,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-013",
+        "cardGlobalKey": "OP02-013",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 50000,
+        "averagePrice": 0
+      },
+      {
+        "id": 21466,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-014",
+        "cardGlobalKey": "OP02-014",
+        "cardName": "雪白之珮",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21008,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-015",
+        "cardGlobalKey": "OP02-015",
+        "cardName": "瑪姬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21016,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-016",
+        "cardGlobalKey": "OP02-016",
+        "cardName": "馬古拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282130,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-017",
+        "cardGlobalKey": "OP02-017",
+        "cardName": "面具・迪斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 282131,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-017",
+        "cardGlobalKey": "OP02-017",
+        "cardName": "面具・迪斯",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 282132,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-018",
+        "cardGlobalKey": "OP02-018",
+        "cardName": "馬可",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282133,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-018",
+        "cardGlobalKey": "OP02-018",
+        "cardName": "馬可",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 95,
+        "averagePrice": 10
+      },
+      {
+        "id": 20608,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-019",
+        "cardGlobalKey": "OP02-019",
+        "cardName": "落葉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 20694,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-020",
+        "cardGlobalKey": "OP02-020",
+        "cardName": "小歐斯Jr.",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22590,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-021",
+        "cardGlobalKey": "OP02-021",
+        "cardName": "海震",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 21252,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-022",
+        "cardGlobalKey": "OP02-022",
+        "cardName": "白鬍子海賊團",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21775,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-023",
+        "cardGlobalKey": "OP02-023",
+        "cardName": "即使是笨兒子我還是會愛你…",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20975,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-024",
+        "cardGlobalKey": "OP02-024",
+        "cardName": "白鯨號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282134,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-025",
+        "cardGlobalKey": "OP02-025",
+        "cardName": "錦右衛門",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282135,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-025",
+        "cardGlobalKey": "OP02-025",
+        "cardName": "錦右衛門",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 0
+      },
+      {
+        "id": 282136,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-026",
+        "cardGlobalKey": "OP02-026",
+        "cardName": "香吉士",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282137,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-026",
+        "cardGlobalKey": "OP02-026",
+        "cardName": "香吉士",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 1999,
+        "averagePrice": 0
+      },
+      {
+        "id": 20618,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-027",
+        "cardGlobalKey": "OP02-027",
+        "cardName": "犬嵐",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 22290,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-028",
+        "cardGlobalKey": "OP02-028",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22436,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-029",
+        "cardGlobalKey": "OP02-029",
+        "cardName": "凱洛特(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282138,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-030",
+        "cardGlobalKey": "OP02-030",
+        "cardName": "光月御田",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282139,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-030",
+        "cardGlobalKey": "OP02-030",
+        "cardName": "光月御田",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 0
+      },
+      {
+        "id": 282140,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-031",
+        "cardGlobalKey": "OP02-031",
+        "cardName": "光月時",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282141,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-031",
+        "cardGlobalKey": "OP02-031",
+        "cardName": "光月時",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 29,
+        "averagePrice": 30
+      },
+      {
+        "id": 22482,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-032",
+        "cardGlobalKey": "OP02-032",
+        "cardName": "西西利昂",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22713,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-033",
+        "cardGlobalKey": "OP02-033",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20752,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-034",
+        "cardGlobalKey": "OP02-034",
+        "cardName": "多尼多尼・喬巴(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21767,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-035",
+        "cardGlobalKey": "OP02-035",
+        "cardName": "托拉法爾加・羅(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282142,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-036",
+        "cardGlobalKey": "OP02-036",
+        "cardName": "娜美(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 282143,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-036",
+        "cardGlobalKey": "OP02-036",
+        "cardName": "娜美(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 500
+      },
+      {
+        "id": 22715,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-037",
+        "cardGlobalKey": "OP02-037",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 20706,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-038",
+        "cardGlobalKey": "OP02-038",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21040,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-039",
+        "cardGlobalKey": "OP02-039",
+        "cardName": "佛朗基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21230,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-040",
+        "cardGlobalKey": "OP02-040",
+        "cardName": "布魯克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 282144,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-041",
+        "cardGlobalKey": "OP02-041",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 8
+      },
+      {
+        "id": 282145,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-041",
+        "cardGlobalKey": "OP02-041",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 850,
+        "averagePrice": 240
+      },
+      {
+        "id": 21075,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-042",
+        "cardGlobalKey": "OP02-042",
+        "cardName": "大和",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 1
+      },
+      {
+        "id": 21815,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-043",
+        "cardGlobalKey": "OP02-043",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22655,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-044",
+        "cardGlobalKey": "OP02-044",
+        "cardName": "萬妲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22148,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-045",
+        "cardGlobalKey": "OP02-045",
+        "cardName": "三刀流　鬼斬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21237,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-046",
+        "cardGlobalKey": "OP02-046",
+        "cardName": "惡魔風腳　野獸肉SHOOT",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21401,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-047",
+        "cardGlobalKey": "OP02-047",
+        "cardName": "桃源十拳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21623,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-048",
+        "cardGlobalKey": "OP02-048",
+        "cardName": "和之國",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 282146,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-049",
+        "cardGlobalKey": "OP02-049",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282147,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-049",
+        "cardGlobalKey": "OP02-049",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 300
+      },
+      {
+        "id": 22648,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-050",
+        "cardGlobalKey": "OP02-050",
+        "cardName": "雷電",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282148,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-051",
+        "cardGlobalKey": "OP02-051",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282149,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-051",
+        "cardGlobalKey": "OP02-051",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 0
+      },
+      {
+        "id": 21513,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-052",
+        "cardGlobalKey": "OP02-052",
+        "cardName": "卡巴吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20528,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-053",
+        "cardGlobalKey": "OP02-053",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20585,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-054",
+        "cardGlobalKey": "OP02-054",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21471,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-055",
+        "cardGlobalKey": "OP02-055",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 22493,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-056",
+        "cardGlobalKey": "OP02-056",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21729,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-057",
+        "cardGlobalKey": "OP02-057",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282150,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-058",
+        "cardGlobalKey": "OP02-058",
+        "cardName": "巴其",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 282151,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-058",
+        "cardGlobalKey": "OP02-058",
+        "cardName": "巴其",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 95,
+        "averagePrice": 0
+      },
+      {
+        "id": 282152,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-059",
+        "cardGlobalKey": "OP02-059",
+        "cardName": "波雅・漢考克(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282153,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-059",
+        "cardGlobalKey": "OP02-059",
+        "cardName": "波雅・漢考克(異圖卡)",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 580,
+        "averagePrice": 630
+      },
+      {
+        "id": 22610,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-060",
+        "cardGlobalKey": "OP02-060",
+        "cardName": "摩奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21434,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-061",
+        "cardGlobalKey": "OP02-061",
+        "cardName": "摩利",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 2
+      },
+      {
+        "id": 282154,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-062",
+        "cardGlobalKey": "OP02-062",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282155,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-062",
+        "cardGlobalKey": "OP02-062",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 350
+      },
+      {
+        "id": 22704,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-063",
+        "cardGlobalKey": "OP02-063",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22261,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-064",
+        "cardGlobalKey": "OP02-064",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 22600,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-065",
+        "cardGlobalKey": "OP02-065",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21708,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-066",
+        "cardGlobalKey": "OP02-066",
+        "cardName": "推進城全明星",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 21147,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-067",
+        "cardGlobalKey": "OP02-067",
+        "cardName": "唐草瓦正拳",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21182,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-068",
+        "cardGlobalKey": "OP02-068",
+        "cardName": "橡膠雨",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 22649,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-069",
+        "cardGlobalKey": "OP02-069",
+        "cardName": "DEATH WINK",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22160,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-070",
+        "cardGlobalKey": "OP02-070",
+        "cardName": "新人類樂園",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282156,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-071",
+        "cardGlobalKey": "OP02-071",
+        "cardName": "麥哲倫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282157,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-071",
+        "cardGlobalKey": "OP02-071",
+        "cardName": "麥哲倫",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282158,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-072",
+        "cardGlobalKey": "OP02-072",
+        "cardName": "Z",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282159,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-072",
+        "cardGlobalKey": "OP02-072",
+        "cardName": "Z",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 280
+      },
+      {
+        "id": 282160,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-073",
+        "cardGlobalKey": "OP02-073",
+        "cardName": "小莎蒂",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282161,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-073",
+        "cardGlobalKey": "OP02-073",
+        "cardName": "小莎蒂",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 20794,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-074",
+        "cardGlobalKey": "OP02-074",
+        "cardName": "薩魯戴斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22709,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-075",
+        "cardGlobalKey": "OP02-075",
+        "cardName": "獅鬼",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 21207,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-076",
+        "cardGlobalKey": "OP02-076",
+        "cardName": "矢龍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21220,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-077",
+        "cardGlobalKey": "OP02-077",
+        "cardName": "索莉媞雅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 20900,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-078",
+        "cardGlobalKey": "OP02-078",
+        "cardName": "道佛戈",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 20662,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-079",
+        "cardGlobalKey": "OP02-079",
+        "cardName": "道格拉斯・巴雷特",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21938,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-080",
+        "cardGlobalKey": "OP02-080",
+        "cardName": "多彭",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21546,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-081",
+        "cardGlobalKey": "OP02-081",
+        "cardName": "托米諾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 21986,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-082",
+        "cardGlobalKey": "OP02-082",
+        "cardName": "班迪・瓦爾德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22176,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-083",
+        "cardGlobalKey": "OP02-083",
+        "cardName": "般若拔",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21030,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-084",
+        "cardGlobalKey": "OP02-084",
+        "cardName": "藍猩猩",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282162,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-085",
+        "cardGlobalKey": "OP02-085",
+        "cardName": "麥哲倫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 15
+      },
+      {
+        "id": 282163,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-085",
+        "cardGlobalKey": "OP02-085",
+        "cardName": "麥哲倫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 282164,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-086",
+        "cardGlobalKey": "OP02-086",
+        "cardName": "米諾無尾熊",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282165,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-086",
+        "cardGlobalKey": "OP02-086",
+        "cardName": "米諾無尾熊",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 21737,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-087",
+        "cardGlobalKey": "OP02-087",
+        "cardName": "米諾陶爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22255,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-088",
+        "cardGlobalKey": "OP02-088",
+        "cardName": "SPHINX",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22691,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-089",
+        "cardGlobalKey": "OP02-089",
+        "cardName": "地獄審判",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 20750,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-090",
+        "cardGlobalKey": "OP02-090",
+        "cardName": "毒龍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20934,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-091",
+        "cardGlobalKey": "OP02-091",
+        "cardName": "毒之路",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20870,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-092",
+        "cardGlobalKey": "OP02-092",
+        "cardName": "推進城",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282166,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-093",
+        "cardGlobalKey": "OP02-093",
+        "cardName": "斯摩格",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282167,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-093",
+        "cardGlobalKey": "OP02-093",
+        "cardName": "斯摩格",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 450
+      },
+      {
+        "id": 21349,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-094",
+        "cardGlobalKey": "OP02-094",
+        "cardName": "伊絲卡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21780,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-095",
+        "cardGlobalKey": "OP02-095",
+        "cardName": "鬼蜘蛛",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282168,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-096",
+        "cardGlobalKey": "OP02-096",
+        "cardName": "庫山(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282169,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-096",
+        "cardGlobalKey": "OP02-096",
+        "cardName": "庫山(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 150
+      },
+      {
+        "id": 22055,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-097",
+        "cardGlobalKey": "OP02-097",
+        "cardName": "柯米爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20703,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-098",
+        "cardGlobalKey": "OP02-098",
+        "cardName": "克比(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282170,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-099",
+        "cardGlobalKey": "OP02-099",
+        "cardName": "盃(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282171,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-099",
+        "cardGlobalKey": "OP02-099",
+        "cardName": "盃(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 110,
+        "averagePrice": 110
+      },
+      {
+        "id": 20928,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-100",
+        "cardGlobalKey": "OP02-100",
+        "cardName": "傑克斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20832,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-101",
+        "cardGlobalKey": "OP02-101",
+        "cardName": "斯托洛貝里",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20884,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-102",
+        "cardGlobalKey": "OP02-102",
+        "cardName": "斯摩格",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21978,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-103",
+        "cardGlobalKey": "OP02-103",
+        "cardName": "戰國",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21440,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-104",
+        "cardGlobalKey": "OP02-104",
+        "cardName": "戰桃丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282172,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-105",
+        "cardGlobalKey": "OP02-105",
+        "cardName": "達絲琪(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282173,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-105",
+        "cardGlobalKey": "OP02-105",
+        "cardName": "達絲琪(異圖卡)",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 10
+      },
+      {
+        "id": 20698,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-106",
+        "cardGlobalKey": "OP02-106",
+        "cardName": "阿鶴(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21014,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-107",
+        "cardGlobalKey": "OP02-107",
+        "cardName": "鬥犬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282174,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-108",
+        "cardGlobalKey": "OP02-108",
+        "cardName": "唐吉訶德・羅希南特(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282175,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-108",
+        "cardGlobalKey": "OP02-108",
+        "cardName": "唐吉訶德・羅希南特(異圖卡)",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 21223,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-109",
+        "cardGlobalKey": "OP02-109",
+        "cardName": "哈古瓦爾・D・薩烏羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22093,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-110",
+        "cardGlobalKey": "OP02-110",
+        "cardName": "希娜",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 22377,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-111",
+        "cardGlobalKey": "OP02-111",
+        "cardName": "芬布迪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22528,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-112",
+        "cardGlobalKey": "OP02-112",
+        "cardName": "貝爾梅爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22004,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-113",
+        "cardGlobalKey": "OP02-113",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 282176,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-114",
+        "cardGlobalKey": "OP02-114",
+        "cardName": "波爾薩利諾(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282177,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-114",
+        "cardGlobalKey": "OP02-114",
+        "cardName": "波爾薩利諾(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 99,
+        "averagePrice": 150
+      },
+      {
+        "id": 282178,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-115",
+        "cardGlobalKey": "OP02-115",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282179,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-115",
+        "cardGlobalKey": "OP02-115",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 99,
+        "averagePrice": 100
+      },
+      {
+        "id": 22668,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-116",
+        "cardGlobalKey": "OP02-116",
+        "cardName": "火燒山",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21822,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-117",
+        "cardGlobalKey": "OP02-117",
+        "cardName": "冰河時代(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22628,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-118",
+        "cardGlobalKey": "OP02-118",
+        "cardName": "八尺瓊勾玉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22204,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-119",
+        "cardGlobalKey": "OP02-119",
+        "cardName": "流星火山",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282180,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-120",
+        "cardGlobalKey": "OP02-120",
+        "cardName": "美音(異圖卡)",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 150
+      },
+      {
+        "id": 282181,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-120",
+        "cardGlobalKey": "OP02-120",
+        "cardName": "美音(異圖卡)",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 700
+      },
+      {
+        "id": 282182,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-121",
+        "cardGlobalKey": "OP02-121",
+        "cardName": "庫山",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282183,
+        "game": "onejp",
+        "packId": "OP-02",
+        "packName": "頂點決戰",
+        "packCardId": "OP02-121",
+        "cardGlobalKey": "OP02-121",
+        "cardName": "庫山",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 300
+      }
+    ]
+  },
+  "message": "ok"
+}

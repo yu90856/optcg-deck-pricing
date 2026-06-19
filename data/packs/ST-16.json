@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162435,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-16-000P",
+        "cardName": "起始牌組 綠 美音",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:39:54+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 350
+      },
+      {
+        "id": 22386,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "P-029",
+        "cardGlobalKey": "P-029",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "P 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 10
+      },
+      {
+        "id": 21701,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "P-057",
+        "cardGlobalKey": "P-057",
+        "cardName": "泡影搖籃曲",
+        "rare": [
+          "P 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 15
+      },
+      {
+        "id": 21663,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "P-058",
+        "cardGlobalKey": "P-058",
+        "cardName": "風之去向",
+        "rare": [
+          "P 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 22275,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "P-059",
+        "cardGlobalKey": "P-059",
+        "cardName": "世界的延續",
+        "rare": [
+          "P 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 15
+      },
+      {
+        "id": 22302,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "P-060",
+        "cardGlobalKey": "P-060",
+        "cardName": "Tot Musica",
+        "rare": [
+          "P 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 15
+      },
+      {
+        "id": 20726,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "P-061",
+        "cardGlobalKey": "P-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "P 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 130,
+        "averagePrice": 100
+      },
+      {
+        "id": 21002,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST11-001",
+        "cardGlobalKey": "ST11-001",
+        "cardName": "美音",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 25
+      },
+      {
+        "id": 22701,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST11-003",
+        "cardGlobalKey": "ST11-003",
+        "cardName": "逆光(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 20954,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST11-004",
+        "cardGlobalKey": "ST11-004",
+        "cardName": "新時代(異圖卡)",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 15
+      },
+      {
+        "id": 21760,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST11-005",
+        "cardGlobalKey": "ST11-005",
+        "cardName": "我最強(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 15
+      },
+      {
+        "id": 22303,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST16-001",
+        "cardGlobalKey": "ST16-001",
+        "cardName": "美音",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 21400,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST16-002",
+        "cardGlobalKey": "ST16-002",
+        "cardName": "高登",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21039,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST16-003",
+        "cardGlobalKey": "ST16-003",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20583,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST16-004",
+        "cardGlobalKey": "ST16-004",
+        "cardName": "傑克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 20
+      },
+      {
+        "id": 21547,
+        "game": "onejp",
+        "packId": "ST-16",
+        "packName": "綠 美音",
+        "packCardId": "ST16-005",
+        "cardGlobalKey": "ST16-005",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      }
+    ]
+  },
+  "message": "ok"
+}

@@ -1,0 +1,2289 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282557,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-10",
+        "cardName": "王族血脈 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1680,
+        "averagePrice": 1680
+      },
+      {
+        "id": 282558,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-10",
+        "cardName": "王族血脈 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 45,
+        "averagePrice": 45
+      },
+      {
+        "id": 22659,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "EB01-056",
+        "cardGlobalKey": "EB01-056",
+        "cardName": "夏洛特・芙蘭佩",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 500
+      },
+      {
+        "id": 21499,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP07-021",
+        "cardGlobalKey": "OP07-021",
+        "cardName": "烏魯基",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 280,
+        "averagePrice": 270
+      },
+      {
+        "id": 282559,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-001",
+        "cardGlobalKey": "OP10-001",
+        "cardName": "斯摩格",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282560,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-001",
+        "cardGlobalKey": "OP10-001",
+        "cardName": "斯摩格",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 200
+      },
+      {
+        "id": 282561,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-002",
+        "cardGlobalKey": "OP10-002",
+        "cardName": "凱薩克勞恩",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282562,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-002",
+        "cardGlobalKey": "OP10-002",
+        "cardName": "凱薩克勞恩",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 100
+      },
+      {
+        "id": 282563,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-003",
+        "cardGlobalKey": "OP10-003",
+        "cardName": "砂糖",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282564,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-003",
+        "cardGlobalKey": "OP10-003",
+        "cardName": "砂糖",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 175,
+        "averagePrice": 150
+      },
+      {
+        "id": 22014,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-004",
+        "cardGlobalKey": "OP10-004",
+        "cardName": "威爾可",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282565,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-005",
+        "cardGlobalKey": "OP10-005",
+        "cardName": "香吉士",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 50
+      },
+      {
+        "id": 282566,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-005",
+        "cardGlobalKey": "OP10-005",
+        "cardName": "香吉士",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 180
+      },
+      {
+        "id": 20637,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-006",
+        "cardGlobalKey": "OP10-006",
+        "cardName": "凱薩克勞恩",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22056,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-007",
+        "cardGlobalKey": "OP10-007",
+        "cardName": "凱薩兵",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22536,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-008",
+        "cardGlobalKey": "OP10-008",
+        "cardName": "史考基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20771,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-009",
+        "cardGlobalKey": "OP10-009",
+        "cardName": "史邁利",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22232,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-010",
+        "cardGlobalKey": "OP10-010",
+        "cardName": "查多羅斯・希格利格斯(褐鬍子)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21462,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-011",
+        "cardGlobalKey": "OP10-011",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 20
+      },
+      {
+        "id": 22557,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-012",
+        "cardGlobalKey": "OP10-012",
+        "cardName": "龍13號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20672,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-013",
+        "cardGlobalKey": "OP10-013",
+        "cardName": "娜美",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20546,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-014",
+        "cardGlobalKey": "OP10-014",
+        "cardName": "佛朗基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20638,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-015",
+        "cardGlobalKey": "OP10-015",
+        "cardName": "蒙查",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282567,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-016",
+        "cardGlobalKey": "OP10-016",
+        "cardName": "莫內",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282568,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-016",
+        "cardGlobalKey": "OP10-016",
+        "cardName": "莫內",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 90
+      },
+      {
+        "id": 22240,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-017",
+        "cardGlobalKey": "OP10-017",
+        "cardName": "洛克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21136,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-018",
+        "cardGlobalKey": "OP10-018",
+        "cardName": "雪洞十草紙",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282569,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-019",
+        "cardGlobalKey": "OP10-019",
+        "cardName": "神避",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282570,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-019",
+        "cardGlobalKey": "OP10-019",
+        "cardName": "神避",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 990,
+        "averagePrice": 940
+      },
+      {
+        "id": 21939,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-020",
+        "cardGlobalKey": "OP10-020",
+        "cardName": "橡膠UFO",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22355,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-021",
+        "cardGlobalKey": "OP10-021",
+        "cardName": "龐克哈薩特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282571,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-022",
+        "cardGlobalKey": "OP10-022",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282572,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-022",
+        "cardGlobalKey": "OP10-022",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 200
+      },
+      {
+        "id": 22707,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-023",
+        "cardGlobalKey": "OP10-023",
+        "cardName": "一笑",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21743,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-024",
+        "cardGlobalKey": "OP10-024",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 22417,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-025",
+        "cardGlobalKey": "OP10-025",
+        "cardName": "艾涅爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20772,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-026",
+        "cardGlobalKey": "OP10-026",
+        "cardName": "錦右衛門",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21073,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-027",
+        "cardGlobalKey": "OP10-027",
+        "cardName": "錦右衛門",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21597,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-028",
+        "cardGlobalKey": "OP10-028",
+        "cardName": "光月桃之助",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20604,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-029",
+        "cardGlobalKey": "OP10-029",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282573,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-030",
+        "cardGlobalKey": "OP10-030",
+        "cardName": "斯摩格",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 15
+      },
+      {
+        "id": 282574,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-030",
+        "cardGlobalKey": "OP10-030",
+        "cardName": "斯摩格",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 200
+      },
+      {
+        "id": 20659,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-031",
+        "cardGlobalKey": "OP10-031",
+        "cardName": "戰國",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282575,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-032",
+        "cardGlobalKey": "OP10-032",
+        "cardName": "達絲琪",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 20
+      },
+      {
+        "id": 282576,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-032",
+        "cardGlobalKey": "OP10-032",
+        "cardName": "達絲琪",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 95,
+        "averagePrice": 160
+      },
+      {
+        "id": 22241,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-033",
+        "cardGlobalKey": "OP10-033",
+        "cardName": "娜美",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21305,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-034",
+        "cardGlobalKey": "OP10-034",
+        "cardName": "佛朗基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21543,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-035",
+        "cardGlobalKey": "OP10-035",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21653,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-036",
+        "cardGlobalKey": "OP10-036",
+        "cardName": "培羅娜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282577,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-037",
+        "cardGlobalKey": "OP10-037",
+        "cardName": "莉姆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282578,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-037",
+        "cardGlobalKey": "OP10-037",
+        "cardName": "莉姆",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 40
+      },
+      {
+        "id": 21598,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-038",
+        "cardGlobalKey": "OP10-038",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21267,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-039",
+        "cardGlobalKey": "OP10-039",
+        "cardName": "橡膠龍火炎槍捲星",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21816,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-040",
+        "cardGlobalKey": "OP10-040",
+        "cardName": "弱者連死法都不能夠選擇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22177,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-041",
+        "cardGlobalKey": "OP10-041",
+        "cardName": "高頻手術刀",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282579,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-042",
+        "cardGlobalKey": "OP10-042",
+        "cardName": "騙人布",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282580,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-042",
+        "cardGlobalKey": "OP10-042",
+        "cardName": "騙人布",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 470
+      },
+      {
+        "id": 20589,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-043",
+        "cardGlobalKey": "OP10-043",
+        "cardName": "哞西",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22483,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-044",
+        "cardGlobalKey": "OP10-044",
+        "cardName": "喀布",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282581,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-045",
+        "cardGlobalKey": "OP10-045",
+        "cardName": "卡文迪許",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 50
+      },
+      {
+        "id": 282582,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-045",
+        "cardGlobalKey": "OP10-045",
+        "cardName": "卡文迪許",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 345,
+        "averagePrice": 350
+      },
+      {
+        "id": 282583,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-046",
+        "cardGlobalKey": "OP10-046",
+        "cardName": "居魯士",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282584,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-046",
+        "cardGlobalKey": "OP10-046",
+        "cardName": "居魯士",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 75
+      },
+      {
+        "id": 22171,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-047",
+        "cardGlobalKey": "OP10-047",
+        "cardName": "可亞拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 20574,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-048",
+        "cardGlobalKey": "OP10-048",
+        "cardName": "雜菜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22089,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-049",
+        "cardGlobalKey": "OP10-049",
+        "cardName": "薩波",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20782,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-050",
+        "cardGlobalKey": "OP10-050",
+        "cardName": "哈爾汀",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20592,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-051",
+        "cardGlobalKey": "OP10-051",
+        "cardName": "哈克",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21632,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-052",
+        "cardGlobalKey": "OP10-052",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20689,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-053",
+        "cardGlobalKey": "OP10-053",
+        "cardName": "蓽安",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22394,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-054",
+        "cardGlobalKey": "OP10-054",
+        "cardName": "布魯基利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22612,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-055",
+        "cardGlobalKey": "OP10-055",
+        "cardName": "馬可",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21158,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-056",
+        "cardGlobalKey": "OP10-056",
+        "cardName": "蔓雪莉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21023,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-057",
+        "cardGlobalKey": "OP10-057",
+        "cardName": "雷奧",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282585,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-058",
+        "cardGlobalKey": "OP10-058",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 8
+      },
+      {
+        "id": 282586,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-058",
+        "cardGlobalKey": "OP10-058",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 120
+      },
+      {
+        "id": 22629,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-059",
+        "cardGlobalKey": "OP10-059",
+        "cardName": "讓我…帶…領…你們…!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21475,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-060",
+        "cardGlobalKey": "OP10-060",
+        "cardName": "防護罩槍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20569,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-061",
+        "cardGlobalKey": "OP10-061",
+        "cardName": "必殺!!遠距離「蓑衣蟲星」",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22423,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-062",
+        "cardGlobalKey": "OP10-062",
+        "cardName": "維爾莉特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22057,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-063",
+        "cardGlobalKey": "OP10-063",
+        "cardName": "賓什莫克・香吉士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20746,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-064",
+        "cardGlobalKey": "OP10-064",
+        "cardName": "複製兵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20727,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-065",
+        "cardGlobalKey": "OP10-065",
+        "cardName": "砂糖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 22106,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-066",
+        "cardGlobalKey": "OP10-066",
+        "cardName": "喬菈",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282587,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-067",
+        "cardGlobalKey": "OP10-067",
+        "cardName": "粉紅先生",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282588,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-067",
+        "cardGlobalKey": "OP10-067",
+        "cardName": "粉紅先生",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 145,
+        "averagePrice": 300
+      },
+      {
+        "id": 21199,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-068",
+        "cardGlobalKey": "OP10-068",
+        "cardName": "帝雅曼鐵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21754,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-069",
+        "cardGlobalKey": "OP10-069",
+        "cardName": "鬥魚",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22005,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-070",
+        "cardGlobalKey": "OP10-070",
+        "cardName": "托雷波爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282589,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-071",
+        "cardGlobalKey": "OP10-071",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 30
+      },
+      {
+        "id": 282590,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-071",
+        "cardGlobalKey": "OP10-071",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 195,
+        "averagePrice": 250
+      },
+      {
+        "id": 282591,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-072",
+        "cardGlobalKey": "OP10-072",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282592,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-072",
+        "cardGlobalKey": "OP10-072",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 180
+      },
+      {
+        "id": 22350,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-073",
+        "cardGlobalKey": "OP10-073",
+        "cardName": "水牛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21642,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-074",
+        "cardGlobalKey": "OP10-074",
+        "cardName": "皮卡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21795,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-075",
+        "cardGlobalKey": "OP10-075",
+        "cardName": "弗克西",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22242,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-076",
+        "cardGlobalKey": "OP10-076",
+        "cardName": "BABY5",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 20525,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-077",
+        "cardGlobalKey": "OP10-077",
+        "cardName": "貝拉密",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20941,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-078",
+        "cardGlobalKey": "OP10-078",
+        "cardName": "我絕對不會放過嘲笑我家人的傢伙…!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20532,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-079",
+        "cardGlobalKey": "OP10-079",
+        "cardName": "神誅殺",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21498,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-080",
+        "cardGlobalKey": "OP10-080",
+        "cardName": "小熊玩具",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20773,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-081",
+        "cardGlobalKey": "OP10-081",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282593,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-082",
+        "cardGlobalKey": "OP10-082",
+        "cardName": "庫山",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282594,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-082",
+        "cardGlobalKey": "OP10-082",
+        "cardName": "庫山",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 275,
+        "averagePrice": 270
+      },
+      {
+        "id": 20914,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-083",
+        "cardGlobalKey": "OP10-083",
+        "cardName": "光月桃之助",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20642,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-084",
+        "cardGlobalKey": "OP10-084",
+        "cardName": "薩方・烏爾夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20733,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-085",
+        "cardGlobalKey": "OP10-085",
+        "cardName": "吉札士・伯吉斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22283,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-086",
+        "cardGlobalKey": "OP10-086",
+        "cardName": "矢龍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22157,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-087",
+        "cardGlobalKey": "OP10-087",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20951,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-088",
+        "cardGlobalKey": "OP10-088",
+        "cardName": "娜美",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21881,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-089",
+        "cardGlobalKey": "OP10-089",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282595,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-090",
+        "cardGlobalKey": "OP10-090",
+        "cardName": "佛朗基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282596,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-090",
+        "cardGlobalKey": "OP10-090",
+        "cardName": "佛朗基",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 80
+      },
+      {
+        "id": 22422,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-091",
+        "cardGlobalKey": "OP10-091",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21919,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-092",
+        "cardGlobalKey": "OP10-092",
+        "cardName": "培羅娜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21411,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-093",
+        "cardGlobalKey": "OP10-093",
+        "cardName": "荷敏聖",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22090,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-094",
+        "cardGlobalKey": "OP10-094",
+        "cardName": "龍馬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21900,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-095",
+        "cardGlobalKey": "OP10-095",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22432,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-096",
+        "cardGlobalKey": "OP10-096",
+        "cardName": "已經不需要王下七武海了…!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21024,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-097",
+        "cardGlobalKey": "OP10-097",
+        "cardName": "橡膠犀榴彈砲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21347,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-098",
+        "cardGlobalKey": "OP10-098",
+        "cardName": "解放",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282597,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-099",
+        "cardGlobalKey": "OP10-099",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282598,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-099",
+        "cardGlobalKey": "OP10-099",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 165
+      },
+      {
+        "id": 21891,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-100",
+        "cardGlobalKey": "OP10-100",
+        "cardName": "雷電",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21345,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-101",
+        "cardGlobalKey": "OP10-101",
+        "cardName": "烏魯基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20609,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-102",
+        "cardGlobalKey": "OP10-102",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20866,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-103",
+        "cardGlobalKey": "OP10-103",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21068,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-104",
+        "cardGlobalKey": "OP10-104",
+        "cardName": "格列佛",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21507,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-105",
+        "cardGlobalKey": "OP10-105",
+        "cardName": "卡文迪許",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22341,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-106",
+        "cardGlobalKey": "OP10-106",
+        "cardName": "奇拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20593,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-107",
+        "cardGlobalKey": "OP10-107",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21776,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-108",
+        "cardGlobalKey": "OP10-108",
+        "cardName": "刮盤人・亞普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21463,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-109",
+        "cardGlobalKey": "OP10-109",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21922,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-110",
+        "cardGlobalKey": "OP10-110",
+        "cardName": "希特＆瓦耶",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282599,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-111",
+        "cardGlobalKey": "OP10-111",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282600,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-111",
+        "cardGlobalKey": "OP10-111",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 240,
+        "averagePrice": 150
+      },
+      {
+        "id": 282601,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-112",
+        "cardGlobalKey": "OP10-112",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 282602,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-112",
+        "cardGlobalKey": "OP10-112",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 195,
+        "averagePrice": 220
+      },
+      {
+        "id": 20874,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-113",
+        "cardGlobalKey": "OP10-113",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20841,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-114",
+        "cardGlobalKey": "OP10-114",
+        "cardName": "X・多雷古",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21069,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-115",
+        "cardGlobalKey": "OP10-115",
+        "cardName": "我們在「新世界」再見吧",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21435,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-116",
+        "cardGlobalKey": "OP10-116",
+        "cardName": "電磁砲",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20862,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-117",
+        "cardGlobalKey": "OP10-117",
+        "cardName": "ROOM",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282603,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-118",
+        "cardGlobalKey": "OP10-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 150
+      },
+      {
+        "id": 282604,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-118",
+        "cardGlobalKey": "OP10-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 1200
+      },
+      {
+        "id": 282605,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-119",
+        "cardGlobalKey": "OP10-119",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 30
+      },
+      {
+        "id": 282606,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-119",
+        "cardGlobalKey": "OP10-119",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 300
+      },
+      {
+        "id": 282607,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "OP10-119",
+        "cardGlobalKey": "OP10-119",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 15000,
+        "averagePrice": 11000
+      },
+      {
+        "id": 21200,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "ST12-012",
+        "cardGlobalKey": "ST12-012",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 650
+      },
+      {
+        "id": 21322,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "ST14-003",
+        "cardGlobalKey": "ST14-003",
+        "cardName": "香吉士",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1150,
+        "averagePrice": 750
+      },
+      {
+        "id": 20696,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "ST15-002",
+        "cardGlobalKey": "ST15-002",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 2500,
+        "averagePrice": 2500
+      },
+      {
+        "id": 22011,
+        "game": "onejp",
+        "packId": "OP-10",
+        "packName": "王族血脈",
+        "packCardId": "ST18-001",
+        "cardGlobalKey": "ST18-001",
+        "cardName": "騙人八",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1250,
+        "averagePrice": 1000
+      }
+    ]
+  },
+  "message": "ok"
+}

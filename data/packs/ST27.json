@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 320530,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "000T",
+        "cardGlobalKey": "ST27-000T",
+        "cardName": "起始牌組 黑 馬歇爾D汀奇(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-05-09T18:12:23+08:00",
+        "lowestPrice": 170,
+        "averagePrice": 0
+      },
+      {
+        "id": 173490,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-081",
+        "cardGlobalKey": "OP09-081",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-07-11T15:53:11+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 59
+      },
+      {
+        "id": 173491,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-083",
+        "cardGlobalKey": "OP09-083",
+        "cardName": "范・歐葛",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173492,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-086",
+        "cardGlobalKey": "OP09-086",
+        "cardName": "吉札士・伯吉斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173493,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-088",
+        "cardGlobalKey": "OP09-088",
+        "cardName": "矢龍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173494,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-089",
+        "cardGlobalKey": "OP09-089",
+        "cardName": "壯馬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173495,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-090",
+        "cardGlobalKey": "OP09-090",
+        "cardName": "Q醫生",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 173496,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-091",
+        "cardGlobalKey": "OP09-091",
+        "cardName": "巴斯可・簫特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173497,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-095",
+        "cardGlobalKey": "OP09-095",
+        "cardName": "拉菲特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 173498,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP09-099",
+        "cardGlobalKey": "OP09-099",
+        "cardName": "蜂巢",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173499,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "OP10-084",
+        "cardGlobalKey": "OP10-084",
+        "cardName": "薩方・烏爾夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:53:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173504,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "ST27-001",
+        "cardGlobalKey": "ST27-001",
+        "cardName": "亞帕羅・比薩羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:54:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173503,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "ST27-002",
+        "cardGlobalKey": "ST27-002",
+        "cardName": "卡達莉納・戴彭",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:54:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173502,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "ST27-003",
+        "cardGlobalKey": "ST27-003",
+        "cardName": "庫山",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:54:44+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 43
+      },
+      {
+        "id": 173501,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "ST27-004",
+        "cardGlobalKey": "ST27-004",
+        "cardName": "薩方・烏爾夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:54:44+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173500,
+        "game": "onejp",
+        "packId": "ST27",
+        "packName": "起始牌組 黑 馬歇爾・D・汀奇",
+        "packCardId": "ST27-005",
+        "cardGlobalKey": "ST27-005",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:54:44+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 50
+      }
+    ]
+  },
+  "message": "ok"
+}

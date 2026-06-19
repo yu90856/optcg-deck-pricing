@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162434,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-15-000P",
+        "cardName": "起始牌組 紅 艾德華・紐蓋特",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:39:25+08:00",
+        "lowestPrice": 130,
+        "averagePrice": 150
+      },
+      {
+        "id": 21186,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP02-001",
+        "cardGlobalKey": "OP02-001",
+        "cardName": "艾德華・紐蓋特(異圖卡)",
+        "rare": [
+          "L 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 20
+      },
+      {
+        "id": 22672,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP02-008",
+        "cardGlobalKey": "OP02-008",
+        "cardName": "裘斯",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22687,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP02-018",
+        "cardGlobalKey": "OP02-018",
+        "cardName": "馬可",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 22504,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP02-019",
+        "cardGlobalKey": "OP02-019",
+        "cardName": "落葉",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21325,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP02-023",
+        "cardGlobalKey": "OP02-023",
+        "cardName": "即使是笨兒子我還是會愛你…",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22361,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP03-003",
+        "cardGlobalKey": "OP03-003",
+        "cardName": "以藏",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 20701,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP03-006",
+        "cardGlobalKey": "OP03-006",
+        "cardName": "史比托・吉爾",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20781,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP03-007",
+        "cardGlobalKey": "OP03-007",
+        "cardName": "納米爾",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22317,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP03-009",
+        "cardGlobalKey": "OP03-009",
+        "cardName": "哈爾達",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20906,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "OP03-010",
+        "cardGlobalKey": "OP03-010",
+        "cardName": "佛薩",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22609,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "ST15-001",
+        "cardGlobalKey": "ST15-001",
+        "cardName": "亞托摩斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21995,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "ST15-002",
+        "cardGlobalKey": "ST15-002",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 20
+      },
+      {
+        "id": 22147,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "ST15-003",
+        "cardGlobalKey": "ST15-003",
+        "cardName": "金格杜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21111,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "ST15-004",
+        "cardGlobalKey": "ST15-004",
+        "cardName": "薩吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 21983,
+        "game": "onejp",
+        "packId": "ST-15",
+        "packName": "紅 艾德華・紐蓋特",
+        "packCardId": "ST15-005",
+        "cardGlobalKey": "ST15-005",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 35,
+        "averagePrice": 40
+      }
+    ]
+  },
+  "message": "ok"
+}

@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162436,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-17-000P",
+        "cardName": "起始牌組 藍 唐吉訶德・多佛朗明哥",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:40:07+08:00",
+        "lowestPrice": 6000,
+        "averagePrice": 120
+      },
+      {
+        "id": 22584,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "OP01-060",
+        "cardGlobalKey": "OP01-060",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 22329,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "OP01-073",
+        "cardGlobalKey": "OP01-073",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22154,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "OP01-086",
+        "cardGlobalKey": "OP01-086",
+        "cardName": "超荷鞭線",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22085,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "OP02-054",
+        "cardGlobalKey": "OP02-054",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20660,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "OP02-057",
+        "cardGlobalKey": "OP02-057",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21645,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "P-030",
+        "cardGlobalKey": "P-030",
+        "cardName": "吉貝爾",
+        "rare": [
+          "P 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 20517,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST03-002",
+        "cardGlobalKey": "ST03-002",
+        "cardName": "艾德華・衛伯",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22534,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST03-004",
+        "cardGlobalKey": "ST03-004",
+        "cardName": "月光・摩利亞(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 20611,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST03-005",
+        "cardGlobalKey": "ST03-005",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21969,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST03-008",
+        "cardGlobalKey": "ST03-008",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "C 異圖七"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 22297,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST17-001",
+        "cardGlobalKey": "ST17-001",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22099,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST17-002",
+        "cardGlobalKey": "ST17-002",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 21109,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST17-003",
+        "cardGlobalKey": "ST17-003",
+        "cardName": "巴其",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22555,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST17-004",
+        "cardGlobalKey": "ST17-004",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 20890,
+        "game": "onejp",
+        "packId": "ST-17",
+        "packName": "藍 唐吉訶德・多佛朗明哥",
+        "packCardId": "ST17-005",
+        "cardGlobalKey": "ST17-005",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      }
+    ]
+  },
+  "message": "ok"
+}

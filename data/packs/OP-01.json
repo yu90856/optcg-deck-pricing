@@ -1,0 +1,2349 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282050,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-01-000P",
+        "cardName": "ROMANCE DAWN 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 9940,
+        "averagePrice": 0
+      },
+      {
+        "id": 282051,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-01-000P",
+        "cardName": "ROMANCE DAWN 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 370,
+        "averagePrice": 0
+      },
+      {
+        "id": 282052,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-001",
+        "cardGlobalKey": "OP01-001",
+        "cardName": "羅羅亞・索隆(異圖卡)",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282053,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-001",
+        "cardGlobalKey": "OP01-001",
+        "cardName": "羅羅亞・索隆(異圖卡)",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 2000
+      },
+      {
+        "id": 282054,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-002",
+        "cardGlobalKey": "OP01-002",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282055,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-002",
+        "cardGlobalKey": "OP01-002",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 2500
+      },
+      {
+        "id": 282056,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-003",
+        "cardGlobalKey": "OP01-003",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 299,
+        "averagePrice": 100
+      },
+      {
+        "id": 282057,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-003",
+        "cardGlobalKey": "OP01-003",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 8000,
+        "averagePrice": 7700
+      },
+      {
+        "id": 22667,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-004",
+        "cardGlobalKey": "OP01-004",
+        "cardName": "騙人布(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22179,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-005",
+        "cardGlobalKey": "OP01-005",
+        "cardName": "美音(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 22511,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-006",
+        "cardGlobalKey": "OP01-006",
+        "cardName": "玉兒",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 22535,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-007",
+        "cardGlobalKey": "OP01-007",
+        "cardName": "格列佛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282058,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-008",
+        "cardGlobalKey": "OP01-008",
+        "cardName": "卡文迪許",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282059,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-008",
+        "cardGlobalKey": "OP01-008",
+        "cardName": "卡文迪許",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 21476,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-009",
+        "cardGlobalKey": "OP01-009",
+        "cardName": "凱洛特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 22330,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-010",
+        "cardGlobalKey": "OP01-010",
+        "cardName": "狛千世",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21525,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-011",
+        "cardGlobalKey": "OP01-011",
+        "cardName": "高登",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22407,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-012",
+        "cardGlobalKey": "OP01-012",
+        "cardName": "雜菜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282060,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-013",
+        "cardGlobalKey": "OP01-013",
+        "cardName": "香吉士(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 0
+      },
+      {
+        "id": 282061,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-013",
+        "cardGlobalKey": "OP01-013",
+        "cardName": "香吉士(異圖卡)",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 250
+      },
+      {
+        "id": 22070,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-014",
+        "cardGlobalKey": "OP01-014",
+        "cardName": "吉貝爾(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21931,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-015",
+        "cardGlobalKey": "OP01-015",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 8
+      },
+      {
+        "id": 282062,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-016",
+        "cardGlobalKey": "OP01-016",
+        "cardName": "娜美(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 20
+      },
+      {
+        "id": 282063,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-016",
+        "cardGlobalKey": "OP01-016",
+        "cardName": "娜美(異圖卡)",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 8000,
+        "averagePrice": 2500
+      },
+      {
+        "id": 21067,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-017",
+        "cardGlobalKey": "OP01-017",
+        "cardName": "妮可・羅賓(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22267,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-018",
+        "cardGlobalKey": "OP01-018",
+        "cardName": "哈爾汀",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21656,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-019",
+        "cardGlobalKey": "OP01-019",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22570,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-020",
+        "cardGlobalKey": "OP01-020",
+        "cardName": "豹五郎",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20729,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-021",
+        "cardGlobalKey": "OP01-021",
+        "cardName": "佛朗基(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21928,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-022",
+        "cardGlobalKey": "OP01-022",
+        "cardName": "布魯克(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21404,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-023",
+        "cardGlobalKey": "OP01-023",
+        "cardName": "馬可",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 282064,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-024",
+        "cardGlobalKey": "OP01-024",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 15
+      },
+      {
+        "id": 282065,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-024",
+        "cardGlobalKey": "OP01-024",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 1700,
+        "averagePrice": 1550
+      },
+      {
+        "id": 282066,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-025",
+        "cardGlobalKey": "OP01-025",
+        "cardName": "羅羅亞・索隆(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 282067,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-025",
+        "cardGlobalKey": "OP01-025",
+        "cardName": "羅羅亞・索隆(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 900,
+        "averagePrice": 950
+      },
+      {
+        "id": 22051,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-026",
+        "cardGlobalKey": "OP01-026",
+        "cardName": "橡膠火拳槍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 20798,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-027",
+        "cardGlobalKey": "OP01-027",
+        "cardName": "圓桌",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 20
+      },
+      {
+        "id": 20751,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-028",
+        "cardGlobalKey": "OP01-028",
+        "cardName": "必殺綠星霸王花",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 21569,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-029",
+        "cardGlobalKey": "OP01-029",
+        "cardName": "佛朗基激光～～～束!!!!(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20780,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-030",
+        "cardGlobalKey": "OP01-030",
+        "cardName": "兩年後!!!在夏波帝群島!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282068,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-031",
+        "cardGlobalKey": "OP01-031",
+        "cardName": "光月御田",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282069,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-031",
+        "cardGlobalKey": "OP01-031",
+        "cardName": "光月御田",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 580,
+        "averagePrice": 600
+      },
+      {
+        "id": 20644,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-032",
+        "cardGlobalKey": "OP01-032",
+        "cardName": "阿修羅童子",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21828,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-033",
+        "cardGlobalKey": "OP01-033",
+        "cardName": "以藏",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282070,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-034",
+        "cardGlobalKey": "OP01-034",
+        "cardName": "犬嵐",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282071,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-034",
+        "cardGlobalKey": "OP01-034",
+        "cardName": "犬嵐",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 21851,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-035",
+        "cardGlobalKey": "OP01-035",
+        "cardName": "阿菊(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 22553,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-036",
+        "cardGlobalKey": "OP01-036",
+        "cardName": "阿鶴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 22605,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-037",
+        "cardGlobalKey": "OP01-037",
+        "cardName": "河松",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21047,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-038",
+        "cardGlobalKey": "OP01-038",
+        "cardName": "勘十郎",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21657,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-039",
+        "cardGlobalKey": "OP01-039",
+        "cardName": "奇拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282072,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-040",
+        "cardGlobalKey": "OP01-040",
+        "cardName": "錦右衛門",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282073,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-040",
+        "cardGlobalKey": "OP01-040",
+        "cardName": "錦右衛門",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 0
+      },
+      {
+        "id": 20827,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-041",
+        "cardGlobalKey": "OP01-041",
+        "cardName": "光月桃之助(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21646,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-042",
+        "cardGlobalKey": "OP01-042",
+        "cardName": "小紫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 22332,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-043",
+        "cardGlobalKey": "OP01-043",
+        "cardName": "忍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22180,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-044",
+        "cardGlobalKey": "OP01-044",
+        "cardName": "夏奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22690,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-045",
+        "cardGlobalKey": "OP01-045",
+        "cardName": "強帕爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21394,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-046",
+        "cardGlobalKey": "OP01-046",
+        "cardName": "傳二郎",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282074,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-047",
+        "cardGlobalKey": "OP01-047",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282075,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-047",
+        "cardGlobalKey": "OP01-047",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 270,
+        "averagePrice": 250
+      },
+      {
+        "id": 282076,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-048",
+        "cardGlobalKey": "OP01-048",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282077,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-048",
+        "cardGlobalKey": "OP01-048",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 21121,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-049",
+        "cardGlobalKey": "OP01-049",
+        "cardName": "培波",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22183,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-050",
+        "cardGlobalKey": "OP01-050",
+        "cardName": "企鵝",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282078,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-051",
+        "cardGlobalKey": "OP01-051",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282079,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-051",
+        "cardGlobalKey": "OP01-051",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 50
+      },
+      {
+        "id": 20617,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-052",
+        "cardGlobalKey": "OP01-052",
+        "cardName": "雷藏",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 21317,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-053",
+        "cardGlobalKey": "OP01-053",
+        "cardName": "瓦耶",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 22547,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-054",
+        "cardGlobalKey": "OP01-054",
+        "cardName": "X・多雷古",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22398,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-055",
+        "cardGlobalKey": "OP01-055",
+        "cardName": "成為我的”武士”吧!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21164,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-056",
+        "cardGlobalKey": "OP01-056",
+        "cardName": "降魔之相",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21259,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-057",
+        "cardGlobalKey": "OP01-057",
+        "cardName": "桃源白瀧(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21772,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-058",
+        "cardGlobalKey": "OP01-058",
+        "cardName": "磁氣弦",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21577,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-059",
+        "cardGlobalKey": "OP01-059",
+        "cardName": "琤琤!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282080,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-060",
+        "cardGlobalKey": "OP01-060",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282081,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-060",
+        "cardGlobalKey": "OP01-060",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282082,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-061",
+        "cardGlobalKey": "OP01-061",
+        "cardName": "海道",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 282083,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-061",
+        "cardGlobalKey": "OP01-061",
+        "cardName": "海道",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 300
+      },
+      {
+        "id": 282084,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-062",
+        "cardGlobalKey": "OP01-062",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282085,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-062",
+        "cardGlobalKey": "OP01-062",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 600
+      },
+      {
+        "id": 21194,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-063",
+        "cardGlobalKey": "OP01-063",
+        "cardName": "惡龍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282086,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-064",
+        "cardGlobalKey": "OP01-064",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 282087,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-064",
+        "cardGlobalKey": "OP01-064",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 40
+      },
+      {
+        "id": 22367,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-065",
+        "cardGlobalKey": "OP01-065",
+        "cardName": "威爾可",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22516,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-066",
+        "cardGlobalKey": "OP01-066",
+        "cardName": "克利克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282088,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-067",
+        "cardGlobalKey": "OP01-067",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282089,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-067",
+        "cardGlobalKey": "OP01-067",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 0
+      },
+      {
+        "id": 21295,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-068",
+        "cardGlobalKey": "OP01-068",
+        "cardName": "月光‧摩利亞",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21565,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-069",
+        "cardGlobalKey": "OP01-069",
+        "cardName": "凱薩克勞恩",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 282090,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-070",
+        "cardGlobalKey": "OP01-070",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 282091,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-070",
+        "cardGlobalKey": "OP01-070",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 0
+      },
+      {
+        "id": 22210,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-071",
+        "cardGlobalKey": "OP01-071",
+        "cardName": "吉貝爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22045,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-072",
+        "cardGlobalKey": "OP01-072",
+        "cardName": "史邁利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282092,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-073",
+        "cardGlobalKey": "OP01-073",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282093,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-073",
+        "cardGlobalKey": "OP01-073",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 160
+      },
+      {
+        "id": 20693,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-074",
+        "cardGlobalKey": "OP01-074",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20991,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-075",
+        "cardGlobalKey": "OP01-075",
+        "cardName": "和平主義者",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22387,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-076",
+        "cardGlobalKey": "OP01-076",
+        "cardName": "貝拉密",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282094,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-077",
+        "cardGlobalKey": "OP01-077",
+        "cardName": "培羅娜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 282095,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-077",
+        "cardGlobalKey": "OP01-077",
+        "cardName": "培羅娜",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 282096,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-078",
+        "cardGlobalKey": "OP01-078",
+        "cardName": "波雅‧漢考克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      },
+      {
+        "id": 282097,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-078",
+        "cardGlobalKey": "OP01-078",
+        "cardName": "波雅‧漢考克",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 2500,
+        "averagePrice": 1500
+      },
+      {
+        "id": 21444,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-079",
+        "cardGlobalKey": "OP01-079",
+        "cardName": "Miss All星期天",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20950,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-080",
+        "cardGlobalKey": "OP01-080",
+        "cardName": "Miss雙手指(薩菈)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 22127,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-081",
+        "cardGlobalKey": "OP01-081",
+        "cardName": "蒙查",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 22269,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-082",
+        "cardGlobalKey": "OP01-082",
+        "cardName": "莫內",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 22723,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-083",
+        "cardGlobalKey": "OP01-083",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21797,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-084",
+        "cardGlobalKey": "OP01-084",
+        "cardName": "Mr.2(馮・克雷)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 20578,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-085",
+        "cardGlobalKey": "OP01-085",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 20933,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-086",
+        "cardGlobalKey": "OP01-086",
+        "cardName": "超荷鞭線",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22228,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-087",
+        "cardGlobalKey": "OP01-087",
+        "cardName": "高級特務",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 22375,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-088",
+        "cardGlobalKey": "OP01-088",
+        "cardName": "砂漠寶刀",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20584,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-089",
+        "cardGlobalKey": "OP01-089",
+        "cardName": "三日月形砂丘",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      },
+      {
+        "id": 22155,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-090",
+        "cardGlobalKey": "OP01-090",
+        "cardName": "巴洛克華克",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282098,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-091",
+        "cardGlobalKey": "OP01-091",
+        "cardName": "KING",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282099,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-091",
+        "cardGlobalKey": "OP01-091",
+        "cardName": "KING",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 400
+      },
+      {
+        "id": 21526,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-092",
+        "cardGlobalKey": "OP01-092",
+        "cardName": "浦島",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282100,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-093",
+        "cardGlobalKey": "OP01-093",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282101,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-093",
+        "cardGlobalKey": "OP01-093",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 0
+      },
+      {
+        "id": 282102,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-094",
+        "cardGlobalKey": "OP01-094",
+        "cardName": "海道(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282103,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-094",
+        "cardGlobalKey": "OP01-094",
+        "cardName": "海道(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 0
+      },
+      {
+        "id": 22208,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-095",
+        "cardGlobalKey": "OP01-095",
+        "cardName": "狂死郎",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282104,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-096",
+        "cardGlobalKey": "OP01-096",
+        "cardName": "KING",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282105,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-096",
+        "cardGlobalKey": "OP01-096",
+        "cardName": "KING",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 0
+      },
+      {
+        "id": 282106,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-097",
+        "cardGlobalKey": "OP01-097",
+        "cardName": "QUEEN",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282107,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-097",
+        "cardGlobalKey": "OP01-097",
+        "cardName": "QUEEN",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 95,
+        "averagePrice": 0
+      },
+      {
+        "id": 20542,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-098",
+        "cardGlobalKey": "OP01-098",
+        "cardName": "黑炭大蛇",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21380,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-099",
+        "cardGlobalKey": "OP01-099",
+        "cardName": "黑炭蟬丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21381,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-100",
+        "cardGlobalKey": "OP01-100",
+        "cardName": "黑炭日暮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22003,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-101",
+        "cardGlobalKey": "OP01-101",
+        "cardName": "佐佐木",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282108,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-102",
+        "cardGlobalKey": "OP01-102",
+        "cardName": "JACK",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 1
+      },
+      {
+        "id": 282109,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-102",
+        "cardGlobalKey": "OP01-102",
+        "cardName": "JACK",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 80
+      },
+      {
+        "id": 20515,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-103",
+        "cardGlobalKey": "OP01-103",
+        "cardName": "刮盤人・亞普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22452,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-104",
+        "cardGlobalKey": "OP01-104",
+        "cardName": "史比托",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 22324,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-105",
+        "cardGlobalKey": "OP01-105",
+        "cardName": "包紡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22462,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-106",
+        "cardGlobalKey": "OP01-106",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 21821,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-107",
+        "cardGlobalKey": "OP01-107",
+        "cardName": "巴伐奴基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22166,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-108",
+        "cardGlobalKey": "OP01-108",
+        "cardName": "砍人鐮藏(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282110,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-109",
+        "cardGlobalKey": "OP01-109",
+        "cardName": "福茲胡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282111,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-109",
+        "cardGlobalKey": "OP01-109",
+        "cardName": "福茲胡",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 0
+      },
+      {
+        "id": 20969,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-110",
+        "cardGlobalKey": "OP01-110",
+        "cardName": "福祿壽",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22399,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-111",
+        "cardGlobalKey": "OP01-111",
+        "cardName": "黑瑪麗亞",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21784,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-112",
+        "cardGlobalKey": "OP01-112",
+        "cardName": "培濟萬",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21921,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-113",
+        "cardGlobalKey": "OP01-113",
+        "cardName": "赫戴姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20555,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-114",
+        "cardGlobalKey": "OP01-114",
+        "cardName": "X・多雷古",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20918,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-115",
+        "cardGlobalKey": "OP01-115",
+        "cardName": "象鼻息",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 20568,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-116",
+        "cardGlobalKey": "OP01-116",
+        "cardName": "人造惡魔果實SMILE",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 20697,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-117",
+        "cardGlobalKey": "OP01-117",
+        "cardName": "羊群號角",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21875,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-118",
+        "cardGlobalKey": "OP01-118",
+        "cardName": "烏爾頭槍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 20865,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-119",
+        "cardGlobalKey": "OP01-119",
+        "cardName": "雷鳴八卦",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 20
+      },
+      {
+        "id": 282112,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-120",
+        "cardGlobalKey": "OP01-120",
+        "cardName": "傑克(異圖卡)",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282113,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-120",
+        "cardGlobalKey": "OP01-120",
+        "cardName": "傑克(異圖卡)",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 880,
+        "averagePrice": 800
+      },
+      {
+        "id": 282114,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-120",
+        "cardGlobalKey": "OP01-120",
+        "cardName": "傑克(異圖卡)",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 40000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282115,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-121",
+        "cardGlobalKey": "OP01-121",
+        "cardName": "大和",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 30
+      },
+      {
+        "id": 282116,
+        "game": "onejp",
+        "packId": "OP-01",
+        "packName": "ROMANCE DAWN",
+        "packCardId": "OP01-121",
+        "cardGlobalKey": "OP01-121",
+        "cardName": "大和",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:07+08:00",
+        "lowestPrice": 900,
+        "averagePrice": 799
+      }
+    ]
+  },
+  "message": "ok"
+}

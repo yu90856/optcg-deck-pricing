@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 320529,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "000T",
+        "cardGlobalKey": "ST26-000T",
+        "cardName": "起始牌組 紫黑 蒙其D魯夫(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-05-09T18:12:18+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 350
+      },
+      {
+        "id": 173475,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP05-065",
+        "cardGlobalKey": "OP05-065",
+        "cardName": "香吉五郎",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:44:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173476,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP05-066",
+        "cardGlobalKey": "OP05-066",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:44:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173477,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP05-070",
+        "cardGlobalKey": "OP05-070",
+        "cardName": "佛朗之介",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:44:53+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 173484,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP09-061",
+        "cardGlobalKey": "OP09-061",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-07-11T15:45:40+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 250
+      },
+      {
+        "id": 173478,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP09-063",
+        "cardGlobalKey": "OP09-063",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:44:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173479,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP09-070",
+        "cardGlobalKey": "OP09-070",
+        "cardName": "娜美",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:44:53+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 173480,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP09-076",
+        "cardGlobalKey": "OP09-076",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:44:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173481,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP09-077",
+        "cardGlobalKey": "OP09-077",
+        "cardName": "橡膠雷電",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:44:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173482,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "OP09-078",
+        "cardGlobalKey": "OP09-078",
+        "cardName": "橡膠巨人",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:44:53+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 173483,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "ST14-010",
+        "cardGlobalKey": "ST14-010",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:44:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173485,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "ST26-001",
+        "cardGlobalKey": "ST26-001",
+        "cardName": "麵條戰士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:48:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173486,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "ST26-002",
+        "cardGlobalKey": "ST26-002",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:48:18+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 173487,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "ST26-003",
+        "cardGlobalKey": "ST26-003",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:48:19+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 46
+      },
+      {
+        "id": 173488,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "ST26-004",
+        "cardGlobalKey": "ST26-004",
+        "cardName": "佛朗基將軍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:48:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173489,
+        "game": "onejp",
+        "packId": "ST26",
+        "packName": "起始牌組 紫黑 蒙其・D・魯夫",
+        "packCardId": "ST26-005",
+        "cardGlobalKey": "ST26-005",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:48:19+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 50
+      }
+    ]
+  },
+  "message": "ok"
+}

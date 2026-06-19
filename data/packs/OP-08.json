@@ -1,0 +1,2289 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282448,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-08-000P",
+        "cardName": "兩位傳奇 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1899,
+        "averagePrice": 1899
+      },
+      {
+        "id": 282449,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-08-000P",
+        "cardName": "兩位傳奇 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 49
+      },
+      {
+        "id": 21575,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP02-013",
+        "cardGlobalKey": "OP02-013",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SP卡 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4200,
+        "averagePrice": 4000
+      },
+      {
+        "id": 20796,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP03-112",
+        "cardGlobalKey": "OP03-112",
+        "cardName": "夏洛特・普琳(異圖卡)",
+        "rare": [
+          "SP卡 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1200,
+        "averagePrice": 1150
+      },
+      {
+        "id": 282450,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-001",
+        "cardGlobalKey": "OP08-001",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282451,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-001",
+        "cardGlobalKey": "OP08-001",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 650,
+        "averagePrice": 600
+      },
+      {
+        "id": 282452,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-002",
+        "cardGlobalKey": "OP08-002",
+        "cardName": "馬可",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282453,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-002",
+        "cardGlobalKey": "OP08-002",
+        "cardName": "馬可",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 200
+      },
+      {
+        "id": 22172,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-003",
+        "cardGlobalKey": "OP08-003",
+        "cardName": "醫生20醫療團",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20541,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-004",
+        "cardGlobalKey": "OP08-004",
+        "cardName": "克羅馬利蒙",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21310,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-005",
+        "cardGlobalKey": "OP08-005",
+        "cardName": "傑斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21170,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-006",
+        "cardGlobalKey": "OP08-006",
+        "cardName": "傑斯馬利蒙",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282454,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-007",
+        "cardGlobalKey": "OP08-007",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282455,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-007",
+        "cardGlobalKey": "OP08-007",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 180
+      },
+      {
+        "id": 22706,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-008",
+        "cardGlobalKey": "OP08-008",
+        "cardName": "多魯頓",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22389,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-009",
+        "cardGlobalKey": "OP08-009",
+        "cardName": "蔥熊瑪麗亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22258,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-010",
+        "cardGlobalKey": "OP08-010",
+        "cardName": "健行熊",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21329,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-011",
+        "cardGlobalKey": "OP08-011",
+        "cardName": "姆休魯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20748,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-012",
+        "cardGlobalKey": "OP08-012",
+        "cardName": "食肉兔",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22624,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-013",
+        "cardGlobalKey": "OP08-013",
+        "cardName": "羅布森",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21396,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-014",
+        "cardGlobalKey": "OP08-014",
+        "cardName": "瓦波爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282456,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-015",
+        "cardGlobalKey": "OP08-015",
+        "cardName": "Dr.古蕾娃",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282457,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-015",
+        "cardGlobalKey": "OP08-015",
+        "cardName": "Dr.古蕾娃",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 60
+      },
+      {
+        "id": 20804,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-016",
+        "cardGlobalKey": "OP08-016",
+        "cardName": "Dr.西爾爾克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 22588,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-017",
+        "cardGlobalKey": "OP08-017",
+        "cardName": "我絕對不會對你開槍!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21835,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-018",
+        "cardGlobalKey": "OP08-018",
+        "cardName": "刻蹄『櫻花』",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20980,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-019",
+        "cardGlobalKey": "OP08-019",
+        "cardName": "吞吞食",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21188,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-020",
+        "cardGlobalKey": "OP08-020",
+        "cardName": "磁鼓王國",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282458,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-021",
+        "cardGlobalKey": "OP08-021",
+        "cardName": "凱洛特",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282459,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-021",
+        "cardGlobalKey": "OP08-021",
+        "cardName": "凱洛特",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 220
+      },
+      {
+        "id": 20818,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-022",
+        "cardGlobalKey": "OP08-022",
+        "cardName": "犬嵐",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282460,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-023",
+        "cardGlobalKey": "OP08-023",
+        "cardName": "凱洛特",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 20
+      },
+      {
+        "id": 282461,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-023",
+        "cardGlobalKey": "OP08-023",
+        "cardName": "凱洛特",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 199,
+        "averagePrice": 170
+      },
+      {
+        "id": 21098,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-024",
+        "cardGlobalKey": "OP08-024",
+        "cardName": "康斯洛特",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21189,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-025",
+        "cardGlobalKey": "OP08-025",
+        "cardName": "西西利昂",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21625,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-026",
+        "cardGlobalKey": "OP08-026",
+        "cardName": "喬凡尼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21829,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-027",
+        "cardGlobalKey": "OP08-027",
+        "cardName": "崔絲坦",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22742,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-028",
+        "cardGlobalKey": "OP08-028",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21163,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-029",
+        "cardGlobalKey": "OP08-029",
+        "cardName": "波哥姆斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 282462,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-030",
+        "cardGlobalKey": "OP08-030",
+        "cardName": "佩特羅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282463,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-030",
+        "cardGlobalKey": "OP08-030",
+        "cardName": "佩特羅",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 45
+      },
+      {
+        "id": 20836,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-031",
+        "cardGlobalKey": "OP08-031",
+        "cardName": "米牙基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22079,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-032",
+        "cardGlobalKey": "OP08-032",
+        "cardName": "米爾琪",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21582,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-033",
+        "cardGlobalKey": "OP08-033",
+        "cardName": "羅帝",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22101,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-034",
+        "cardGlobalKey": "OP08-034",
+        "cardName": "萬妲",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 20599,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-035",
+        "cardGlobalKey": "OP08-035",
+        "cardName": "BB",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21542,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-036",
+        "cardGlobalKey": "OP08-036",
+        "cardName": "電路月神",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 20
+      },
+      {
+        "id": 22430,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-037",
+        "cardGlobalKey": "OP08-037",
+        "cardName": "佳魯丘",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22531,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-038",
+        "cardGlobalKey": "OP08-038",
+        "cardName": "我們不會出賣\"夥伴\"的!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21638,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-039",
+        "cardGlobalKey": "OP08-039",
+        "cardName": "佐烏",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 21860,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-040",
+        "cardGlobalKey": "OP08-040",
+        "cardName": "亞托摩斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 21045,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-041",
+        "cardGlobalKey": "OP08-041",
+        "cardName": "雅菲蘭朵拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21105,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-042",
+        "cardGlobalKey": "OP08-042",
+        "cardName": "艾德華・衛伯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282464,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-043",
+        "cardGlobalKey": "OP08-043",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282465,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-043",
+        "cardGlobalKey": "OP08-043",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 250
+      },
+      {
+        "id": 22490,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-044",
+        "cardGlobalKey": "OP08-044",
+        "cardName": "金格杜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 22402,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-045",
+        "cardGlobalKey": "OP08-045",
+        "cardName": "薩吉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21662,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-046",
+        "cardGlobalKey": "OP08-046",
+        "cardName": "夏克雅克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22162,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-047",
+        "cardGlobalKey": "OP08-047",
+        "cardName": "裘斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 36
+      },
+      {
+        "id": 21585,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-048",
+        "cardGlobalKey": "OP08-048",
+        "cardName": "香豌豆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22170,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-049",
+        "cardGlobalKey": "OP08-049",
+        "cardName": "史比托・吉爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21171,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-050",
+        "cardGlobalKey": "OP08-050",
+        "cardName": "納米爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 22277,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-051",
+        "cardGlobalKey": "OP08-051",
+        "cardName": "芭晴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282466,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-052",
+        "cardGlobalKey": "OP08-052",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282467,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-052",
+        "cardGlobalKey": "OP08-052",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 160,
+        "averagePrice": 160
+      },
+      {
+        "id": 20897,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-053",
+        "cardGlobalKey": "OP08-053",
+        "cardName": "謝謝你們………一直深愛著我!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 22630,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-054",
+        "cardGlobalKey": "OP08-054",
+        "cardName": "怎麼可以突然就出手吃\"王\"呢",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22156,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-055",
+        "cardGlobalKey": "OP08-055",
+        "cardName": "鳳凰印",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20830,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-056",
+        "cardGlobalKey": "OP08-056",
+        "cardName": "白鯨號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 282468,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-057",
+        "cardGlobalKey": "OP08-057",
+        "cardName": "KING",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282469,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-057",
+        "cardGlobalKey": "OP08-057",
+        "cardName": "KING",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 180
+      },
+      {
+        "id": 282470,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-058",
+        "cardGlobalKey": "OP08-058",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282471,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-058",
+        "cardGlobalKey": "OP08-058",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 699,
+        "averagePrice": 625
+      },
+      {
+        "id": 21335,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-059",
+        "cardGlobalKey": "OP08-059",
+        "cardName": "亞爾貝魯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21817,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-060",
+        "cardGlobalKey": "OP08-060",
+        "cardName": "KING",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20857,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-061",
+        "cardGlobalKey": "OP08-061",
+        "cardName": "夏洛特・歐本",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21497,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-062",
+        "cardGlobalKey": "OP08-062",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22182,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-063",
+        "cardGlobalKey": "OP08-063",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 20713,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-064",
+        "cardGlobalKey": "OP08-064",
+        "cardName": "夏洛特・慨烈卡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 22016,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-065",
+        "cardGlobalKey": "OP08-065",
+        "cardName": "夏洛特・斯姆吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21591,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-066",
+        "cardGlobalKey": "OP08-066",
+        "cardName": "夏洛特・布璃叡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282472,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-067",
+        "cardGlobalKey": "OP08-067",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282473,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-067",
+        "cardGlobalKey": "OP08-067",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 135,
+        "averagePrice": 200
+      },
+      {
+        "id": 22337,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-068",
+        "cardGlobalKey": "OP08-068",
+        "cardName": "夏洛特・裴洛斯培勒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282474,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-069",
+        "cardGlobalKey": "OP08-069",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 25
+      },
+      {
+        "id": 282475,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-069",
+        "cardGlobalKey": "OP08-069",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 130
+      },
+      {
+        "id": 22381,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-070",
+        "cardGlobalKey": "OP08-070",
+        "cardName": "塔馬哥男爵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 21820,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-071",
+        "cardGlobalKey": "OP08-071",
+        "cardName": "公雞伯爵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21750,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-072",
+        "cardGlobalKey": "OP08-072",
+        "cardName": "餅乾士兵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 21998,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-073",
+        "cardGlobalKey": "OP08-073",
+        "cardName": "雛鳥子爵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282476,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-074",
+        "cardGlobalKey": "OP08-074",
+        "cardName": "黑瑪麗亞",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282477,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-074",
+        "cardGlobalKey": "OP08-074",
+        "cardName": "黑瑪麗亞",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 200
+      },
+      {
+        "id": 21441,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-075",
+        "cardGlobalKey": "OP08-075",
+        "cardName": "糖果處女",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22031,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-076",
+        "cardGlobalKey": "OP08-076",
+        "cardName": "好吃到要死了♡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21724,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-077",
+        "cardGlobalKey": "OP08-077",
+        "cardName": "霸海",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 21085,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-078",
+        "cardGlobalKey": "OP08-078",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 282478,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-079",
+        "cardGlobalKey": "OP08-079",
+        "cardName": "海道",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282479,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-079",
+        "cardGlobalKey": "OP08-079",
+        "cardName": "海道",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 100
+      },
+      {
+        "id": 282480,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-080",
+        "cardGlobalKey": "OP08-080",
+        "cardName": "QUEEN",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282481,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-080",
+        "cardGlobalKey": "OP08-080",
+        "cardName": "QUEEN",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 22224,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-081",
+        "cardGlobalKey": "OP08-081",
+        "cardName": "格爾尼卡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21592,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-082",
+        "cardGlobalKey": "OP08-082",
+        "cardName": "佐佐木",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21973,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-083",
+        "cardGlobalKey": "OP08-083",
+        "cardName": "席浦斯赫德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282482,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-084",
+        "cardGlobalKey": "OP08-084",
+        "cardName": "JACK",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 282483,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-084",
+        "cardGlobalKey": "OP08-084",
+        "cardName": "JACK",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 50
+      },
+      {
+        "id": 21511,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-085",
+        "cardGlobalKey": "OP08-085",
+        "cardName": "吉貝爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22214,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-086",
+        "cardGlobalKey": "OP08-086",
+        "cardName": "金菈彌",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22431,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-087",
+        "cardGlobalKey": "OP08-087",
+        "cardName": "刮盤人・亞普",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20967,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-088",
+        "cardGlobalKey": "OP08-088",
+        "cardName": "迪巴魯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20562,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-089",
+        "cardGlobalKey": "OP08-089",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21964,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-090",
+        "cardGlobalKey": "OP08-090",
+        "cardName": "哈姆雷特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22206,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-091",
+        "cardGlobalKey": "OP08-091",
+        "cardName": "福茲胡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 20627,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-092",
+        "cardGlobalKey": "OP08-092",
+        "cardName": "培濟萬",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22052,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-093",
+        "cardGlobalKey": "OP08-093",
+        "cardName": "X・多雷古",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22296,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-094",
+        "cardGlobalKey": "OP08-094",
+        "cardName": "炎皇",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21725,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-095",
+        "cardGlobalKey": "OP08-095",
+        "cardName": "鐵塊 牙閃",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21700,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-096",
+        "cardGlobalKey": "OP08-096",
+        "cardName": "人的夢想!!!是不會結束的!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20649,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-097",
+        "cardGlobalKey": "OP08-097",
+        "cardName": "旋角龍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282484,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-098",
+        "cardGlobalKey": "OP08-098",
+        "cardName": "卡爾葛拉",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282485,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-098",
+        "cardGlobalKey": "OP08-098",
+        "cardName": "卡爾葛拉",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 140,
+        "averagePrice": 90
+      },
+      {
+        "id": 22506,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-099",
+        "cardGlobalKey": "OP08-099",
+        "cardName": "卡爾葛拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22619,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-100",
+        "cardGlobalKey": "OP08-100",
+        "cardName": "指南鳥",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20587,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-101",
+        "cardGlobalKey": "OP08-101",
+        "cardName": "夏洛特・安潔兒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21550,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-102",
+        "cardGlobalKey": "OP08-102",
+        "cardName": "夏洛特・歐佩拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21330,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-103",
+        "cardGlobalKey": "OP08-103",
+        "cardName": "夏洛特・卡斯塔德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21752,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-104",
+        "cardGlobalKey": "OP08-104",
+        "cardName": "夏洛特・寶瓦兒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282486,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-105",
+        "cardGlobalKey": "OP08-105",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282487,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-105",
+        "cardGlobalKey": "OP08-105",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 140
+      },
+      {
+        "id": 282488,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-106",
+        "cardGlobalKey": "OP08-106",
+        "cardName": "娜美",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 23
+      },
+      {
+        "id": 282489,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-106",
+        "cardGlobalKey": "OP08-106",
+        "cardName": "娜美",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 350
+      },
+      {
+        "id": 21522,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-107",
+        "cardGlobalKey": "OP08-107",
+        "cardName": "纖維",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21185,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-108",
+        "cardGlobalKey": "OP08-108",
+        "cardName": "蒙布朗・庫力凱",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20700,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-109",
+        "cardGlobalKey": "OP08-109",
+        "cardName": "蒙布朗・諾蘭德",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282490,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-110",
+        "cardGlobalKey": "OP08-110",
+        "cardName": "瓦夷帕",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282491,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-110",
+        "cardGlobalKey": "OP08-110",
+        "cardName": "瓦夷帕",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 70
+      },
+      {
+        "id": 21583,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-111",
+        "cardGlobalKey": "OP08-111",
+        "cardName": "S-鯊魚",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282492,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-112",
+        "cardGlobalKey": "OP08-112",
+        "cardName": "S-蛇",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282493,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-112",
+        "cardGlobalKey": "OP08-112",
+        "cardName": "S-蛇",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 500
+      },
+      {
+        "id": 22026,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-113",
+        "cardGlobalKey": "OP08-113",
+        "cardName": "S-熊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21130,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-114",
+        "cardGlobalKey": "OP08-114",
+        "cardName": "S-鷹",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22669,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-115",
+        "cardGlobalKey": "OP08-115",
+        "cardName": "大地絕不會輸!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22371,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-116",
+        "cardGlobalKey": "OP08-116",
+        "cardName": "燃燒砲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20723,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-117",
+        "cardGlobalKey": "OP08-117",
+        "cardName": "燃燒劍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282494,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-118",
+        "cardGlobalKey": "OP08-118",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 39,
+        "averagePrice": 80
+      },
+      {
+        "id": 282495,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-118",
+        "cardGlobalKey": "OP08-118",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 250
+      },
+      {
+        "id": 282496,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-118",
+        "cardGlobalKey": "OP08-118",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282497,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-119",
+        "cardGlobalKey": "OP08-119",
+        "cardName": "海道＆莉莉",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 282498,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "OP08-119",
+        "cardGlobalKey": "OP08-119",
+        "cardName": "海道＆莉莉",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 149,
+        "averagePrice": 100
+      },
+      {
+        "id": 22727,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "ST02-007",
+        "cardGlobalKey": "ST02-007",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SP卡 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 2350
+      },
+      {
+        "id": 22053,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "ST03-004",
+        "cardGlobalKey": "ST03-004",
+        "cardName": "月光・摩利亞(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 780,
+        "averagePrice": 500
+      },
+      {
+        "id": 21528,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "ST04-005",
+        "cardGlobalKey": "ST04-005",
+        "cardName": "QUEEN(異圖卡)",
+        "rare": [
+          "SP卡 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 950,
+        "averagePrice": 500
+      },
+      {
+        "id": 22724,
+        "game": "onejp",
+        "packId": "OP-08",
+        "packName": "兩位傳奇",
+        "packCardId": "ST06-006",
+        "cardGlobalKey": "ST06-006",
+        "cardName": "達絲琪(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1200,
+        "averagePrice": 1200
+      }
+    ]
+  },
+  "message": "ok"
+}

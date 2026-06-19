@@ -1,0 +1,2349 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282184,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-03-000P",
+        "cardName": "強大的敵人 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 3240
+      },
+      {
+        "id": 282185,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-03-000P",
+        "cardName": "強大的敵人 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 21406,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP01-051",
+        "cardGlobalKey": "OP01-051",
+        "cardName": "尤斯塔斯・基德(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 450
+      },
+      {
+        "id": 282186,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-001",
+        "cardGlobalKey": "OP03-001",
+        "cardName": "波特卡斯・D・艾斯(異圖卡)",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282187,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-001",
+        "cardGlobalKey": "OP03-001",
+        "cardName": "波特卡斯・D・艾斯(異圖卡)",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 2500,
+        "averagePrice": 0
+      },
+      {
+        "id": 21715,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-002",
+        "cardGlobalKey": "OP03-002",
+        "cardName": "艾狄歐",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22580,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-003",
+        "cardGlobalKey": "OP03-003",
+        "cardName": "以藏",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21165,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-004",
+        "cardGlobalKey": "OP03-004",
+        "cardName": "克利耶爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21862,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-005",
+        "cardGlobalKey": "OP03-005",
+        "cardName": "薩吉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21031,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-006",
+        "cardGlobalKey": "OP03-006",
+        "cardName": "史比托・吉爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22369,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-007",
+        "cardGlobalKey": "OP03-007",
+        "cardName": "納米爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21906,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-008",
+        "cardGlobalKey": "OP03-008",
+        "cardName": "巴其",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21694,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-009",
+        "cardGlobalKey": "OP03-009",
+        "cardName": "哈爾達",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22040,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-010",
+        "cardGlobalKey": "OP03-010",
+        "cardName": "佛薩",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 20787,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-011",
+        "cardGlobalKey": "OP03-011",
+        "cardName": "布朗明哥",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21090,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-012",
+        "cardGlobalKey": "OP03-012",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282188,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-013",
+        "cardGlobalKey": "OP03-013",
+        "cardName": "馬可",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 18
+      },
+      {
+        "id": 282189,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-013",
+        "cardGlobalKey": "OP03-013",
+        "cardName": "馬可",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 21195,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-014",
+        "cardGlobalKey": "OP03-014",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 20564,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-015",
+        "cardGlobalKey": "OP03-015",
+        "cardName": "莉姆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 20557,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-016",
+        "cardGlobalKey": "OP03-016",
+        "cardName": "炎帝",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 21326,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-017",
+        "cardGlobalKey": "OP03-017",
+        "cardName": "十字火",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      },
+      {
+        "id": 282190,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-018",
+        "cardGlobalKey": "OP03-018",
+        "cardName": "火拳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282191,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-018",
+        "cardGlobalKey": "OP03-018",
+        "cardName": "火拳",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 190
+      },
+      {
+        "id": 20761,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-019",
+        "cardGlobalKey": "OP03-019",
+        "cardName": "火達磨",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21722,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-020",
+        "cardGlobalKey": "OP03-020",
+        "cardName": "火力船",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      },
+      {
+        "id": 282192,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-021",
+        "cardGlobalKey": "OP03-021",
+        "cardName": "克洛",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282193,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-021",
+        "cardGlobalKey": "OP03-021",
+        "cardName": "克洛",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 329,
+        "averagePrice": 150
+      },
+      {
+        "id": 282194,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-022",
+        "cardGlobalKey": "OP03-022",
+        "cardName": "惡龍",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282195,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-022",
+        "cardGlobalKey": "OP03-022",
+        "cardName": "惡龍",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 200
+      },
+      {
+        "id": 20549,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-023",
+        "cardGlobalKey": "OP03-023",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282196,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-024",
+        "cardGlobalKey": "OP03-024",
+        "cardName": "銀仔",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282197,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-024",
+        "cardGlobalKey": "OP03-024",
+        "cardName": "銀仔",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 99,
+        "averagePrice": 99
+      },
+      {
+        "id": 282198,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-025",
+        "cardGlobalKey": "OP03-025",
+        "cardName": "克利克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282199,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-025",
+        "cardGlobalKey": "OP03-025",
+        "cardName": "克利克",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 21215,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-026",
+        "cardGlobalKey": "OP03-026",
+        "cardName": "克羅歐比",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20508,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-027",
+        "cardGlobalKey": "OP03-027",
+        "cardName": "山姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21950,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-028",
+        "cardGlobalKey": "OP03-028",
+        "cardName": "傑克斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22454,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-029",
+        "cardGlobalKey": "OP03-029",
+        "cardName": "啾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 20503,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-030",
+        "cardGlobalKey": "OP03-030",
+        "cardName": "娜美",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:17+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 22680,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-031",
+        "cardGlobalKey": "OP03-031",
+        "cardName": "帕魯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20745,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-032",
+        "cardGlobalKey": "OP03-032",
+        "cardName": "巴其",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20935,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-033",
+        "cardGlobalKey": "OP03-033",
+        "cardName": "小八(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21370,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-034",
+        "cardGlobalKey": "OP03-034",
+        "cardName": "布奇",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22548,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-035",
+        "cardGlobalKey": "OP03-035",
+        "cardName": "海牛呣",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20788,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-036",
+        "cardGlobalKey": "OP03-036",
+        "cardName": "杓死",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21048,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-037",
+        "cardGlobalKey": "OP03-037",
+        "cardName": "鋼牙功",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21063,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-038",
+        "cardGlobalKey": "OP03-038",
+        "cardName": "劇毒毒氣彈「M‧H‧5」",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22278,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-039",
+        "cardGlobalKey": "OP03-039",
+        "cardName": "一、二、傑克斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 282200,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-040",
+        "cardGlobalKey": "OP03-040",
+        "cardName": "娜美",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282201,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-040",
+        "cardGlobalKey": "OP03-040",
+        "cardName": "娜美",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:08+08:00",
+        "lowestPrice": 2700,
+        "averagePrice": 0
+      },
+      {
+        "id": 282202,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-041",
+        "cardGlobalKey": "OP03-041",
+        "cardName": "騙人布",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282203,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-041",
+        "cardGlobalKey": "OP03-041",
+        "cardName": "騙人布",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 21798,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-042",
+        "cardGlobalKey": "OP03-042",
+        "cardName": "騙人布海賊團",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21941,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-043",
+        "cardGlobalKey": "OP03-043",
+        "cardName": "卡蒙",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21169,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-044",
+        "cardGlobalKey": "OP03-044",
+        "cardName": "可雅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 6
+      },
+      {
+        "id": 21807,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-045",
+        "cardGlobalKey": "OP03-045",
+        "cardName": "卡爾涅",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22575,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-046",
+        "cardGlobalKey": "OP03-046",
+        "cardName": "源造",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282204,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-047",
+        "cardGlobalKey": "OP03-047",
+        "cardName": "哲普",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282205,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-047",
+        "cardGlobalKey": "OP03-047",
+        "cardName": "哲普",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 0
+      },
+      {
+        "id": 21003,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-048",
+        "cardGlobalKey": "OP03-048",
+        "cardName": "虹子",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22425,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-049",
+        "cardGlobalKey": "OP03-049",
+        "cardName": "派迪",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21877,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-050",
+        "cardGlobalKey": "OP03-050",
+        "cardName": "布多爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21943,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-051",
+        "cardGlobalKey": "OP03-051",
+        "cardName": "貝爾梅爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 3
+      },
+      {
+        "id": 21097,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-052",
+        "cardGlobalKey": "OP03-052",
+        "cardName": "梅利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22529,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-053",
+        "cardGlobalKey": "OP03-053",
+        "cardName": "約瑟夫&強尼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21979,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-054",
+        "cardGlobalKey": "OP03-054",
+        "cardName": "騙人布橡皮筋!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22334,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-055",
+        "cardGlobalKey": "OP03-055",
+        "cardName": "橡膠大槌(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22400,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-056",
+        "cardGlobalKey": "OP03-056",
+        "cardName": "香吉士海鮮炒飯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22365,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-057",
+        "cardGlobalKey": "OP03-057",
+        "cardName": "三・千・世・界",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282206,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-058",
+        "cardGlobalKey": "OP03-058",
+        "cardName": "艾斯巴古",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282207,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-058",
+        "cardGlobalKey": "OP03-058",
+        "cardName": "艾斯巴古",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 250
+      },
+      {
+        "id": 21971,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-059",
+        "cardGlobalKey": "OP03-059",
+        "cardName": "卡古",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22141,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-060",
+        "cardGlobalKey": "OP03-060",
+        "cardName": "卡莉法",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 20858,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-061",
+        "cardGlobalKey": "OP03-061",
+        "cardName": "基威&摩茲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22474,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-062",
+        "cardGlobalKey": "OP03-062",
+        "cardName": "可可羅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 20558,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-063",
+        "cardGlobalKey": "OP03-063",
+        "cardName": "贊拜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21558,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-064",
+        "cardGlobalKey": "OP03-064",
+        "cardName": "戴魯斯通",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22526,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-065",
+        "cardGlobalKey": "OP03-065",
+        "cardName": "蒂姆妮&公貝",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282208,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-066",
+        "cardGlobalKey": "OP03-066",
+        "cardName": "包利",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282209,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-066",
+        "cardGlobalKey": "OP03-066",
+        "cardName": "包利",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 0
+      },
+      {
+        "id": 21208,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-067",
+        "cardGlobalKey": "OP03-067",
+        "cardName": "畢普利・露露",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21228,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-068",
+        "cardGlobalKey": "OP03-068",
+        "cardName": "米諾斑馬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22573,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-069",
+        "cardGlobalKey": "OP03-069",
+        "cardName": "米諾犀牛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22013,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-070",
+        "cardGlobalKey": "OP03-070",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 20586,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-071",
+        "cardGlobalKey": "OP03-071",
+        "cardName": "羅布・路基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22380,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-072",
+        "cardGlobalKey": "OP03-072",
+        "cardName": "橡膠JET槍亂打",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21492,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-073",
+        "cardGlobalKey": "OP03-073",
+        "cardName": "船底解體斬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21631,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-074",
+        "cardGlobalKey": "OP03-074",
+        "cardName": "陀螺結",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 22264,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-075",
+        "cardGlobalKey": "OP03-075",
+        "cardName": "卡雷拉公司",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 282210,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-076",
+        "cardGlobalKey": "OP03-076",
+        "cardName": "羅布・路基",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282211,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-076",
+        "cardGlobalKey": "OP03-076",
+        "cardName": "羅布・路基",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 0
+      },
+      {
+        "id": 282212,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-077",
+        "cardGlobalKey": "OP03-077",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 282213,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-077",
+        "cardGlobalKey": "OP03-077",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 0
+      },
+      {
+        "id": 282214,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-078",
+        "cardGlobalKey": "OP03-078",
+        "cardName": "一笑",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282215,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-078",
+        "cardGlobalKey": "OP03-078",
+        "cardName": "一笑",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 22280,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-079",
+        "cardGlobalKey": "OP03-079",
+        "cardName": "威爾可",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282216,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-080",
+        "cardGlobalKey": "OP03-080",
+        "cardName": "卡古",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282217,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-080",
+        "cardGlobalKey": "OP03-080",
+        "cardName": "卡古",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 0
+      },
+      {
+        "id": 282218,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-081",
+        "cardGlobalKey": "OP03-081",
+        "cardName": "卡莉法",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282219,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-081",
+        "cardGlobalKey": "OP03-081",
+        "cardName": "卡莉法",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 325,
+        "averagePrice": 300
+      },
+      {
+        "id": 20949,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-082",
+        "cardGlobalKey": "OP03-082",
+        "cardName": "隈取",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22517,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-083",
+        "cardGlobalKey": "OP03-083",
+        "cardName": "柯基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 20612,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-084",
+        "cardGlobalKey": "OP03-084",
+        "cardName": "傑利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21235,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-085",
+        "cardGlobalKey": "OP03-085",
+        "cardName": "賈布拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 282220,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-086",
+        "cardGlobalKey": "OP03-086",
+        "cardName": "斯帕達姆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282221,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-086",
+        "cardGlobalKey": "OP03-086",
+        "cardName": "斯帕達姆",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 100
+      },
+      {
+        "id": 20845,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-087",
+        "cardGlobalKey": "OP03-087",
+        "cardName": "奈洛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21541,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-088",
+        "cardGlobalKey": "OP03-088",
+        "cardName": "梟(異圖卡)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21618,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-089",
+        "cardGlobalKey": "OP03-089",
+        "cardName": "布蘭紐(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21793,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-090",
+        "cardGlobalKey": "OP03-090",
+        "cardName": "布魯諾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22693,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-091",
+        "cardGlobalKey": "OP03-091",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 282222,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-092",
+        "cardGlobalKey": "OP03-092",
+        "cardName": "羅布・路基",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282223,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-092",
+        "cardGlobalKey": "OP03-092",
+        "cardName": "羅布・路基",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 80
+      },
+      {
+        "id": 22368,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-093",
+        "cardGlobalKey": "OP03-093",
+        "cardName": "瓦傑",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21640,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-094",
+        "cardGlobalKey": "OP03-094",
+        "cardName": "空氣門",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21452,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-095",
+        "cardGlobalKey": "OP03-095",
+        "cardName": "肥皂羊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22092,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-096",
+        "cardGlobalKey": "OP03-096",
+        "cardName": "嵐腳　周斷",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21043,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-097",
+        "cardGlobalKey": "OP03-097",
+        "cardName": "六王槍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 20505,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-098",
+        "cardGlobalKey": "OP03-098",
+        "cardName": "艾尼愛斯大廳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282224,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-099",
+        "cardGlobalKey": "OP03-099",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282225,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-099",
+        "cardGlobalKey": "OP03-099",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 800
+      },
+      {
+        "id": 22494,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-100",
+        "cardGlobalKey": "OP03-100",
+        "cardName": "古樹王",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22298,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-101",
+        "cardGlobalKey": "OP03-101",
+        "cardName": "海咪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21416,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-102",
+        "cardGlobalKey": "OP03-102",
+        "cardName": "香吉士(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 21723,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-103",
+        "cardGlobalKey": "OP03-103",
+        "cardName": "殺手波賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21863,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-104",
+        "cardGlobalKey": "OP03-104",
+        "cardName": "雪莉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21902,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-105",
+        "cardGlobalKey": "OP03-105",
+        "cardName": "夏洛特・歐本",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 20936,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-106",
+        "cardGlobalKey": "OP03-106",
+        "cardName": "夏洛特・歐佩拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22421,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-107",
+        "cardGlobalKey": "OP03-107",
+        "cardName": "夏洛特・賈萊特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282226,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-108",
+        "cardGlobalKey": "OP03-108",
+        "cardName": "夏洛特・慨烈卡",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282227,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-108",
+        "cardGlobalKey": "OP03-108",
+        "cardName": "夏洛特・慨烈卡",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 0
+      },
+      {
+        "id": 22740,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-109",
+        "cardGlobalKey": "OP03-109",
+        "cardName": "夏洛特・雪紡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21763,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-110",
+        "cardGlobalKey": "OP03-110",
+        "cardName": "夏洛特・斯姆吉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20888,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-111",
+        "cardGlobalKey": "OP03-111",
+        "cardName": "夏洛特・普萊麗芮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282228,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-112",
+        "cardGlobalKey": "OP03-112",
+        "cardName": "夏洛特・普琳(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 282229,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-112",
+        "cardGlobalKey": "OP03-112",
+        "cardName": "夏洛特・普琳(異圖卡)",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 250
+      },
+      {
+        "id": 282230,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-113",
+        "cardGlobalKey": "OP03-113",
+        "cardName": "夏洛特・裴洛斯培勒",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282231,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-113",
+        "cardGlobalKey": "OP03-113",
+        "cardName": "夏洛特・裴洛斯培勒",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 282232,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-114",
+        "cardGlobalKey": "OP03-114",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 282233,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-114",
+        "cardGlobalKey": "OP03-114",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 50
+      },
+      {
+        "id": 21088,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-115",
+        "cardGlobalKey": "OP03-115",
+        "cardName": "蘇特羅慎",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21595,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-116",
+        "cardGlobalKey": "OP03-116",
+        "cardName": "白星",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 20907,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-117",
+        "cardGlobalKey": "OP03-117",
+        "cardName": "拿破崙",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21086,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-118",
+        "cardGlobalKey": "OP03-118",
+        "cardName": "威國",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21458,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-119",
+        "cardGlobalKey": "OP03-119",
+        "cardName": "斬・切・餅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 20912,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-120",
+        "cardGlobalKey": "OP03-120",
+        "cardName": "熱海溫泉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21674,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-121",
+        "cardGlobalKey": "OP03-121",
+        "cardName": "雷霆(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282234,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-122",
+        "cardGlobalKey": "OP03-122",
+        "cardName": "狙擊王",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 30
+      },
+      {
+        "id": 282235,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-122",
+        "cardGlobalKey": "OP03-122",
+        "cardName": "狙擊王",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 200
+      },
+      {
+        "id": 282236,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-122",
+        "cardGlobalKey": "OP03-122",
+        "cardName": "狙擊王",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282237,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-123",
+        "cardGlobalKey": "OP03-123",
+        "cardName": "夏洛特・卡塔克利(異圖卡)",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 15
+      },
+      {
+        "id": 282238,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "OP03-123",
+        "cardGlobalKey": "OP03-123",
+        "cardName": "夏洛特・卡塔克利(異圖卡)",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 350
+      },
+      {
+        "id": 20859,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "ST01-012",
+        "cardGlobalKey": "ST01-012",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 8000,
+        "averagePrice": 3500
+      },
+      {
+        "id": 21352,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "ST03-009",
+        "cardGlobalKey": "ST03-009",
+        "cardName": "唐吉訶德・多佛朗明哥(異圖卡)",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 490
+      },
+      {
+        "id": 21134,
+        "game": "onejp",
+        "packId": "OP-03",
+        "packName": "強大的敵人 ",
+        "packCardId": "ST04-003",
+        "cardGlobalKey": "ST04-003",
+        "cardName": "海道",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 700
+      }
+    ]
+  },
+  "message": "ok"
+}

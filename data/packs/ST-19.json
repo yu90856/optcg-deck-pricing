@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162437,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-19-000P",
+        "cardName": "起始牌組 黑 斯摩格",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:40:24+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 99
+      },
+      {
+        "id": 21264,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP02-093",
+        "cardGlobalKey": "OP02-093",
+        "cardName": "斯摩格",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 30
+      },
+      {
+        "id": 20775,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP02-098",
+        "cardGlobalKey": "OP02-098",
+        "cardName": "克比(異圖卡)",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21959,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP02-106",
+        "cardGlobalKey": "OP02-106",
+        "cardName": "阿鶴(異圖卡)",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 21433,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP02-108",
+        "cardGlobalKey": "OP02-108",
+        "cardName": "唐吉訶德・羅希南特(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22510,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP02-109",
+        "cardGlobalKey": "OP02-109",
+        "cardName": "哈古瓦爾・D・薩烏羅",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21101,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP02-113",
+        "cardGlobalKey": "OP02-113",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22633,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP02-116",
+        "cardGlobalKey": "OP02-116",
+        "cardName": "火燒山",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21594,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP02-117",
+        "cardGlobalKey": "OP02-117",
+        "cardName": "冰河時代(異圖卡)",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 21620,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP03-079",
+        "cardGlobalKey": "OP03-079",
+        "cardName": "威爾可",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 0
+      },
+      {
+        "id": 21834,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "OP03-089",
+        "cardGlobalKey": "OP03-089",
+        "cardName": "布蘭紐(異圖卡)",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20809,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "ST19-001",
+        "cardGlobalKey": "ST19-001",
+        "cardName": "斯摩格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 24,
+        "averagePrice": 30
+      },
+      {
+        "id": 20760,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "ST19-002",
+        "cardGlobalKey": "ST19-002",
+        "cardName": "戰國",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21984,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "ST19-003",
+        "cardGlobalKey": "ST19-003",
+        "cardName": "達絲琪",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 35
+      },
+      {
+        "id": 20819,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "ST19-004",
+        "cardGlobalKey": "ST19-004",
+        "cardName": "希娜",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 15
+      },
+      {
+        "id": 21630,
+        "game": "onejp",
+        "packId": "ST-19",
+        "packName": "黑 斯摩格",
+        "packCardId": "ST19-005",
+        "cardGlobalKey": "ST19-005",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 0
+      }
+    ]
+  },
+  "message": "ok"
+}

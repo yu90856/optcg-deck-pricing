@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162451,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-01-000P",
+        "cardName": "起始牌組 草帽一行人",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:43:35+08:00",
+        "lowestPrice": 1500,
+        "averagePrice": 0
+      },
+      {
+        "id": 22054,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-001",
+        "cardGlobalKey": "ST01-001",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 700
+      },
+      {
+        "id": 21151,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-002",
+        "cardGlobalKey": "ST01-002",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21287,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-003",
+        "cardGlobalKey": "ST01-003",
+        "cardName": "飛毛腿",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20910,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-004",
+        "cardGlobalKey": "ST01-004",
+        "cardName": "香吉士(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20779,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-005",
+        "cardGlobalKey": "ST01-005",
+        "cardName": "吉貝爾(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22108,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-006",
+        "cardGlobalKey": "ST01-006",
+        "cardName": "多尼多尼・喬巴(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22028,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-007",
+        "cardGlobalKey": "ST01-007",
+        "cardName": "娜美",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 22537,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-008",
+        "cardGlobalKey": "ST01-008",
+        "cardName": "妮可・羅賓(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21095,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-009",
+        "cardGlobalKey": "ST01-009",
+        "cardName": "納菲魯塔利・薇薇(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21783,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-010",
+        "cardGlobalKey": "ST01-010",
+        "cardName": "佛朗基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21126,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-011",
+        "cardGlobalKey": "ST01-011",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21115,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-012",
+        "cardGlobalKey": "ST01-012",
+        "cardName": "蒙其・D・魯夫(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 100
+      },
+      {
+        "id": 21263,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-013",
+        "cardGlobalKey": "ST01-013",
+        "cardName": "羅羅亞・索隆(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 20590,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-014",
+        "cardGlobalKey": "ST01-014",
+        "cardName": "毛皮強化",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21688,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-015",
+        "cardGlobalKey": "ST01-015",
+        "cardName": "橡膠JET槍(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22726,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-016",
+        "cardGlobalKey": "ST01-016",
+        "cardName": "惡魔風腳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 0
+      },
+      {
+        "id": 20886,
+        "game": "onejp",
+        "packId": "ST-01",
+        "packName": "草帽一行人",
+        "packCardId": "ST01-017",
+        "cardGlobalKey": "ST01-017",
+        "cardName": "千陽號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      }
+    ]
+  },
+  "message": "ok"
+}

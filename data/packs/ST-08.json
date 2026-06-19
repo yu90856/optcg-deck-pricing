@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162445,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-08-000P",
+        "cardName": "起始牌組 Side 蒙其・D・魯夫",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:42:05+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 87
+      },
+      {
+        "id": 21139,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-001",
+        "cardGlobalKey": "ST08-001",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 50
+      },
+      {
+        "id": 21146,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-002",
+        "cardGlobalKey": "ST08-002",
+        "cardName": "美音(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 30
+      },
+      {
+        "id": 21552,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-003",
+        "cardGlobalKey": "ST08-003",
+        "cardName": "卡蒙",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21678,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-004",
+        "cardGlobalKey": "ST08-004",
+        "cardName": "克比",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 21720,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-005",
+        "cardGlobalKey": "ST08-005",
+        "cardName": "傑克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21790,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-006",
+        "cardGlobalKey": "ST08-006",
+        "cardName": "白星",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 21096,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-007",
+        "cardGlobalKey": "ST08-007",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 20893,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-008",
+        "cardGlobalKey": "ST08-008",
+        "cardName": "西格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22096,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-009",
+        "cardGlobalKey": "ST08-009",
+        "cardName": "瑪姬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22244,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-010",
+        "cardGlobalKey": "ST08-010",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 21272,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-011",
+        "cardGlobalKey": "ST08-011",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 21791,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-012",
+        "cardGlobalKey": "ST08-012",
+        "cardName": "拉布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21721,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-013",
+        "cardGlobalKey": "ST08-013",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20766,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-014",
+        "cardGlobalKey": "ST08-014",
+        "cardName": "橡膠鐘擺",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21425,
+        "game": "onejp",
+        "packId": "ST-08",
+        "packName": "Side 蒙其・D・魯夫",
+        "packCardId": "ST08-015",
+        "cardGlobalKey": "ST08-015",
+        "cardName": "橡膠槍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      }
+    ]
+  },
+  "message": "ok"
+}

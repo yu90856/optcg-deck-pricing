@@ -1,0 +1,4824 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 283474,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "000P",
+        "cardGlobalKey": "PRB-01-000P",
+        "cardName": "ONE PIECE CARD THE BEST 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 6000,
+        "averagePrice": 0
+      },
+      {
+        "id": 283475,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "000P",
+        "cardGlobalKey": "PRB-01-000P",
+        "cardName": "ONE PIECE CARD THE BEST 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 0
+      },
+      {
+        "id": 22178,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "EB01-006",
+        "cardGlobalKey": "EB01-006",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283476,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-006",
+        "cardGlobalKey": "OP01-006",
+        "cardName": "玉兒",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283477,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-006",
+        "cardGlobalKey": "OP01-006",
+        "cardName": "玉兒",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 15
+      },
+      {
+        "id": 283478,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-006",
+        "cardGlobalKey": "OP01-006",
+        "cardName": "玉兒",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 283479,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-006",
+        "cardGlobalKey": "OP01-006",
+        "cardName": "玉兒",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 22243,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-016",
+        "cardGlobalKey": "OP01-016",
+        "cardName": "娜美(異圖卡)",
+        "rare": [
+          "R 異圖八"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 40000,
+        "averagePrice": 16000
+      },
+      {
+        "id": 283480,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-024",
+        "cardGlobalKey": "OP01-024",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 10
+      },
+      {
+        "id": 283481,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-024",
+        "cardGlobalKey": "OP01-024",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 400
+      },
+      {
+        "id": 283482,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-029",
+        "cardGlobalKey": "OP01-029",
+        "cardName": "佛朗基激光～～～束!!!!(異圖卡)",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 1
+      },
+      {
+        "id": 283483,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-029",
+        "cardGlobalKey": "OP01-029",
+        "cardName": "佛朗基激光～～～束!!!!(異圖卡)",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 0
+      },
+      {
+        "id": 283484,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-029",
+        "cardGlobalKey": "OP01-029",
+        "cardName": "佛朗基激光～～～束!!!!(異圖卡)",
+        "rare": [
+          "UC 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 0
+      },
+      {
+        "id": 283485,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-033",
+        "cardGlobalKey": "OP01-033",
+        "cardName": "以藏",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283486,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-033",
+        "cardGlobalKey": "OP01-033",
+        "cardName": "以藏",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 283487,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-033",
+        "cardGlobalKey": "OP01-033",
+        "cardName": "以藏",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 0
+      },
+      {
+        "id": 283488,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-033",
+        "cardGlobalKey": "OP01-033",
+        "cardName": "以藏",
+        "rare": [
+          "UC 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 40
+      },
+      {
+        "id": 283489,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-041",
+        "cardGlobalKey": "OP01-041",
+        "cardName": "光月桃之助(異圖卡)",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283490,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-041",
+        "cardGlobalKey": "OP01-041",
+        "cardName": "光月桃之助(異圖卡)",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 283491,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-041",
+        "cardGlobalKey": "OP01-041",
+        "cardName": "光月桃之助(異圖卡)",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 0
+      },
+      {
+        "id": 283492,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-041",
+        "cardGlobalKey": "OP01-041",
+        "cardName": "光月桃之助(異圖卡)",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 65,
+        "averagePrice": 80
+      },
+      {
+        "id": 283493,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-047",
+        "cardGlobalKey": "OP01-047",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 283494,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-047",
+        "cardGlobalKey": "OP01-047",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:19+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 99
+      },
+      {
+        "id": 283495,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-051",
+        "cardGlobalKey": "OP01-051",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283496,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-051",
+        "cardGlobalKey": "OP01-051",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 283497,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-052",
+        "cardGlobalKey": "OP01-052",
+        "cardName": "雷藏",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283498,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-052",
+        "cardGlobalKey": "OP01-052",
+        "cardName": "雷藏",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283499,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-052",
+        "cardGlobalKey": "OP01-052",
+        "cardName": "雷藏",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 20
+      },
+      {
+        "id": 283500,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-070",
+        "cardGlobalKey": "OP01-070",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 4
+      },
+      {
+        "id": 283501,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-070",
+        "cardGlobalKey": "OP01-070",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 90
+      },
+      {
+        "id": 283502,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-078",
+        "cardGlobalKey": "OP01-078",
+        "cardName": "波雅‧漢考克",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 10
+      },
+      {
+        "id": 283503,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-078",
+        "cardGlobalKey": "OP01-078",
+        "cardName": "波雅‧漢考克",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1750,
+        "averagePrice": 900
+      },
+      {
+        "id": 283504,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-120",
+        "cardGlobalKey": "OP01-120",
+        "cardName": "傑克(異圖卡)",
+        "rare": [
+          "SEC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 23
+      },
+      {
+        "id": 283505,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-120",
+        "cardGlobalKey": "OP01-120",
+        "cardName": "傑克(異圖卡)",
+        "rare": [
+          "SEC 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 120
+      },
+      {
+        "id": 283506,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-120",
+        "cardGlobalKey": "OP01-120",
+        "cardName": "傑克(異圖卡)",
+        "rare": [
+          "SEC 異圖七"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283507,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-121",
+        "cardGlobalKey": "OP01-121",
+        "cardName": "大和",
+        "rare": [
+          "SEC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 35
+      },
+      {
+        "id": 283508,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP01-121",
+        "cardGlobalKey": "OP01-121",
+        "cardName": "大和",
+        "rare": [
+          "SEC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 750,
+        "averagePrice": 350
+      },
+      {
+        "id": 283509,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-004",
+        "cardGlobalKey": "OP02-004",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 283510,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-004",
+        "cardGlobalKey": "OP02-004",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 22581,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-013",
+        "cardGlobalKey": "OP02-013",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SR 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283511,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-015",
+        "cardGlobalKey": "OP02-015",
+        "cardName": "瑪姬",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283512,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-015",
+        "cardGlobalKey": "OP02-015",
+        "cardName": "瑪姬",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283513,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-015",
+        "cardGlobalKey": "OP02-015",
+        "cardName": "瑪姬",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 283514,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-018",
+        "cardGlobalKey": "OP02-018",
+        "cardName": "馬可",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 283515,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-018",
+        "cardGlobalKey": "OP02-018",
+        "cardName": "馬可",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 9
+      },
+      {
+        "id": 283516,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-018",
+        "cardGlobalKey": "OP02-018",
+        "cardName": "馬可",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 0
+      },
+      {
+        "id": 283517,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-018",
+        "cardGlobalKey": "OP02-018",
+        "cardName": "馬可",
+        "rare": [
+          "R 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 70
+      },
+      {
+        "id": 283518,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-089",
+        "cardGlobalKey": "OP02-089",
+        "cardName": "地獄審判",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283519,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-089",
+        "cardGlobalKey": "OP02-089",
+        "cardName": "地獄審判",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283520,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-089",
+        "cardGlobalKey": "OP02-089",
+        "cardName": "地獄審判",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 283521,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-089",
+        "cardGlobalKey": "OP02-089",
+        "cardName": "地獄審判",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 99
+      },
+      {
+        "id": 283522,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-096",
+        "cardGlobalKey": "OP02-096",
+        "cardName": "庫山(異圖卡)",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 9
+      },
+      {
+        "id": 283523,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-096",
+        "cardGlobalKey": "OP02-096",
+        "cardName": "庫山(異圖卡)",
+        "rare": [
+          "SR 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 150
+      },
+      {
+        "id": 283524,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-099",
+        "cardGlobalKey": "OP02-099",
+        "cardName": "盃(異圖卡)",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 9
+      },
+      {
+        "id": 283525,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-099",
+        "cardGlobalKey": "OP02-099",
+        "cardName": "盃(異圖卡)",
+        "rare": [
+          "SR 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 45,
+        "averagePrice": 80
+      },
+      {
+        "id": 283526,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-106",
+        "cardGlobalKey": "OP02-106",
+        "cardName": "阿鶴(異圖卡)",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283527,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-106",
+        "cardGlobalKey": "OP02-106",
+        "cardName": "阿鶴(異圖卡)",
+        "rare": [
+          "UC 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283528,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-106",
+        "cardGlobalKey": "OP02-106",
+        "cardName": "阿鶴(異圖卡)",
+        "rare": [
+          "UC 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 79
+      },
+      {
+        "id": 283529,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-114",
+        "cardGlobalKey": "OP02-114",
+        "cardName": "波爾薩利諾(異圖卡)",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 9
+      },
+      {
+        "id": 283530,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-114",
+        "cardGlobalKey": "OP02-114",
+        "cardName": "波爾薩利諾(異圖卡)",
+        "rare": [
+          "SR 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 283531,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-117",
+        "cardGlobalKey": "OP02-117",
+        "cardName": "冰河時代(異圖卡)",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283532,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-117",
+        "cardGlobalKey": "OP02-117",
+        "cardName": "冰河時代(異圖卡)",
+        "rare": [
+          "UC 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283533,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-117",
+        "cardGlobalKey": "OP02-117",
+        "cardName": "冰河時代(異圖卡)",
+        "rare": [
+          "UC 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283534,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-121",
+        "cardGlobalKey": "OP02-121",
+        "cardName": "庫山",
+        "rare": [
+          "SEC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 10
+      },
+      {
+        "id": 283535,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP02-121",
+        "cardGlobalKey": "OP02-121",
+        "cardName": "庫山",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 140,
+        "averagePrice": 100
+      },
+      {
+        "id": 283536,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-003",
+        "cardGlobalKey": "OP03-003",
+        "cardName": "以藏",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 283537,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-003",
+        "cardGlobalKey": "OP03-003",
+        "cardName": "以藏",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 1
+      },
+      {
+        "id": 283538,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-003",
+        "cardGlobalKey": "OP03-003",
+        "cardName": "以藏",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 40
+      },
+      {
+        "id": 283539,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-003",
+        "cardGlobalKey": "OP03-003",
+        "cardName": "以藏",
+        "rare": [
+          "R 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 90
+      },
+      {
+        "id": 283540,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-055",
+        "cardGlobalKey": "OP03-055",
+        "cardName": "橡膠大槌(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283541,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-055",
+        "cardGlobalKey": "OP03-055",
+        "cardName": "橡膠大槌(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 283542,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-055",
+        "cardGlobalKey": "OP03-055",
+        "cardName": "橡膠大槌(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 0
+      },
+      {
+        "id": 283543,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-056",
+        "cardGlobalKey": "OP03-056",
+        "cardName": "香吉士海鮮炒飯",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 283544,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-056",
+        "cardGlobalKey": "OP03-056",
+        "cardName": "香吉士海鮮炒飯",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283545,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-056",
+        "cardGlobalKey": "OP03-056",
+        "cardName": "香吉士海鮮炒飯",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 0
+      },
+      {
+        "id": 283546,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-056",
+        "cardGlobalKey": "OP03-056",
+        "cardName": "香吉士海鮮炒飯",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 283547,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-057",
+        "cardGlobalKey": "OP03-057",
+        "cardName": "三・千・世・界",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 283548,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-057",
+        "cardGlobalKey": "OP03-057",
+        "cardName": "三・千・世・界",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 283549,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-057",
+        "cardGlobalKey": "OP03-057",
+        "cardName": "三・千・世・界",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 7,
+        "averagePrice": 5
+      },
+      {
+        "id": 283550,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-057",
+        "cardGlobalKey": "OP03-057",
+        "cardName": "三・千・世・界",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 50
+      },
+      {
+        "id": 283551,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-060",
+        "cardGlobalKey": "OP03-060",
+        "cardName": "卡莉法",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283552,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-060",
+        "cardGlobalKey": "OP03-060",
+        "cardName": "卡莉法",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283553,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-060",
+        "cardGlobalKey": "OP03-060",
+        "cardName": "卡莉法",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 0
+      },
+      {
+        "id": 283554,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-079",
+        "cardGlobalKey": "OP03-079",
+        "cardName": "威爾可",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283555,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-079",
+        "cardGlobalKey": "OP03-079",
+        "cardName": "威爾可",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 283556,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-079",
+        "cardGlobalKey": "OP03-079",
+        "cardName": "威爾可",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 50
+      },
+      {
+        "id": 283557,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-089",
+        "cardGlobalKey": "OP03-089",
+        "cardName": "布蘭紐(異圖卡)",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283558,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-089",
+        "cardGlobalKey": "OP03-089",
+        "cardName": "布蘭紐(異圖卡)",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283559,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-089",
+        "cardGlobalKey": "OP03-089",
+        "cardName": "布蘭紐(異圖卡)",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 0
+      },
+      {
+        "id": 283560,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-089",
+        "cardGlobalKey": "OP03-089",
+        "cardName": "布蘭紐(異圖卡)",
+        "rare": [
+          "R 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 0
+      },
+      {
+        "id": 283561,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-094",
+        "cardGlobalKey": "OP03-094",
+        "cardName": "空氣門",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283562,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-094",
+        "cardGlobalKey": "OP03-094",
+        "cardName": "空氣門",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 9
+      },
+      {
+        "id": 283563,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-094",
+        "cardGlobalKey": "OP03-094",
+        "cardName": "空氣門",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 0
+      },
+      {
+        "id": 283564,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-108",
+        "cardGlobalKey": "OP03-108",
+        "cardName": "夏洛特・慨烈卡",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 283565,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-108",
+        "cardGlobalKey": "OP03-108",
+        "cardName": "夏洛特・慨烈卡",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 0
+      },
+      {
+        "id": 283566,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-110",
+        "cardGlobalKey": "OP03-110",
+        "cardName": "夏洛特・斯姆吉",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 283567,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-110",
+        "cardGlobalKey": "OP03-110",
+        "cardName": "夏洛特・斯姆吉",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 283568,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-110",
+        "cardGlobalKey": "OP03-110",
+        "cardName": "夏洛特・斯姆吉",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 40
+      },
+      {
+        "id": 283569,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-110",
+        "cardGlobalKey": "OP03-110",
+        "cardName": "夏洛特・斯姆吉",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 283570,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-113",
+        "cardGlobalKey": "OP03-113",
+        "cardName": "夏洛特・裴洛斯培勒",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283571,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-113",
+        "cardGlobalKey": "OP03-113",
+        "cardName": "夏洛特・裴洛斯培勒",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 30
+      },
+      {
+        "id": 283572,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-116",
+        "cardGlobalKey": "OP03-116",
+        "cardName": "白星",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 1
+      },
+      {
+        "id": 283573,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-116",
+        "cardGlobalKey": "OP03-116",
+        "cardName": "白星",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283574,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-116",
+        "cardGlobalKey": "OP03-116",
+        "cardName": "白星",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 283575,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-121",
+        "cardGlobalKey": "OP03-121",
+        "cardName": "雷霆(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283576,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-121",
+        "cardGlobalKey": "OP03-121",
+        "cardName": "雷霆(異圖卡)",
+        "rare": [
+          "C 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283577,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-121",
+        "cardGlobalKey": "OP03-121",
+        "cardName": "雷霆(異圖卡)",
+        "rare": [
+          "C 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 0
+      },
+      {
+        "id": 22009,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-122",
+        "cardGlobalKey": "OP03-122",
+        "cardName": "狙擊王",
+        "rare": [
+          "SEC 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283578,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-123",
+        "cardGlobalKey": "OP03-123",
+        "cardName": "夏洛特・卡塔克利(異圖卡)",
+        "rare": [
+          "SEC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 283579,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP03-123",
+        "cardGlobalKey": "OP03-123",
+        "cardName": "夏洛特・卡塔克利(異圖卡)",
+        "rare": [
+          "SEC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 283580,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-029",
+        "cardGlobalKey": "OP04-029",
+        "cardName": "德林傑",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283581,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-029",
+        "cardGlobalKey": "OP04-029",
+        "cardName": "德林傑",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283582,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-029",
+        "cardGlobalKey": "OP04-029",
+        "cardName": "德林傑",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 283583,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-031",
+        "cardGlobalKey": "OP04-031",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 10
+      },
+      {
+        "id": 283584,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-031",
+        "cardGlobalKey": "OP04-031",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 99,
+        "averagePrice": 80
+      },
+      {
+        "id": 283585,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-032",
+        "cardGlobalKey": "OP04-032",
+        "cardName": "BABY5",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283586,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-032",
+        "cardGlobalKey": "OP04-032",
+        "cardName": "BABY5",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283587,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-032",
+        "cardGlobalKey": "OP04-032",
+        "cardName": "BABY5",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 35,
+        "averagePrice": 34
+      },
+      {
+        "id": 283588,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-036",
+        "cardGlobalKey": "OP04-036",
+        "cardName": "唐吉訶德家族",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 283589,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-036",
+        "cardGlobalKey": "OP04-036",
+        "cardName": "唐吉訶德家族",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 283590,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-036",
+        "cardGlobalKey": "OP04-036",
+        "cardName": "唐吉訶德家族",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 283591,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-044",
+        "cardGlobalKey": "OP04-044",
+        "cardName": "海道",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283592,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-044",
+        "cardGlobalKey": "OP04-044",
+        "cardName": "海道",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:20+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 0
+      },
+      {
+        "id": 283593,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-056",
+        "cardGlobalKey": "OP04-056",
+        "cardName": "橡膠業火手槍",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 283594,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-056",
+        "cardGlobalKey": "OP04-056",
+        "cardName": "橡膠業火手槍",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 15
+      },
+      {
+        "id": 283595,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-056",
+        "cardGlobalKey": "OP04-056",
+        "cardName": "橡膠業火手槍",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 150
+      },
+      {
+        "id": 283596,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-056",
+        "cardGlobalKey": "OP04-056",
+        "cardName": "橡膠業火手槍",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 439
+      },
+      {
+        "id": 21407,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-083",
+        "cardGlobalKey": "OP04-083",
+        "cardName": "薩波(異圖卡)",
+        "rare": [
+          "SR 異圖五"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283597,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-089",
+        "cardGlobalKey": "OP04-089",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283598,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-089",
+        "cardGlobalKey": "OP04-089",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 283599,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-089",
+        "cardGlobalKey": "OP04-089",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 40
+      },
+      {
+        "id": 283600,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-089",
+        "cardGlobalKey": "OP04-089",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 99
+      },
+      {
+        "id": 283601,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-095",
+        "cardGlobalKey": "OP04-095",
+        "cardName": "防～～～～護罩‼(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 15
+      },
+      {
+        "id": 283602,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-095",
+        "cardGlobalKey": "OP04-095",
+        "cardName": "防～～～～護罩‼(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283603,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-095",
+        "cardGlobalKey": "OP04-095",
+        "cardName": "防～～～～護罩‼(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283604,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-100",
+        "cardGlobalKey": "OP04-100",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 283605,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-100",
+        "cardGlobalKey": "OP04-100",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 283606,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-100",
+        "cardGlobalKey": "OP04-100",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 283607,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-100",
+        "cardGlobalKey": "OP04-100",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "R 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 30
+      },
+      {
+        "id": 283608,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-104",
+        "cardGlobalKey": "OP04-104",
+        "cardName": "香吉士",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283609,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-104",
+        "cardGlobalKey": "OP04-104",
+        "cardName": "香吉士",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 60
+      },
+      {
+        "id": 283610,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-112",
+        "cardGlobalKey": "OP04-112",
+        "cardName": "大和(異圖卡)",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 14,
+        "averagePrice": 10
+      },
+      {
+        "id": 283611,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP04-112",
+        "cardGlobalKey": "OP04-112",
+        "cardName": "大和(異圖卡)",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 280
+      },
+      {
+        "id": 283612,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-006",
+        "cardGlobalKey": "OP05-006",
+        "cardName": "可亞拉",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283613,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-006",
+        "cardGlobalKey": "OP05-006",
+        "cardName": "可亞拉",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 149
+      },
+      {
+        "id": 283614,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-007",
+        "cardGlobalKey": "OP05-007",
+        "cardName": "薩波",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283615,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-007",
+        "cardGlobalKey": "OP05-007",
+        "cardName": "薩波",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 50
+      },
+      {
+        "id": 283616,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-010",
+        "cardGlobalKey": "OP05-010",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283617,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-010",
+        "cardGlobalKey": "OP05-010",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283618,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-010",
+        "cardGlobalKey": "OP05-010",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 283619,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-015",
+        "cardGlobalKey": "OP05-015",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 283620,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-015",
+        "cardGlobalKey": "OP05-015",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 283621,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-015",
+        "cardGlobalKey": "OP05-015",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 40
+      },
+      {
+        "id": 283622,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-015",
+        "cardGlobalKey": "OP05-015",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 200
+      },
+      {
+        "id": 283623,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-034",
+        "cardGlobalKey": "OP05-034",
+        "cardName": "BABY５",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283624,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-034",
+        "cardGlobalKey": "OP05-034",
+        "cardName": "BABY５",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 2
+      },
+      {
+        "id": 283625,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-034",
+        "cardGlobalKey": "OP05-034",
+        "cardName": "BABY５",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 30
+      },
+      {
+        "id": 283626,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-034",
+        "cardGlobalKey": "OP05-034",
+        "cardName": "BABY５",
+        "rare": [
+          "R 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 283627,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-043",
+        "cardGlobalKey": "OP05-043",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 20
+      },
+      {
+        "id": 283628,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-043",
+        "cardGlobalKey": "OP05-043",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 0
+      },
+      {
+        "id": 283629,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-057",
+        "cardGlobalKey": "OP05-057",
+        "cardName": "犬齧紅蓮",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 283630,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-057",
+        "cardGlobalKey": "OP05-057",
+        "cardName": "犬齧紅蓮",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283631,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-057",
+        "cardGlobalKey": "OP05-057",
+        "cardName": "犬齧紅蓮",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 20
+      },
+      {
+        "id": 283632,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-057",
+        "cardGlobalKey": "OP05-057",
+        "cardName": "犬齧紅蓮",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 160
+      },
+      {
+        "id": 20717,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-069",
+        "cardGlobalKey": "OP05-069",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283633,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-073",
+        "cardGlobalKey": "OP05-073",
+        "cardName": "Miss雙手指(薩菈)",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283634,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-073",
+        "cardGlobalKey": "OP05-073",
+        "cardName": "Miss雙手指(薩菈)",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 283635,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-073",
+        "cardGlobalKey": "OP05-073",
+        "cardName": "Miss雙手指(薩菈)",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 99
+      },
+      {
+        "id": 283636,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-074",
+        "cardGlobalKey": "OP05-074",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283637,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-074",
+        "cardGlobalKey": "OP05-074",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 60
+      },
+      {
+        "id": 283638,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-074",
+        "cardGlobalKey": "OP05-074",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "SR 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283639,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-081",
+        "cardGlobalKey": "OP05-081",
+        "cardName": "單腳士兵",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 283640,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-081",
+        "cardGlobalKey": "OP05-081",
+        "cardName": "單腳士兵",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 15
+      },
+      {
+        "id": 283641,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-081",
+        "cardGlobalKey": "OP05-081",
+        "cardName": "單腳士兵",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 0
+      },
+      {
+        "id": 283642,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-081",
+        "cardGlobalKey": "OP05-081",
+        "cardName": "單腳士兵",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 230,
+        "averagePrice": 200
+      },
+      {
+        "id": 283643,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-082",
+        "cardGlobalKey": "OP05-082",
+        "cardName": "白星",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283644,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-082",
+        "cardGlobalKey": "OP05-082",
+        "cardName": "白星",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 100
+      },
+      {
+        "id": 283645,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-082",
+        "cardGlobalKey": "OP05-082",
+        "cardName": "白星",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 100
+      },
+      {
+        "id": 283646,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-082",
+        "cardGlobalKey": "OP05-082",
+        "cardName": "白星",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 450
+      },
+      {
+        "id": 283647,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-105",
+        "cardGlobalKey": "OP05-105",
+        "cardName": "大悟",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 283648,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-105",
+        "cardGlobalKey": "OP05-105",
+        "cardName": "大悟",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 283649,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-105",
+        "cardGlobalKey": "OP05-105",
+        "cardName": "大悟",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 60
+      },
+      {
+        "id": 283650,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-105",
+        "cardGlobalKey": "OP05-105",
+        "cardName": "大悟",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 283651,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-114",
+        "cardGlobalKey": "OP05-114",
+        "cardName": "神的制裁(異圖卡)",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 283652,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-114",
+        "cardGlobalKey": "OP05-114",
+        "cardName": "神的制裁(異圖卡)",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283653,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-114",
+        "cardGlobalKey": "OP05-114",
+        "cardName": "神的制裁(異圖卡)",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 20
+      },
+      {
+        "id": 283654,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-115",
+        "cardGlobalKey": "OP05-115",
+        "cardName": "2億伏特雷神",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 283655,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-115",
+        "cardGlobalKey": "OP05-115",
+        "cardName": "2億伏特雷神",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 9
+      },
+      {
+        "id": 283656,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-115",
+        "cardGlobalKey": "OP05-115",
+        "cardName": "2億伏特雷神",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 22
+      },
+      {
+        "id": 283657,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-115",
+        "cardGlobalKey": "OP05-115",
+        "cardName": "2億伏特雷神",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 149,
+        "averagePrice": 180
+      },
+      {
+        "id": 283658,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-117",
+        "cardGlobalKey": "OP05-117",
+        "cardName": "神之島",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 283659,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-117",
+        "cardGlobalKey": "OP05-117",
+        "cardName": "神之島",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 283660,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-117",
+        "cardGlobalKey": "OP05-117",
+        "cardName": "神之島",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 0
+      },
+      {
+        "id": 283661,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-117",
+        "cardGlobalKey": "OP05-117",
+        "cardName": "神之島",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 300
+      },
+      {
+        "id": 283662,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-118",
+        "cardGlobalKey": "OP05-118",
+        "cardName": "海道",
+        "rare": [
+          "SEC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 29,
+        "averagePrice": 30
+      },
+      {
+        "id": 283663,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-118",
+        "cardGlobalKey": "OP05-118",
+        "cardName": "海道",
+        "rare": [
+          "SEC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 120
+      },
+      {
+        "id": 283664,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 200
+      },
+      {
+        "id": 283665,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 1800
+      },
+      {
+        "id": 283666,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283667,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-003",
+        "cardGlobalKey": "OP06-003",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283668,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-003",
+        "cardGlobalKey": "OP06-003",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283669,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-003",
+        "cardGlobalKey": "OP06-003",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 0
+      },
+      {
+        "id": 283670,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-023",
+        "cardGlobalKey": "OP06-023",
+        "cardName": "惡龍",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 283671,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-023",
+        "cardGlobalKey": "OP06-023",
+        "cardName": "惡龍",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 9
+      },
+      {
+        "id": 283672,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-023",
+        "cardGlobalKey": "OP06-023",
+        "cardName": "惡龍",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 283673,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-023",
+        "cardGlobalKey": "OP06-023",
+        "cardName": "惡龍",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 39,
+        "averagePrice": 39
+      },
+      {
+        "id": 283674,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-035",
+        "cardGlobalKey": "OP06-035",
+        "cardName": "荷帝・瓊斯",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 10
+      },
+      {
+        "id": 283675,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-035",
+        "cardGlobalKey": "OP06-035",
+        "cardName": "荷帝・瓊斯",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 67,
+        "averagePrice": 0
+      },
+      {
+        "id": 283676,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-036",
+        "cardGlobalKey": "OP06-036",
+        "cardName": "龍馬",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 283677,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-036",
+        "cardGlobalKey": "OP06-036",
+        "cardName": "龍馬",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 1
+      },
+      {
+        "id": 283678,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-036",
+        "cardGlobalKey": "OP06-036",
+        "cardName": "龍馬",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 283679,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-036",
+        "cardGlobalKey": "OP06-036",
+        "cardName": "龍馬",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 70
+      },
+      {
+        "id": 283680,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-038",
+        "cardGlobalKey": "OP06-038",
+        "cardName": "一大・三千・大千世界(異圖卡)",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 2
+      },
+      {
+        "id": 283681,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-038",
+        "cardGlobalKey": "OP06-038",
+        "cardName": "一大・三千・大千世界(異圖卡)",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 283682,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-038",
+        "cardGlobalKey": "OP06-038",
+        "cardName": "一大・三千・大千世界(異圖卡)",
+        "rare": [
+          "UC 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 10
+      },
+      {
+        "id": 283683,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-056",
+        "cardGlobalKey": "OP06-056",
+        "cardName": "天叢雲劍",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 283684,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-056",
+        "cardGlobalKey": "OP06-056",
+        "cardName": "天叢雲劍",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283685,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-056",
+        "cardGlobalKey": "OP06-056",
+        "cardName": "天叢雲劍",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 0
+      },
+      {
+        "id": 283686,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-060",
+        "cardGlobalKey": "OP06-060",
+        "cardName": "賓什莫克・伊吉士",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283687,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-060",
+        "cardGlobalKey": "OP06-060",
+        "cardName": "賓什莫克・伊吉士",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283688,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-060",
+        "cardGlobalKey": "OP06-060",
+        "cardName": "賓什莫克・伊吉士",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 0
+      },
+      {
+        "id": 283689,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-064",
+        "cardGlobalKey": "OP06-064",
+        "cardName": "賓什莫克・尼吉士",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283690,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-064",
+        "cardGlobalKey": "OP06-064",
+        "cardName": "賓什莫克・尼吉士",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283691,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-064",
+        "cardGlobalKey": "OP06-064",
+        "cardName": "賓什莫克・尼吉士",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 283692,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-065",
+        "cardGlobalKey": "OP06-065",
+        "cardName": "賓什莫克・尼吉士",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 283693,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-065",
+        "cardGlobalKey": "OP06-065",
+        "cardName": "賓什莫克・尼吉士",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 283694,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-065",
+        "cardGlobalKey": "OP06-065",
+        "cardName": "賓什莫克・尼吉士",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 50
+      },
+      {
+        "id": 283695,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-065",
+        "cardGlobalKey": "OP06-065",
+        "cardName": "賓什莫克・尼吉士",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 40
+      },
+      {
+        "id": 283696,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-066",
+        "cardGlobalKey": "OP06-066",
+        "cardName": "賓什莫克・約吉士",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283697,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-066",
+        "cardGlobalKey": "OP06-066",
+        "cardName": "賓什莫克・約吉士",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 283698,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-066",
+        "cardGlobalKey": "OP06-066",
+        "cardName": "賓什莫克・約吉士",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 49
+      },
+      {
+        "id": 283699,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-067",
+        "cardGlobalKey": "OP06-067",
+        "cardName": "賓什莫克・約吉士",
+        "rare": [
+          "R 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 283700,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-067",
+        "cardGlobalKey": "OP06-067",
+        "cardName": "賓什莫克・約吉士",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 283701,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-067",
+        "cardGlobalKey": "OP06-067",
+        "cardName": "賓什莫克・約吉士",
+        "rare": [
+          "R 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 40
+      },
+      {
+        "id": 283702,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-067",
+        "cardGlobalKey": "OP06-067",
+        "cardName": "賓什莫克・約吉士",
+        "rare": [
+          "R 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 49
+      },
+      {
+        "id": 283703,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-068",
+        "cardGlobalKey": "OP06-068",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283704,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-068",
+        "cardGlobalKey": "OP06-068",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283705,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-068",
+        "cardGlobalKey": "OP06-068",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 200
+      },
+      {
+        "id": 283706,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-069",
+        "cardGlobalKey": "OP06-069",
+        "cardName": "賓什莫克・麗珠(異圖卡)",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 15
+      },
+      {
+        "id": 283707,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-069",
+        "cardGlobalKey": "OP06-069",
+        "cardName": "賓什莫克・麗珠(異圖卡)",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 135,
+        "averagePrice": 135
+      },
+      {
+        "id": 283708,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-079",
+        "cardGlobalKey": "OP06-079",
+        "cardName": "杰爾馬王國",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 283709,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-079",
+        "cardGlobalKey": "OP06-079",
+        "cardName": "杰爾馬王國",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283710,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-079",
+        "cardGlobalKey": "OP06-079",
+        "cardName": "杰爾馬王國",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283711,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-079",
+        "cardGlobalKey": "OP06-079",
+        "cardName": "杰爾馬王國",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 90
+      },
+      {
+        "id": 283712,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-086",
+        "cardGlobalKey": "OP06-086",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 7
+      },
+      {
+        "id": 283713,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-086",
+        "cardGlobalKey": "OP06-086",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 75,
+        "averagePrice": 0
+      },
+      {
+        "id": 283714,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-091",
+        "cardGlobalKey": "OP06-091",
+        "cardName": "維多莉亞・辛朵莉",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 283715,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-091",
+        "cardGlobalKey": "OP06-091",
+        "cardName": "維多莉亞・辛朵莉",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 283716,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-091",
+        "cardGlobalKey": "OP06-091",
+        "cardName": "維多莉亞・辛朵莉",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 70
+      },
+      {
+        "id": 283717,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-100",
+        "cardGlobalKey": "OP06-100",
+        "cardName": "犬嵐",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283718,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-100",
+        "cardGlobalKey": "OP06-100",
+        "cardName": "犬嵐",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283719,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-100",
+        "cardGlobalKey": "OP06-100",
+        "cardName": "犬嵐",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 40
+      },
+      {
+        "id": 283720,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-106",
+        "cardGlobalKey": "OP06-106",
+        "cardName": "光月日和",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 20
+      },
+      {
+        "id": 283721,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-106",
+        "cardGlobalKey": "OP06-106",
+        "cardName": "光月日和",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 600
+      },
+      {
+        "id": 283722,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-110",
+        "cardGlobalKey": "OP06-110",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283723,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-110",
+        "cardGlobalKey": "OP06-110",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283724,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-110",
+        "cardGlobalKey": "OP06-110",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 50
+      },
+      {
+        "id": 283725,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-114",
+        "cardGlobalKey": "OP06-114",
+        "cardName": "瓦夷帕",
+        "rare": [
+          "UC 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283726,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-114",
+        "cardGlobalKey": "OP06-114",
+        "cardName": "瓦夷帕",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 283727,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-114",
+        "cardGlobalKey": "OP06-114",
+        "cardName": "瓦夷帕",
+        "rare": [
+          "UC 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 40
+      },
+      {
+        "id": 22478,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "OP06-118",
+        "cardGlobalKey": "OP06-118",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SEC 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 283728,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-014",
+        "cardGlobalKey": "P-014",
+        "cardName": "克比",
+        "rare": [
+          "P 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 283729,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-014",
+        "cardGlobalKey": "P-014",
+        "cardName": "克比",
+        "rare": [
+          "P 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 283730,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-014",
+        "cardGlobalKey": "P-014",
+        "cardName": "克比",
+        "rare": [
+          "P 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 20
+      },
+      {
+        "id": 283731,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-029",
+        "cardGlobalKey": "P-029",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "P 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 1
+      },
+      {
+        "id": 283732,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-029",
+        "cardGlobalKey": "P-029",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "P 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283733,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-029",
+        "cardGlobalKey": "P-029",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "P 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 0
+      },
+      {
+        "id": 283734,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-053",
+        "cardGlobalKey": "P-053",
+        "cardName": "娜美",
+        "rare": [
+          "P 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 283735,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-053",
+        "cardGlobalKey": "P-053",
+        "cardName": "娜美",
+        "rare": [
+          "P 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 283736,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-053",
+        "cardGlobalKey": "P-053",
+        "cardName": "娜美",
+        "rare": [
+          "P 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 237
+      },
+      {
+        "id": 283737,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-055",
+        "cardGlobalKey": "P-055",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "P 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 283738,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-055",
+        "cardGlobalKey": "P-055",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "P 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 283739,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "P-055",
+        "cardGlobalKey": "P-055",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "P 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 200
+      },
+      {
+        "id": 283740,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "PRB01-001",
+        "cardGlobalKey": "PRB01-001",
+        "cardName": "香吉士",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283741,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "PRB01-001",
+        "cardGlobalKey": "PRB01-001",
+        "cardName": "香吉士",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 333
+      },
+      {
+        "id": 283742,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST01-006",
+        "cardGlobalKey": "ST01-006",
+        "cardName": "多尼多尼・喬巴(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283743,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST01-006",
+        "cardGlobalKey": "ST01-006",
+        "cardName": "多尼多尼・喬巴(異圖卡)",
+        "rare": [
+          "C 異圖十一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 250
+      },
+      {
+        "id": 283744,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST01-006",
+        "cardGlobalKey": "ST01-006",
+        "cardName": "多尼多尼・喬巴(異圖卡)",
+        "rare": [
+          "C 異圖九"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 9
+      },
+      {
+        "id": 283745,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST01-006",
+        "cardGlobalKey": "ST01-006",
+        "cardName": "多尼多尼・喬巴(異圖卡)",
+        "rare": [
+          "C 異圖十"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 170
+      },
+      {
+        "id": 283746,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST01-014",
+        "cardGlobalKey": "ST01-014",
+        "cardName": "毛皮強化",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283747,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST01-014",
+        "cardGlobalKey": "ST01-014",
+        "cardName": "毛皮強化",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 283748,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST01-014",
+        "cardGlobalKey": "ST01-014",
+        "cardName": "毛皮強化",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 0
+      },
+      {
+        "id": 283749,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST02-004",
+        "cardGlobalKey": "ST02-004",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283750,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST02-004",
+        "cardGlobalKey": "ST02-004",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283751,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST02-004",
+        "cardGlobalKey": "ST02-004",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "C 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 0
+      },
+      {
+        "id": 283752,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST02-004",
+        "cardGlobalKey": "ST02-004",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "C 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:21+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 0
+      },
+      {
+        "id": 283753,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-005",
+        "cardGlobalKey": "ST03-005",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283754,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-005",
+        "cardGlobalKey": "ST03-005",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "C 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283755,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-005",
+        "cardGlobalKey": "ST03-005",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "C 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 283756,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-008",
+        "cardGlobalKey": "ST03-008",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283757,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-008",
+        "cardGlobalKey": "ST03-008",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "C 異圖八"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283758,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-008",
+        "cardGlobalKey": "ST03-008",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "C 異圖九"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 283759,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-013",
+        "cardGlobalKey": "ST03-013",
+        "cardName": "波雅・漢考克(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 283760,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-013",
+        "cardGlobalKey": "ST03-013",
+        "cardName": "波雅・漢考克(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 283761,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-013",
+        "cardGlobalKey": "ST03-013",
+        "cardName": "波雅・漢考克(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 890
+      },
+      {
+        "id": 283762,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST03-013",
+        "cardGlobalKey": "ST03-013",
+        "cardName": "波雅・漢考克(異圖卡)",
+        "rare": [
+          "C 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 950,
+        "averagePrice": 975
+      },
+      {
+        "id": 283763,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST04-003",
+        "cardGlobalKey": "ST04-003",
+        "cardName": "海道",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      },
+      {
+        "id": 283764,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST04-003",
+        "cardGlobalKey": "ST04-003",
+        "cardName": "海道",
+        "rare": [
+          "SR 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 40
+      },
+      {
+        "id": 283765,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST04-005",
+        "cardGlobalKey": "ST04-005",
+        "cardName": "QUEEN(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283766,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST04-005",
+        "cardGlobalKey": "ST04-005",
+        "cardName": "QUEEN(異圖卡)",
+        "rare": [
+          "C 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283767,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST04-005",
+        "cardGlobalKey": "ST04-005",
+        "cardName": "QUEEN(異圖卡)",
+        "rare": [
+          "C 異圖六"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 0
+      },
+      {
+        "id": 283768,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST04-016",
+        "cardGlobalKey": "ST04-016",
+        "cardName": "吐息(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283769,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST04-016",
+        "cardGlobalKey": "ST04-016",
+        "cardName": "吐息(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 283770,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST04-016",
+        "cardGlobalKey": "ST04-016",
+        "cardName": "吐息(異圖卡)",
+        "rare": [
+          "C 異圖五"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283771,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST06-010",
+        "cardGlobalKey": "ST06-010",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283772,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST06-010",
+        "cardGlobalKey": "ST06-010",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283773,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST06-010",
+        "cardGlobalKey": "ST06-010",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 10
+      },
+      {
+        "id": 283774,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST06-014",
+        "cardGlobalKey": "ST06-014",
+        "cardName": "衝擊波",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283775,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST06-014",
+        "cardGlobalKey": "ST06-014",
+        "cardName": "衝擊波",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 283776,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST06-014",
+        "cardGlobalKey": "ST06-014",
+        "cardName": "衝擊波",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 10
+      },
+      {
+        "id": 283777,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST07-007",
+        "cardGlobalKey": "ST07-007",
+        "cardName": "夏洛特・布璃叡(異圖卡)",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 283778,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST07-007",
+        "cardGlobalKey": "ST07-007",
+        "cardName": "夏洛特・布璃叡(異圖卡)",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 283779,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST07-007",
+        "cardGlobalKey": "ST07-007",
+        "cardName": "夏洛特・布璃叡(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 30
+      },
+      {
+        "id": 283780,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST09-014",
+        "cardGlobalKey": "ST09-014",
+        "cardName": "鳴鏑",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 283781,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST09-014",
+        "cardGlobalKey": "ST09-014",
+        "cardName": "鳴鏑",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 9
+      },
+      {
+        "id": 283782,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST09-014",
+        "cardGlobalKey": "ST09-014",
+        "cardName": "鳴鏑",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 0
+      },
+      {
+        "id": 283783,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST10-010",
+        "cardGlobalKey": "ST10-010",
+        "cardName": "托拉法爾加・羅(異圖卡)",
+        "rare": [
+          "SR 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 283784,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST10-010",
+        "cardGlobalKey": "ST10-010",
+        "cardName": "托拉法爾加・羅(異圖卡)",
+        "rare": [
+          "SR 異圖四"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 600
+      },
+      {
+        "id": 283785,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST12-014",
+        "cardGlobalKey": "ST12-014",
+        "cardName": "迪巴魯",
+        "rare": [
+          "C 異圖一"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 283786,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST12-014",
+        "cardGlobalKey": "ST12-014",
+        "cardName": "迪巴魯",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 283787,
+        "game": "onejp",
+        "packId": "PRB-01",
+        "packName": "THE BEST",
+        "packCardId": "ST12-014",
+        "cardGlobalKey": "ST12-014",
+        "cardName": "迪巴魯",
+        "rare": [
+          "C 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:22+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 0
+      }
+    ]
+  },
+  "message": "ok"
+}

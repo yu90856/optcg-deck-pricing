@@ -1,0 +1,2379 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 189903,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-14-000P",
+        "cardName": "補充包 蒼海的七傑(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-11-21T16:36:16+08:00",
+        "lowestPrice": 4000,
+        "averagePrice": 2450
+      },
+      {
+        "id": 189904,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-14-000P",
+        "cardName": "補充包 蒼海的七傑(未拆封)",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2025-11-21T16:36:16+08:00",
+        "lowestPrice": 75,
+        "averagePrice": 60
+      },
+      {
+        "id": 189747,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "001",
+        "cardGlobalKey": "OP14-001",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-11-21T16:27:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189748,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "001",
+        "cardGlobalKey": "OP14-001",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:04+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 300
+      },
+      {
+        "id": 189749,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "002",
+        "cardGlobalKey": "OP14-002",
+        "cardName": "烏魯基",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 189750,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "003",
+        "cardGlobalKey": "OP14-003",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189751,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "004",
+        "cardGlobalKey": "OP14-004",
+        "cardName": "卡文迪許",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189752,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "005",
+        "cardGlobalKey": "OP14-005",
+        "cardName": "奇拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189753,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "006",
+        "cardGlobalKey": "OP14-006",
+        "cardName": "夏奇＆企鵝",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189754,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "007",
+        "cardGlobalKey": "OP14-007",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189755,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "008",
+        "cardGlobalKey": "OP14-008",
+        "cardName": "刮盤人・亞普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189756,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "009",
+        "cardGlobalKey": "OP14-009",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 9
+      },
+      {
+        "id": 189757,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "009",
+        "cardGlobalKey": "OP14-009",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 99
+      },
+      {
+        "id": 189758,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "010",
+        "cardGlobalKey": "OP14-010",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189759,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "011",
+        "cardGlobalKey": "OP14-011",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189760,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "012",
+        "cardGlobalKey": "OP14-012",
+        "cardName": "培波",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 189761,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "013",
+        "cardGlobalKey": "OP14-013",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 189762,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "013",
+        "cardGlobalKey": "OP14-013",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:05+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 250
+      },
+      {
+        "id": 189763,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "014",
+        "cardGlobalKey": "OP14-014",
+        "cardName": "尤斯塔斯・基德",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189764,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "015",
+        "cardGlobalKey": "OP14-015",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189765,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "015",
+        "cardGlobalKey": "OP14-015",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 100
+      },
+      {
+        "id": 189766,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "016",
+        "cardGlobalKey": "OP14-016",
+        "cardName": "X・多雷古",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189767,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "017",
+        "cardGlobalKey": "OP14-017",
+        "cardName": "移植",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189768,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "018",
+        "cardGlobalKey": "OP14-018",
+        "cardName": "開始反擊吧",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189769,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "019",
+        "cardGlobalKey": "OP14-019",
+        "cardName": "我有個「計策」…能搞垮「四皇」之一!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189770,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "020",
+        "cardGlobalKey": "OP14-020",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189771,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "020",
+        "cardGlobalKey": "OP14-020",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 800
+      },
+      {
+        "id": 189772,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "021",
+        "cardGlobalKey": "OP14-021",
+        "cardName": "一笑",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189773,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "022",
+        "cardGlobalKey": "OP14-022",
+        "cardName": "騙人布",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189774,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "023",
+        "cardGlobalKey": "OP14-023",
+        "cardName": "菊之丞",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189775,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "024",
+        "cardGlobalKey": "OP14-024",
+        "cardName": "錦右衛門",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189776,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "025",
+        "cardGlobalKey": "OP14-025",
+        "cardName": "克洛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189777,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "026",
+        "cardGlobalKey": "OP14-026",
+        "cardName": "光月御田",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189778,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "027",
+        "cardGlobalKey": "OP14-027",
+        "cardName": "傑克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189779,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "027",
+        "cardGlobalKey": "OP14-027",
+        "cardName": "傑克",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 289,
+        "averagePrice": 280
+      },
+      {
+        "id": 189780,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "028",
+        "cardGlobalKey": "OP14-028",
+        "cardName": "強尼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189781,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "029",
+        "cardGlobalKey": "OP14-029",
+        "cardName": "達絲琪",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189782,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "030",
+        "cardGlobalKey": "OP14-030",
+        "cardName": "加卡＆貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189783,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "031",
+        "cardGlobalKey": "OP14-031",
+        "cardName": "娜美",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 80
+      },
+      {
+        "id": 189784,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "031",
+        "cardGlobalKey": "OP14-031",
+        "cardName": "娜美",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1800,
+        "averagePrice": 1600
+      },
+      {
+        "id": 189785,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "032",
+        "cardGlobalKey": "OP14-032",
+        "cardName": "人鬼狒",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189786,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "033",
+        "cardGlobalKey": "OP14-033",
+        "cardName": "培羅娜",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 12,
+        "averagePrice": 20
+      },
+      {
+        "id": 189787,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "033",
+        "cardGlobalKey": "OP14-033",
+        "cardName": "培羅娜",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 299,
+        "averagePrice": 1000
+      },
+      {
+        "id": 189788,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "034",
+        "cardGlobalKey": "OP14-034",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189789,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "035",
+        "cardGlobalKey": "OP14-035",
+        "cardName": "約瑟夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189790,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "036",
+        "cardGlobalKey": "OP14-036",
+        "cardName": "試著超越我吧羅羅亞!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189791,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "037",
+        "cardGlobalKey": "OP14-037",
+        "cardName": "打發時間",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189792,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "038",
+        "cardGlobalKey": "OP14-038",
+        "cardName": "我不可能記得每隻螻蟻的長相!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189793,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "039",
+        "cardGlobalKey": "OP14-039",
+        "cardName": "棺船",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189794,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "040",
+        "cardGlobalKey": "OP14-040",
+        "cardName": "吉貝爾",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189795,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "040",
+        "cardGlobalKey": "OP14-040",
+        "cardName": "吉貝爾",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 170,
+        "averagePrice": 180
+      },
+      {
+        "id": 189796,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "041",
+        "cardGlobalKey": "OP14-041",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189797,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "041",
+        "cardGlobalKey": "OP14-041",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 4250,
+        "averagePrice": 4200
+      },
+      {
+        "id": 189798,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "042",
+        "cardGlobalKey": "OP14-042",
+        "cardName": "惡龍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189799,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "042",
+        "cardGlobalKey": "OP14-042",
+        "cardName": "惡龍",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 189800,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "043",
+        "cardGlobalKey": "OP14-043",
+        "cardName": "阿拉丁",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189801,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "044",
+        "cardGlobalKey": "OP14-044",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189802,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "045",
+        "cardGlobalKey": "OP14-045",
+        "cardName": "克羅歐比",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189803,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "046",
+        "cardGlobalKey": "OP14-046",
+        "cardName": "可亞拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189804,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "047",
+        "cardGlobalKey": "OP14-047",
+        "cardName": "白星",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189805,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "048",
+        "cardGlobalKey": "OP14-048",
+        "cardName": "矢龍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189806,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "049",
+        "cardGlobalKey": "OP14-049",
+        "cardName": "吉貝爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 189807,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "049",
+        "cardGlobalKey": "OP14-049",
+        "cardName": "吉貝爾",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 185
+      },
+      {
+        "id": 189808,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "050",
+        "cardGlobalKey": "OP14-050",
+        "cardName": "啾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189809,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "051",
+        "cardGlobalKey": "OP14-051",
+        "cardName": "小八",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189810,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "052",
+        "cardGlobalKey": "OP14-052",
+        "cardName": "般若拔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189811,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "053",
+        "cardGlobalKey": "OP14-053",
+        "cardName": "比斯塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189812,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "054",
+        "cardGlobalKey": "OP14-054",
+        "cardName": "費雪・泰格",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189813,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "055",
+        "cardGlobalKey": "OP14-055",
+        "cardName": "馬可羅一夥",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189814,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "056",
+        "cardGlobalKey": "OP14-056",
+        "cardName": "海神",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189815,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "057",
+        "cardGlobalKey": "OP14-057",
+        "cardName": "放心吧!!有我在這裡!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189816,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "058",
+        "cardGlobalKey": "OP14-058",
+        "cardName": "海流過肩摔",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 189817,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "059",
+        "cardGlobalKey": "OP14-059",
+        "cardName": "帶我去吧!!!我一定會幫上忙的!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189818,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "060",
+        "cardGlobalKey": "OP14-060",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189819,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "060",
+        "cardGlobalKey": "OP14-060",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 500
+      },
+      {
+        "id": 189820,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "061",
+        "cardGlobalKey": "OP14-061",
+        "cardName": "威爾可",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189821,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "061",
+        "cardGlobalKey": "OP14-061",
+        "cardName": "威爾可",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:10+08:00",
+        "lowestPrice": 120,
+        "averagePrice": 123
+      },
+      {
+        "id": 189822,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "062",
+        "cardGlobalKey": "OP14-062",
+        "cardName": "古拉迪斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189823,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "063",
+        "cardGlobalKey": "OP14-063",
+        "cardName": "砂糖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189824,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "064",
+        "cardGlobalKey": "OP14-064",
+        "cardName": "喬菈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189825,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "065",
+        "cardGlobalKey": "OP14-065",
+        "cardName": "粉紅先生",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189826,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "066",
+        "cardGlobalKey": "OP14-066",
+        "cardName": "帝雅曼鐵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189827,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "067",
+        "cardGlobalKey": "OP14-067",
+        "cardName": "德林傑",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189828,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "068",
+        "cardGlobalKey": "OP14-068",
+        "cardName": "托雷波爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189829,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "069",
+        "cardGlobalKey": "OP14-069",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 189830,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "069",
+        "cardGlobalKey": "OP14-069",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 230
+      },
+      {
+        "id": 189831,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "070",
+        "cardGlobalKey": "OP14-070",
+        "cardName": "水牛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189832,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "071",
+        "cardGlobalKey": "OP14-071",
+        "cardName": "皮卡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189833,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "072",
+        "cardGlobalKey": "OP14-072",
+        "cardName": "BABY5",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189834,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "073",
+        "cardGlobalKey": "OP14-073",
+        "cardName": "馬赫拜茲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189835,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "074",
+        "cardGlobalKey": "OP14-074",
+        "cardName": "莫內",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189836,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "075",
+        "cardGlobalKey": "OP14-075",
+        "cardName": "拉歐G",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189837,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "076",
+        "cardGlobalKey": "OP14-076",
+        "cardName": "大海白浪",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189838,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "077",
+        "cardGlobalKey": "OP14-077",
+        "cardName": "五色線",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189839,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "078",
+        "cardGlobalKey": "OP14-078",
+        "cardName": "線彈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189840,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "079",
+        "cardGlobalKey": "OP14-079",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189841,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "079",
+        "cardGlobalKey": "OP14-079",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 550,
+        "averagePrice": 550
+      },
+      {
+        "id": 189842,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "080",
+        "cardGlobalKey": "OP14-080",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189843,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "080",
+        "cardGlobalKey": "OP14-080",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:12+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 150
+      },
+      {
+        "id": 189844,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "081",
+        "cardGlobalKey": "OP14-081",
+        "cardName": "蜘蛛鼠",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189845,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "082",
+        "cardGlobalKey": "OP14-082",
+        "cardName": "噗查克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189846,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "083",
+        "cardGlobalKey": "OP14-083",
+        "cardName": "Miss星期三",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189847,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "084",
+        "cardGlobalKey": "OP14-084",
+        "cardName": "Miss All星期天",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 189848,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "084",
+        "cardGlobalKey": "OP14-084",
+        "cardName": "Miss All星期天",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 599
+      },
+      {
+        "id": 189849,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "085",
+        "cardGlobalKey": "OP14-085",
+        "cardName": "Miss黃金週(瑪莉安奴)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189850,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "086",
+        "cardGlobalKey": "OP14-086",
+        "cardName": "Miss雙手指(薩菈)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189851,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "087",
+        "cardGlobalKey": "OP14-087",
+        "cardName": "Miss情人節(米琪塔)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189852,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "088",
+        "cardGlobalKey": "OP14-088",
+        "cardName": "Miss聖誕節(多蘿菲)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 189853,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "089",
+        "cardGlobalKey": "OP14-089",
+        "cardName": "龍馬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189854,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "090",
+        "cardGlobalKey": "OP14-090",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189855,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "090",
+        "cardGlobalKey": "OP14-090",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:13+08:00",
+        "lowestPrice": 98,
+        "averagePrice": 100
+      },
+      {
+        "id": 189856,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "091",
+        "cardGlobalKey": "OP14-091",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 189857,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "091",
+        "cardGlobalKey": "OP14-091",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 199,
+        "averagePrice": 190
+      },
+      {
+        "id": 189858,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "092",
+        "cardGlobalKey": "OP14-092",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189859,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "093",
+        "cardGlobalKey": "OP14-093",
+        "cardName": "Mr.4(貝布)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 189860,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "094",
+        "cardGlobalKey": "OP14-094",
+        "cardName": "Mr.5(傑姆)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189861,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "095",
+        "cardGlobalKey": "OP14-095",
+        "cardName": "Mr.9",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189862,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "096",
+        "cardGlobalKey": "OP14-096",
+        "cardName": "侵蝕輪迴",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 137
+      },
+      {
+        "id": 189863,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "096",
+        "cardGlobalKey": "OP14-096",
+        "cardName": "侵蝕輪迴",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 2500
+      },
+      {
+        "id": 189864,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "097",
+        "cardGlobalKey": "OP14-097",
+        "cardName": "快讓我成為海賊王吧!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189865,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "098",
+        "cardGlobalKey": "OP14-098",
+        "cardName": "三日月形砂丘",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189866,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "099",
+        "cardGlobalKey": "OP14-099",
+        "cardName": "不服氣嗎？",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189867,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "100",
+        "cardGlobalKey": "OP14-100",
+        "cardName": "阿布薩羅姆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189868,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "101",
+        "cardGlobalKey": "OP14-101",
+        "cardName": "歐斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189869,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "102",
+        "cardGlobalKey": "OP14-102",
+        "cardName": "庫馬希",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 189870,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "103",
+        "cardGlobalKey": "OP14-103",
+        "cardName": "嘉蘭(紐婆婆)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189871,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "104",
+        "cardGlobalKey": "OP14-104",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 25
+      },
+      {
+        "id": 189872,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "104",
+        "cardGlobalKey": "OP14-104",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 850,
+        "averagePrice": 799
+      },
+      {
+        "id": 189873,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "105",
+        "cardGlobalKey": "OP14-105",
+        "cardName": "蛇髮魔女三姐妹",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189874,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "106",
+        "cardGlobalKey": "OP14-106",
+        "cardName": "薩洛梅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189875,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "107",
+        "cardGlobalKey": "OP14-107",
+        "cardName": "夏克雅克",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189876,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "108",
+        "cardGlobalKey": "OP14-108",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 8
+      },
+      {
+        "id": 189877,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "109",
+        "cardGlobalKey": "OP14-109",
+        "cardName": "維多莉亞・辛朵莉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189878,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "110",
+        "cardGlobalKey": "OP14-110",
+        "cardName": "赫古巴庫醫生",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 189879,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "111",
+        "cardGlobalKey": "OP14-111",
+        "cardName": "培羅娜",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 189880,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "111",
+        "cardGlobalKey": "OP14-111",
+        "cardName": "培羅娜",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 800
+      },
+      {
+        "id": 189881,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "112",
+        "cardGlobalKey": "OP14-112",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 150
+      },
+      {
+        "id": 189882,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "112",
+        "cardGlobalKey": "OP14-112",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 2200,
+        "averagePrice": 2400
+      },
+      {
+        "id": 189883,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "112",
+        "cardGlobalKey": "OP14-112",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 15000,
+        "averagePrice": 12000
+      },
+      {
+        "id": 189884,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "113",
+        "cardGlobalKey": "OP14-113",
+        "cardName": "雛菊",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189885,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "114",
+        "cardGlobalKey": "OP14-114",
+        "cardName": "蘭",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 189886,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "115",
+        "cardGlobalKey": "OP14-115",
+        "cardName": "龍膽",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 189887,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "116",
+        "cardGlobalKey": "OP14-116",
+        "cardName": "火焰蛇神",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-11-21T16:27:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 189888,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "117",
+        "cardGlobalKey": "OP14-117",
+        "cardName": "飛散蝙蝠",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 189889,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "118",
+        "cardGlobalKey": "OP14-118",
+        "cardName": "本宮…好害怕哦♡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 8
+      },
+      {
+        "id": 189890,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "118",
+        "cardGlobalKey": "OP14-118",
+        "cardName": "本宮…好害怕哦♡",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 10000,
+        "averagePrice": 7000
+      },
+      {
+        "id": 189891,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "119",
+        "cardGlobalKey": "OP14-119",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 130
+      },
+      {
+        "id": 189892,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "119",
+        "cardGlobalKey": "OP14-119",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 449,
+        "averagePrice": 420
+      },
+      {
+        "id": 189893,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "119",
+        "cardGlobalKey": "OP14-119",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SEC漫畫"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 18000,
+        "averagePrice": 15000
+      },
+      {
+        "id": 189894,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "120",
+        "cardGlobalKey": "OP14-120",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 45,
+        "averagePrice": 100
+      },
+      {
+        "id": 189895,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "120",
+        "cardGlobalKey": "OP14-120",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 480
+      },
+      {
+        "id": 189896,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "121",
+        "cardGlobalKey": "EB01-003",
+        "cardName": "基德&奇拉",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 700
+      },
+      {
+        "id": 189897,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "122",
+        "cardGlobalKey": "OP06-093",
+        "cardName": "培羅娜(異圖卡)",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 2450,
+        "averagePrice": 1800
+      },
+      {
+        "id": 189898,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "123",
+        "cardGlobalKey": "OP07-046",
+        "cardName": "戰國",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 650,
+        "averagePrice": 650
+      },
+      {
+        "id": 189899,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "124",
+        "cardGlobalKey": "OP09-051",
+        "cardName": "巴其",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 189900,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "124",
+        "cardGlobalKey": "OP09-051",
+        "cardName": "巴其",
+        "rare": [
+          "SP2"
+        ],
+        "createdTime": "2025-11-21T16:27:17+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 189901,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "125",
+        "cardGlobalKey": "OP10-065",
+        "cardName": "砂糖",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-11-21T16:27:18+08:00",
+        "lowestPrice": 1450,
+        "averagePrice": 1400
+      },
+      {
+        "id": 189902,
+        "game": "onejp",
+        "packId": "OP-14",
+        "packName": "蒼海的七傑",
+        "packCardId": "126",
+        "cardGlobalKey": "OP12-030",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-11-21T16:27:18+08:00",
+        "lowestPrice": 2300,
+        "averagePrice": 2200
+      }
+    ]
+  },
+  "message": "ok"
+}

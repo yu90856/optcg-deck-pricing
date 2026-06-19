@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162439,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-14-000P",
+        "cardName": "起始牌組 3D2Y",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:40:50+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 600
+      },
+      {
+        "id": 22451,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-001",
+        "cardGlobalKey": "ST14-001",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 399,
+        "averagePrice": 400
+      },
+      {
+        "id": 22097,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-002",
+        "cardGlobalKey": "ST14-002",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22708,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-003",
+        "cardGlobalKey": "ST14-003",
+        "cardName": "香吉士",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 20725,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-004",
+        "cardGlobalKey": "ST14-004",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21564,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-005",
+        "cardGlobalKey": "ST14-005",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22119,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-006",
+        "cardGlobalKey": "ST14-006",
+        "cardName": "娜美",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 20
+      },
+      {
+        "id": 21857,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-007",
+        "cardGlobalKey": "ST14-007",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21603,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-008",
+        "cardGlobalKey": "ST14-008",
+        "cardName": "哈雷達斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21897,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-009",
+        "cardGlobalKey": "ST14-009",
+        "cardName": "佛朗基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21545,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-010",
+        "cardGlobalKey": "ST14-010",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21609,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-011",
+        "cardGlobalKey": "ST14-011",
+        "cardName": "海格拉斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21214,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-012",
+        "cardGlobalKey": "ST14-012",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20736,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-013",
+        "cardGlobalKey": "ST14-013",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22699,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-014",
+        "cardGlobalKey": "ST14-014",
+        "cardName": "橡膠巨人螺旋彈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21672,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-015",
+        "cardGlobalKey": "ST14-015",
+        "cardName": "橡膠惡魔風三刀流羊肉JET六百煩惱攻城砲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20539,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-016",
+        "cardGlobalKey": "ST14-016",
+        "cardName": "我還有夥伴!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22323,
+        "game": "onejp",
+        "packId": "ST-14",
+        "packName": "3D2Y",
+        "packCardId": "ST14-017",
+        "cardGlobalKey": "ST14-017",
+        "cardName": "千陽號",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      }
+    ]
+  },
+  "message": "ok"
+}

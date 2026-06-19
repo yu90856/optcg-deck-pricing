@@ -1,0 +1,489 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 193151,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "000T",
+        "cardGlobalKey": "ST29-000T",
+        "cardName": "起始牌組 EGGHEAD(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-12-20T16:45:39+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 700
+      },
+      {
+        "id": 193120,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "001",
+        "cardGlobalKey": "ST29-001",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-12-20T16:43:13+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 10
+      },
+      {
+        "id": 193121,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "001",
+        "cardGlobalKey": "ST29-001",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:13+08:00",
+        "lowestPrice": 6000,
+        "averagePrice": 3000
+      },
+      {
+        "id": 193122,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "002",
+        "cardGlobalKey": "ST29-002",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 193123,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "002",
+        "cardGlobalKey": "ST29-002",
+        "cardName": "騙人布",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:13+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 193124,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "003",
+        "cardGlobalKey": "ST29-003",
+        "cardName": "卡古",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 193125,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "003",
+        "cardGlobalKey": "ST29-003",
+        "cardName": "卡古",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 100
+      },
+      {
+        "id": 193126,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "004",
+        "cardGlobalKey": "ST29-004",
+        "cardName": "香吉士",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 80
+      },
+      {
+        "id": 193127,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "004",
+        "cardGlobalKey": "ST29-004",
+        "cardName": "香吉士",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 0
+      },
+      {
+        "id": 193128,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "005",
+        "cardGlobalKey": "ST29-005",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 193129,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "005",
+        "cardGlobalKey": "ST29-005",
+        "cardName": "吉貝爾",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 200
+      },
+      {
+        "id": 193130,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "006",
+        "cardGlobalKey": "ST29-006",
+        "cardName": "絲媞希",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 193131,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "006",
+        "cardGlobalKey": "ST29-006",
+        "cardName": "絲媞希",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 100
+      },
+      {
+        "id": 193132,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "007",
+        "cardGlobalKey": "ST29-007",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 193133,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "007",
+        "cardGlobalKey": "ST29-007",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:14+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 439
+      },
+      {
+        "id": 193134,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "008",
+        "cardGlobalKey": "ST29-008",
+        "cardName": "娜美",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 193135,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "008",
+        "cardGlobalKey": "ST29-008",
+        "cardName": "娜美",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 1450
+      },
+      {
+        "id": 193136,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "009",
+        "cardGlobalKey": "ST29-009",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 44
+      },
+      {
+        "id": 193137,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "009",
+        "cardGlobalKey": "ST29-009",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 1500,
+        "averagePrice": 900
+      },
+      {
+        "id": 193138,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "010",
+        "cardGlobalKey": "ST29-010",
+        "cardName": "佛朗基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 193139,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "010",
+        "cardGlobalKey": "ST29-010",
+        "cardName": "佛朗基",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 193140,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "011",
+        "cardGlobalKey": "ST29-011",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 193141,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "011",
+        "cardGlobalKey": "ST29-011",
+        "cardName": "布魯克",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 105
+      },
+      {
+        "id": 193142,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "012",
+        "cardGlobalKey": "ST29-012",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 193143,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "012",
+        "cardGlobalKey": "ST29-012",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 193144,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "013",
+        "cardGlobalKey": "ST29-013",
+        "cardName": "羅布・路基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 193145,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "013",
+        "cardGlobalKey": "ST29-013",
+        "cardName": "羅布・路基",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:15+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 100
+      },
+      {
+        "id": 193146,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "014",
+        "cardGlobalKey": "ST29-014",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-12-20T16:43:16+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 193147,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "014",
+        "cardGlobalKey": "ST29-014",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "特典"
+        ],
+        "createdTime": "2025-12-20T16:43:16+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 800
+      },
+      {
+        "id": 193148,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "015",
+        "cardGlobalKey": "ST29-015",
+        "cardName": "溫度一分熟STRIKE",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:16+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 193149,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "016",
+        "cardGlobalKey": "ST29-016",
+        "cardName": "黄猿‼我們比2年前強了100倍喔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:16+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 193150,
+        "game": "onejp",
+        "packId": "ST29",
+        "packName": "起始牌組 EGGHEAD",
+        "packCardId": "017",
+        "cardGlobalKey": "ST29-017",
+        "cardName": "死・獅子歌歌",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-12-20T16:43:16+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      }
+    ]
+  },
+  "message": "ok"
+}

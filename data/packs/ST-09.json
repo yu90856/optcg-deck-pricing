@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162444,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-09-000P",
+        "cardName": "起始牌組 Side 大和",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:41:51+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 93
+      },
+      {
+        "id": 22219,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-001",
+        "cardGlobalKey": "ST09-001",
+        "cardName": "大和",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 79,
+        "averagePrice": 80
+      },
+      {
+        "id": 22686,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-002",
+        "cardGlobalKey": "ST09-002",
+        "cardName": "雨月天婦羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22467,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-003",
+        "cardGlobalKey": "ST09-003",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 21982,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-004",
+        "cardGlobalKey": "ST09-004",
+        "cardName": "海道",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21786,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-005",
+        "cardGlobalKey": "ST09-005",
+        "cardName": "光月御田",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 22338,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-006",
+        "cardGlobalKey": "ST09-006",
+        "cardName": "光月桃之助",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 1
+      },
+      {
+        "id": 21056,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-007",
+        "cardGlobalKey": "ST09-007",
+        "cardName": "忍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 1
+      },
+      {
+        "id": 22223,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-008",
+        "cardGlobalKey": "ST09-008",
+        "cardName": "霜月牛丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 20948,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-009",
+        "cardGlobalKey": "ST09-009",
+        "cardName": "風月飯糰",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20749,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-010",
+        "cardGlobalKey": "ST09-010",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 10
+      },
+      {
+        "id": 21378,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-011",
+        "cardGlobalKey": "ST09-011",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 21602,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-012",
+        "cardGlobalKey": "ST09-012",
+        "cardName": "大和(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 1
+      },
+      {
+        "id": 21771,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-013",
+        "cardGlobalKey": "ST09-013",
+        "cardName": "大和",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 1
+      },
+      {
+        "id": 22698,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-014",
+        "cardGlobalKey": "ST09-014",
+        "cardName": "鳴鏑",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21175,
+        "game": "onejp",
+        "packId": "ST-09",
+        "packName": "Side 大和",
+        "packCardId": "ST09-015",
+        "cardGlobalKey": "ST09-015",
+        "cardName": "雷鳴八卦",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      }
+    ]
+  },
+  "message": "ok"
+}

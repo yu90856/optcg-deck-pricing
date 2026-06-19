@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162452,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-03-000P",
+        "cardName": "起始牌組 王下七武海",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:43:48+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 0
+      },
+      {
+        "id": 21013,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-001",
+        "cardGlobalKey": "ST03-001",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 21749,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-002",
+        "cardGlobalKey": "ST03-002",
+        "cardName": "艾德華・衛伯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21116,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-003",
+        "cardGlobalKey": "ST03-003",
+        "cardName": "克洛克達爾(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 22684,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-004",
+        "cardGlobalKey": "ST03-004",
+        "cardName": "月光・摩利亞(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21992,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-005",
+        "cardGlobalKey": "ST03-005",
+        "cardName": "喬拉可爾・密佛格(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22012,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-006",
+        "cardGlobalKey": "ST03-006",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21844,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-007",
+        "cardGlobalKey": "ST03-007",
+        "cardName": "戰桃丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20657,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-008",
+        "cardGlobalKey": "ST03-008",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 20927,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-009",
+        "cardGlobalKey": "ST03-009",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 21082,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-010",
+        "cardGlobalKey": "ST03-010",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21697,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-011",
+        "cardGlobalKey": "ST03-011",
+        "cardName": "巴其",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21399,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-012",
+        "cardGlobalKey": "ST03-012",
+        "cardName": "和平主義者(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22198,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-013",
+        "cardGlobalKey": "ST03-013",
+        "cardName": "波雅・漢考克(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 21271,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-014",
+        "cardGlobalKey": "ST03-014",
+        "cardName": "馬歇爾・D・汀奇(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22192,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-015",
+        "cardGlobalKey": "ST03-015",
+        "cardName": "砂暴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 10
+      },
+      {
+        "id": 22353,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-016",
+        "cardGlobalKey": "ST03-016",
+        "cardName": "推手壓力砲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20768,
+        "game": "onejp",
+        "packId": "ST-03",
+        "packName": "王下七武海",
+        "packCardId": "ST03-017",
+        "cardGlobalKey": "ST03-017",
+        "cardName": "迷戀甘風(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 19,
+        "averagePrice": 30
+      }
+    ]
+  },
+  "message": "ok"
+}

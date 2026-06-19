@@ -1,0 +1,2289 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282397,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-07-000P",
+        "cardName": "500年後的未來 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 4499,
+        "averagePrice": 5440
+      },
+      {
+        "id": 282398,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-07-000P",
+        "cardName": "500年後的未來 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 95,
+        "averagePrice": 95
+      },
+      {
+        "id": 21453,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP01-035",
+        "cardGlobalKey": "OP01-035",
+        "cardName": "阿菊(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 440,
+        "averagePrice": 450
+      },
+      {
+        "id": 21924,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP01-073",
+        "cardGlobalKey": "OP01-073",
+        "cardName": "唐吉訶德・多佛朗明哥(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 550
+      },
+      {
+        "id": 22270,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP03-003",
+        "cardGlobalKey": "OP03-003",
+        "cardName": "以藏(異圖卡)",
+        "rare": [
+          "SP卡 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 440
+      },
+      {
+        "id": 21870,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP03-078",
+        "cardGlobalKey": "OP03-078",
+        "cardName": "一笑(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 750,
+        "averagePrice": 300
+      },
+      {
+        "id": 21372,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP05-074",
+        "cardGlobalKey": "OP05-074",
+        "cardName": "尤斯塔斯・基德(異圖卡)",
+        "rare": [
+          "SP卡 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 600
+      },
+      {
+        "id": 21245,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP06-101",
+        "cardGlobalKey": "OP06-101",
+        "cardName": "阿娜(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 7777,
+        "averagePrice": 6666
+      },
+      {
+        "id": 282399,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-001",
+        "cardGlobalKey": "OP07-001",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282400,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-001",
+        "cardGlobalKey": "OP07-001",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 190
+      },
+      {
+        "id": 21447,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-002",
+        "cardGlobalKey": "OP07-002",
+        "cardName": "艾茵",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 20937,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-003",
+        "cardGlobalKey": "OP07-003",
+        "cardName": "奧德路克三世",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 21162,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-004",
+        "cardGlobalKey": "OP07-004",
+        "cardName": "卡莉・達坦",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282401,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-005",
+        "cardGlobalKey": "OP07-005",
+        "cardName": "卡莉娜",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282402,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-005",
+        "cardGlobalKey": "OP07-005",
+        "cardName": "卡莉娜",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 22472,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-006",
+        "cardGlobalKey": "OP07-006",
+        "cardName": "史泰利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22378,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-007",
+        "cardGlobalKey": "OP07-007",
+        "cardName": "戴斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22447,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-008",
+        "cardGlobalKey": "OP07-008",
+        "cardName": "田中先生",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20579,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-009",
+        "cardGlobalKey": "OP07-009",
+        "cardName": "多古拉＆馬古拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21064,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-010",
+        "cardGlobalKey": "OP07-010",
+        "cardName": "芭卡拉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 22539,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-011",
+        "cardGlobalKey": "OP07-011",
+        "cardName": "布魯賈姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22347,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-012",
+        "cardGlobalKey": "OP07-012",
+        "cardName": "波爾謝米",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22116,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-013",
+        "cardGlobalKey": "OP07-013",
+        "cardName": "面具・迪斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21826,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-014",
+        "cardGlobalKey": "OP07-014",
+        "cardName": "莫妲",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282403,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-015",
+        "cardGlobalKey": "OP07-015",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282404,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-015",
+        "cardGlobalKey": "OP07-015",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 130,
+        "averagePrice": 130
+      },
+      {
+        "id": 21292,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-016",
+        "cardGlobalKey": "OP07-016",
+        "cardName": "銀河・WINK",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 21942,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-017",
+        "cardGlobalKey": "OP07-017",
+        "cardName": "龍之吐息",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20731,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-018",
+        "cardGlobalKey": "OP07-018",
+        "cardName": "KEEP OUT",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282405,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-019",
+        "cardGlobalKey": "OP07-019",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 282406,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-019",
+        "cardGlobalKey": "OP07-019",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 400
+      },
+      {
+        "id": 22464,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-020",
+        "cardGlobalKey": "OP07-020",
+        "cardName": "阿拉丁",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21156,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-021",
+        "cardGlobalKey": "OP07-021",
+        "cardName": "烏魯基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282407,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-022",
+        "cardGlobalKey": "OP07-022",
+        "cardName": "玉兒",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282408,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-022",
+        "cardGlobalKey": "OP07-022",
+        "cardName": "玉兒",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 110,
+        "averagePrice": 130
+      },
+      {
+        "id": 20754,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-023",
+        "cardGlobalKey": "OP07-023",
+        "cardName": "格列佛",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22257,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-024",
+        "cardGlobalKey": "OP07-024",
+        "cardName": "可亞拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20740,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-025",
+        "cardGlobalKey": "OP07-025",
+        "cardName": "柯列佛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282409,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-026",
+        "cardGlobalKey": "OP07-026",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 7
+      },
+      {
+        "id": 282410,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-026",
+        "cardGlobalKey": "OP07-026",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 289,
+        "averagePrice": 200
+      },
+      {
+        "id": 22196,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-027",
+        "cardGlobalKey": "OP07-027",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21485,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-028",
+        "cardGlobalKey": "OP07-028",
+        "cardName": "刮盤人・亞普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282411,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-029",
+        "cardGlobalKey": "OP07-029",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282412,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-029",
+        "cardGlobalKey": "OP07-029",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 50
+      },
+      {
+        "id": 21578,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-030",
+        "cardGlobalKey": "OP07-030",
+        "cardName": "帕帕克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21651,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-031",
+        "cardGlobalKey": "OP07-031",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21769,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-032",
+        "cardGlobalKey": "OP07-032",
+        "cardName": "費雪・泰格",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20755,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-033",
+        "cardGlobalKey": "OP07-033",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20846,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-034",
+        "cardGlobalKey": "OP07-034",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22336,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-035",
+        "cardGlobalKey": "OP07-035",
+        "cardName": "因果展現",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21469,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-036",
+        "cardGlobalKey": "OP07-036",
+        "cardName": "鬼氣 九刀流 阿修羅 魔九閃",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22015,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-037",
+        "cardGlobalKey": "OP07-037",
+        "cardName": "我～還～要～披薩!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282413,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-038",
+        "cardGlobalKey": "OP07-038",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 282414,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-038",
+        "cardGlobalKey": "OP07-038",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 3300,
+        "averagePrice": 2300
+      },
+      {
+        "id": 22545,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-039",
+        "cardGlobalKey": "OP07-039",
+        "cardName": "艾德華・衛伯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22161,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-040",
+        "cardGlobalKey": "OP07-040",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20545,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-041",
+        "cardGlobalKey": "OP07-041",
+        "cardName": "嘉蘭(紐婆婆)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21985,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-042",
+        "cardGlobalKey": "OP07-042",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21794,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-043",
+        "cardGlobalKey": "OP07-043",
+        "cardName": "薩洛梅",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21266,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-044",
+        "cardGlobalKey": "OP07-044",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 282415,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-045",
+        "cardGlobalKey": "OP07-045",
+        "cardName": "吉貝爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282416,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-045",
+        "cardGlobalKey": "OP07-045",
+        "cardName": "吉貝爾",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 90
+      },
+      {
+        "id": 282417,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-046",
+        "cardGlobalKey": "OP07-046",
+        "cardName": "戰國",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 15
+      },
+      {
+        "id": 282418,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-046",
+        "cardGlobalKey": "OP07-046",
+        "cardName": "戰國",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 75,
+        "averagePrice": 150
+      },
+      {
+        "id": 282419,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-047",
+        "cardGlobalKey": "OP07-047",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      },
+      {
+        "id": 282420,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-047",
+        "cardGlobalKey": "OP07-047",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 25
+      },
+      {
+        "id": 21652,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-048",
+        "cardGlobalKey": "OP07-048",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21478,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-049",
+        "cardGlobalKey": "OP07-049",
+        "cardName": "芭晴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21799,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-050",
+        "cardGlobalKey": "OP07-050",
+        "cardName": "波雅・桑塔索妮雅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282421,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-051",
+        "cardGlobalKey": "OP07-051",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 109
+      },
+      {
+        "id": 282422,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-051",
+        "cardGlobalKey": "OP07-051",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1600,
+        "averagePrice": 1549
+      },
+      {
+        "id": 282423,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-051",
+        "cardGlobalKey": "OP07-051",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 60000,
+        "averagePrice": 0
+      },
+      {
+        "id": 20880,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-052",
+        "cardGlobalKey": "OP07-052",
+        "cardName": "波雅・瑪莉哥德",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21675,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-053",
+        "cardGlobalKey": "OP07-053",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21460,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-054",
+        "cardGlobalKey": "OP07-054",
+        "cardName": "雛菊",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 20847,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-055",
+        "cardGlobalKey": "OP07-055",
+        "cardName": "蛇舞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 22651,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-056",
+        "cardGlobalKey": "OP07-056",
+        "cardName": "虜之箭",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21278,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-057",
+        "cardGlobalKey": "OP07-057",
+        "cardName": "芳香腳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21154,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-058",
+        "cardGlobalKey": "OP07-058",
+        "cardName": "女人島",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282424,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-059",
+        "cardGlobalKey": "OP07-059",
+        "cardName": "弗克西",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282425,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-059",
+        "cardGlobalKey": "OP07-059",
+        "cardName": "弗克西",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 100
+      },
+      {
+        "id": 21129,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-060",
+        "cardGlobalKey": "OP07-060",
+        "cardName": "線蚯蚓",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22187,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-061",
+        "cardGlobalKey": "OP07-061",
+        "cardName": "賓什莫克・香吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21211,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-062",
+        "cardGlobalKey": "OP07-062",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 4
+      },
+      {
+        "id": 22429,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-063",
+        "cardGlobalKey": "OP07-063",
+        "cardName": "卡博帝",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282426,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-064",
+        "cardGlobalKey": "OP07-064",
+        "cardName": "香吉士",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282427,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-064",
+        "cardGlobalKey": "OP07-064",
+        "cardName": "香吉士",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 249,
+        "averagePrice": 320
+      },
+      {
+        "id": 21555,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-065",
+        "cardGlobalKey": "OP07-065",
+        "cardName": "吉娜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21004,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-066",
+        "cardGlobalKey": "OP07-066",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      },
+      {
+        "id": 22574,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-067",
+        "cardGlobalKey": "OP07-067",
+        "cardName": "東吉特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20596,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-068",
+        "cardGlobalKey": "OP07-068",
+        "cardName": "漢堡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21092,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-069",
+        "cardGlobalKey": "OP07-069",
+        "cardName": "皮克魯斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22587,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-070",
+        "cardGlobalKey": "OP07-070",
+        "cardName": "比格潘",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 282428,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-071",
+        "cardGlobalKey": "OP07-071",
+        "cardName": "弗克西",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 282429,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-071",
+        "cardGlobalKey": "OP07-071",
+        "cardName": "弗克西",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 75,
+        "averagePrice": 70
+      },
+      {
+        "id": 282430,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-072",
+        "cardGlobalKey": "OP07-072",
+        "cardName": "波琪",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 10
+      },
+      {
+        "id": 282431,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-072",
+        "cardGlobalKey": "OP07-072",
+        "cardName": "波琪",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 220,
+        "averagePrice": 200
+      },
+      {
+        "id": 22384,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-073",
+        "cardGlobalKey": "OP07-073",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 21123,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-074",
+        "cardGlobalKey": "OP07-074",
+        "cardName": "蒙達",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21502,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-075",
+        "cardGlobalKey": "OP07-075",
+        "cardName": "遲鈍光線",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 21893,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-076",
+        "cardGlobalKey": "OP07-076",
+        "cardName": "遲鈍光劍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 21393,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-077",
+        "cardGlobalKey": "OP07-077",
+        "cardName": "出發去拿「ONE PIECE」啦!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 20561,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-078",
+        "cardGlobalKey": "OP07-078",
+        "cardName": "百萬九尾連擊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282432,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-079",
+        "cardGlobalKey": "OP07-079",
+        "cardName": "羅布・路基",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282433,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-079",
+        "cardGlobalKey": "OP07-079",
+        "cardName": "羅布・路基",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 200
+      },
+      {
+        "id": 22716,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-080",
+        "cardGlobalKey": "OP07-080",
+        "cardName": "卡古",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21203,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-081",
+        "cardGlobalKey": "OP07-081",
+        "cardName": "卡莉法",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 21420,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-082",
+        "cardGlobalKey": "OP07-082",
+        "cardName": "約翰船長",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21751,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-083",
+        "cardGlobalKey": "OP07-083",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21344,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-084",
+        "cardGlobalKey": "OP07-084",
+        "cardName": "吉司蒙達",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282434,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-085",
+        "cardGlobalKey": "OP07-085",
+        "cardName": "絲媞希",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282435,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-085",
+        "cardGlobalKey": "OP07-085",
+        "cardName": "絲媞希",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 230,
+        "averagePrice": 300
+      },
+      {
+        "id": 20902,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-086",
+        "cardGlobalKey": "OP07-086",
+        "cardName": "斯帕達姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22266,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-087",
+        "cardGlobalKey": "OP07-087",
+        "cardName": "巴斯卡比爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20947,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-088",
+        "cardGlobalKey": "OP07-088",
+        "cardName": "哈德利",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22623,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-089",
+        "cardGlobalKey": "OP07-089",
+        "cardName": "馬赫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21321,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-090",
+        "cardGlobalKey": "OP07-090",
+        "cardName": "摩甘茲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20641,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-091",
+        "cardGlobalKey": "OP07-091",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21742,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-092",
+        "cardGlobalKey": "OP07-092",
+        "cardName": "約賽夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20802,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-093",
+        "cardGlobalKey": "OP07-093",
+        "cardName": "羅布・路基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21713,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-094",
+        "cardGlobalKey": "OP07-094",
+        "cardName": "剃",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20597,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-095",
+        "cardGlobalKey": "OP07-095",
+        "cardName": "鐵塊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21421,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-096",
+        "cardGlobalKey": "OP07-096",
+        "cardName": "嵐腳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282436,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-097",
+        "cardGlobalKey": "OP07-097",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282437,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-097",
+        "cardGlobalKey": "OP07-097",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 350
+      },
+      {
+        "id": 22100,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-098",
+        "cardGlobalKey": "OP07-098",
+        "cardName": "阿特拉斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21255,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-099",
+        "cardGlobalKey": "OP07-099",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20534,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-100",
+        "cardGlobalKey": "OP07-100",
+        "cardName": "愛迪生(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21142,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-101",
+        "cardGlobalKey": "OP07-101",
+        "cardName": "釋迦",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21572,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-102",
+        "cardGlobalKey": "OP07-102",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22188,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-103",
+        "cardGlobalKey": "OP07-103",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 21236,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-104",
+        "cardGlobalKey": "OP07-104",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 22082,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-105",
+        "cardGlobalKey": "OP07-105",
+        "cardName": "畢達哥拉斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21149,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-106",
+        "cardGlobalKey": "OP07-106",
+        "cardName": "盤腿",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282438,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-107",
+        "cardGlobalKey": "OP07-107",
+        "cardName": "佛朗基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282439,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-107",
+        "cardGlobalKey": "OP07-107",
+        "cardName": "佛朗基",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 98,
+        "averagePrice": 90
+      },
+      {
+        "id": 21972,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-108",
+        "cardGlobalKey": "OP07-108",
+        "cardName": "貝卡部隊-01",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282440,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-109",
+        "cardGlobalKey": "OP07-109",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282441,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-109",
+        "cardGlobalKey": "OP07-109",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 700
+      },
+      {
+        "id": 20764,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-110",
+        "cardGlobalKey": "OP07-110",
+        "cardName": "尤克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282442,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-111",
+        "cardGlobalKey": "OP07-111",
+        "cardName": "莉莉絲",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 15
+      },
+      {
+        "id": 282443,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-111",
+        "cardGlobalKey": "OP07-111",
+        "cardName": "莉莉絲",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 90
+      },
+      {
+        "id": 21527,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-112",
+        "cardGlobalKey": "OP07-112",
+        "cardName": "魯西",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22066,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-113",
+        "cardGlobalKey": "OP07-113",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 20848,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-114",
+        "cardGlobalKey": "OP07-114",
+        "cardName": "全世界頭腦最聰明的男人",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 20896,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-115",
+        "cardGlobalKey": "OP07-115",
+        "cardName": "救命啊～!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21246,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-116",
+        "cardGlobalKey": "OP07-116",
+        "cardName": "焰裂斬",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21204,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-117",
+        "cardGlobalKey": "OP07-117",
+        "cardName": "蛋頭",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282444,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-118",
+        "cardGlobalKey": "OP07-118",
+        "cardName": "薩波",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 20
+      },
+      {
+        "id": 282445,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-118",
+        "cardGlobalKey": "OP07-118",
+        "cardName": "薩波",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 90
+      },
+      {
+        "id": 282446,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-119",
+        "cardGlobalKey": "OP07-119",
+        "cardName": "波特卡斯・D・艾斯(異圖卡)",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 24,
+        "averagePrice": 25
+      },
+      {
+        "id": 282447,
+        "game": "onejp",
+        "packId": "OP-07",
+        "packName": "500年後的未來",
+        "packCardId": "OP07-119",
+        "cardGlobalKey": "OP07-119",
+        "cardName": "波特卡斯・D・艾斯(異圖卡)",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:11+08:00",
+        "lowestPrice": 210,
+        "averagePrice": 400
+      }
+    ]
+  },
+  "message": "ok"
+}

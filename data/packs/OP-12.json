@@ -1,0 +1,2364 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282667,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-12-000P",
+        "cardName": "師徒的情義 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 1560
+      },
+      {
+        "id": 282668,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-12-000P",
+        "cardName": "師徒的情義 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 50
+      },
+      {
+        "id": 162765,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP-12-DON",
+        "cardGlobalKey": "OP-12-DON",
+        "cardName": "咚！！",
+        "rare": [
+          "DON"
+        ],
+        "createdTime": "2025-05-31T00:28:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 162758,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP06-050",
+        "cardGlobalKey": "OP06-050",
+        "cardName": "達絲琪",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-30T17:27:29+08:00",
+        "lowestPrice": 4500,
+        "averagePrice": 660
+      },
+      {
+        "id": 162759,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP09-013",
+        "cardGlobalKey": "OP09-013",
+        "cardName": "耶穌布",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-30T17:27:30+08:00",
+        "lowestPrice": 550,
+        "averagePrice": 1100
+      },
+      {
+        "id": 162760,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP09-037",
+        "cardGlobalKey": "OP09-037",
+        "cardName": "莉姆",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-30T17:27:30+08:00",
+        "lowestPrice": 950,
+        "averagePrice": 350
+      },
+      {
+        "id": 282669,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP09-093",
+        "cardGlobalKey": "OP09-093",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 100000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282670,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP09-093",
+        "cardGlobalKey": "OP09-093",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SP2"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 162762,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP10-082",
+        "cardGlobalKey": "OP10-082",
+        "cardName": "庫山",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-30T17:27:30+08:00",
+        "lowestPrice": 990,
+        "averagePrice": 1000
+      },
+      {
+        "id": 282671,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-001",
+        "cardGlobalKey": "OP12-001",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282672,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-001",
+        "cardGlobalKey": "OP12-001",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 350
+      },
+      {
+        "id": 162640,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-002",
+        "cardGlobalKey": "OP12-002",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 162641,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-003",
+        "cardGlobalKey": "OP12-003",
+        "cardName": "可樂克斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162642,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-004",
+        "cardGlobalKey": "OP12-004",
+        "cardName": "光月御田",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162643,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-005",
+        "cardGlobalKey": "OP12-005",
+        "cardName": "獅鬼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162644,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-006",
+        "cardGlobalKey": "OP12-006",
+        "cardName": "夏克雅克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162645,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-007",
+        "cardGlobalKey": "OP12-007",
+        "cardName": "傑克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282673,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-008",
+        "cardGlobalKey": "OP12-008",
+        "cardName": "傑克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282674,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-008",
+        "cardGlobalKey": "OP12-008",
+        "cardName": "傑克",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 125,
+        "averagePrice": 250
+      },
+      {
+        "id": 162647,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-009",
+        "cardGlobalKey": "OP12-009",
+        "cardName": "吉貝爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:27+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 162648,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-010",
+        "cardGlobalKey": "OP12-010",
+        "cardName": "道格拉斯・巴列德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162649,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-011",
+        "cardGlobalKey": "OP12-011",
+        "cardName": "迪巴魯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162650,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-012",
+        "cardGlobalKey": "OP12-012",
+        "cardName": "巴其",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162651,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-013",
+        "cardGlobalKey": "OP12-013",
+        "cardName": "小八",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282675,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-014",
+        "cardGlobalKey": "OP12-014",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 29
+      },
+      {
+        "id": 282676,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-014",
+        "cardGlobalKey": "OP12-014",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 700
+      },
+      {
+        "id": 282677,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-015",
+        "cardGlobalKey": "OP12-015",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282678,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-015",
+        "cardGlobalKey": "OP12-015",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 330,
+        "averagePrice": 300
+      },
+      {
+        "id": 162654,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-016",
+        "cardGlobalKey": "OP12-016",
+        "cardName": "「毫不懷疑」，這就是「強悍」!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162655,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-017",
+        "cardGlobalKey": "OP12-017",
+        "cardName": "見聞色霸氣",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162656,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-018",
+        "cardGlobalKey": "OP12-018",
+        "cardName": "霸王色霸氣",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162657,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-019",
+        "cardGlobalKey": "OP12-019",
+        "cardName": "武裝色霸氣",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282679,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-020",
+        "cardGlobalKey": "OP12-020",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282680,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-020",
+        "cardGlobalKey": "OP12-020",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1190,
+        "averagePrice": 1100
+      },
+      {
+        "id": 162659,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-021",
+        "cardGlobalKey": "OP12-021",
+        "cardName": "賣一刀",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162660,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-022",
+        "cardGlobalKey": "OP12-022",
+        "cardName": "犬嵐",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162661,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-023",
+        "cardGlobalKey": "OP12-023",
+        "cardName": "河松",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162662,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-024",
+        "cardGlobalKey": "OP12-024",
+        "cardName": "牛鬼丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:32+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162663,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-025",
+        "cardGlobalKey": "OP12-025",
+        "cardName": "錦右衛門",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:32+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162664,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-026",
+        "cardGlobalKey": "OP12-026",
+        "cardName": "克伊娜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162665,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-027",
+        "cardGlobalKey": "OP12-027",
+        "cardName": "耕四郎",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162666,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-028",
+        "cardGlobalKey": "OP12-028",
+        "cardName": "光月日和",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:33+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 162667,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-029",
+        "cardGlobalKey": "OP12-029",
+        "cardName": "霜月耕三郎",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282681,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-030",
+        "cardGlobalKey": "OP12-030",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 45,
+        "averagePrice": 55
+      },
+      {
+        "id": 282682,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-030",
+        "cardGlobalKey": "OP12-030",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 345,
+        "averagePrice": 350
+      },
+      {
+        "id": 282683,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-031",
+        "cardGlobalKey": "OP12-031",
+        "cardName": "達絲琪",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282684,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-031",
+        "cardGlobalKey": "OP12-031",
+        "cardName": "達絲琪",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 145,
+        "averagePrice": 150
+      },
+      {
+        "id": 162670,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-032",
+        "cardGlobalKey": "OP12-032",
+        "cardName": "貓蝮蛇",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 162671,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-033",
+        "cardGlobalKey": "OP12-033",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282685,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-034",
+        "cardGlobalKey": "OP12-034",
+        "cardName": "培羅娜",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 130,
+        "averagePrice": 143
+      },
+      {
+        "id": 282686,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-034",
+        "cardGlobalKey": "OP12-034",
+        "cardName": "培羅娜",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 650
+      },
+      {
+        "id": 162673,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-035",
+        "cardGlobalKey": "OP12-035",
+        "cardName": "蒙卡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:35+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162674,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-036",
+        "cardGlobalKey": "OP12-036",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282687,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-037",
+        "cardGlobalKey": "OP12-037",
+        "cardName": "鬼氣 九刀流 阿修羅 拔劍 亡者戲",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 55
+      },
+      {
+        "id": 282688,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-037",
+        "cardGlobalKey": "OP12-037",
+        "cardName": "鬼氣 九刀流 阿修羅 拔劍 亡者戲",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 7800,
+        "averagePrice": 6000
+      },
+      {
+        "id": 162676,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-038",
+        "cardGlobalKey": "OP12-038",
+        "cardName": "二刀流 居合 羅生門",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162677,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-039",
+        "cardGlobalKey": "OP12-039",
+        "cardName": "魯夫可是要成為海賊王的男人!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:37+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282689,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-040",
+        "cardGlobalKey": "OP12-040",
+        "cardName": "庫山",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282690,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-040",
+        "cardGlobalKey": "OP12-040",
+        "cardName": "庫山",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 350
+      },
+      {
+        "id": 282691,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-041",
+        "cardGlobalKey": "OP12-041",
+        "cardName": "香吉士",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282692,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-041",
+        "cardGlobalKey": "OP12-041",
+        "cardName": "香吉士",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 430,
+        "averagePrice": 445
+      },
+      {
+        "id": 162680,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-042",
+        "cardGlobalKey": "OP12-042",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:38+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282693,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-043",
+        "cardGlobalKey": "OP12-043",
+        "cardName": "庫山",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 282694,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-043",
+        "cardGlobalKey": "OP12-043",
+        "cardName": "庫山",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 330,
+        "averagePrice": 250
+      },
+      {
+        "id": 162682,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-044",
+        "cardGlobalKey": "OP12-044",
+        "cardName": "盃",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:39+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 162683,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-045",
+        "cardGlobalKey": "OP12-045",
+        "cardName": "傑克斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:39+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162684,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-046",
+        "cardGlobalKey": "OP12-046",
+        "cardName": "捷風",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:39+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162685,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-047",
+        "cardGlobalKey": "OP12-047",
+        "cardName": "戰國",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:39+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 162686,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-048",
+        "cardGlobalKey": "OP12-048",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:40+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162687,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-049",
+        "cardGlobalKey": "OP12-049",
+        "cardName": "巴其",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:40+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 162688,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-050",
+        "cardGlobalKey": "OP12-050",
+        "cardName": "哈古瓦爾・D・薩烏羅",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:40+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162689,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-051",
+        "cardGlobalKey": "OP12-051",
+        "cardName": "希娜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:41+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 162690,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-052",
+        "cardGlobalKey": "OP12-052",
+        "cardName": "芬布迪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:41+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162691,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-053",
+        "cardGlobalKey": "OP12-053",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:41+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 162692,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-054",
+        "cardGlobalKey": "OP12-054",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:42+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162693,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-055",
+        "cardGlobalKey": "OP12-055",
+        "cardName": "摩奇＆卡巴吉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:42+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282695,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-056",
+        "cardGlobalKey": "OP12-056",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 25
+      },
+      {
+        "id": 282696,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-056",
+        "cardGlobalKey": "OP12-056",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 245,
+        "averagePrice": 245
+      },
+      {
+        "id": 162695,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-057",
+        "cardGlobalKey": "OP12-057",
+        "cardName": "冰塊暴雉嘴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:42+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162696,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-058",
+        "cardGlobalKey": "OP12-058",
+        "cardName": "我要讓白鬍子…登上王座",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:43+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162697,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-059",
+        "cardGlobalKey": "OP12-059",
+        "cardName": "粗碎",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:43+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 282697,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-060",
+        "cardGlobalKey": "OP12-060",
+        "cardName": "牛肉BURST",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 20
+      },
+      {
+        "id": 282698,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-060",
+        "cardGlobalKey": "OP12-060",
+        "cardName": "牛肉BURST",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 2900,
+        "averagePrice": 2900
+      },
+      {
+        "id": 282699,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-061",
+        "cardGlobalKey": "OP12-061",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282700,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-061",
+        "cardGlobalKey": "OP12-061",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 800
+      },
+      {
+        "id": 162700,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-062",
+        "cardGlobalKey": "OP12-062",
+        "cardName": "賓什莫克・索菈",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:44+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282701,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-063",
+        "cardGlobalKey": "OP12-063",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 80
+      },
+      {
+        "id": 282702,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-063",
+        "cardGlobalKey": "OP12-063",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 450
+      },
+      {
+        "id": 162702,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-064",
+        "cardGlobalKey": "OP12-064",
+        "cardName": "威爾可",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162703,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-065",
+        "cardGlobalKey": "OP12-065",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162704,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-066",
+        "cardGlobalKey": "OP12-066",
+        "cardName": "卡爾涅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:45+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162705,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-067",
+        "cardGlobalKey": "OP12-067",
+        "cardName": "卡門",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:46+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162756,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-068",
+        "cardGlobalKey": "OP12-068",
+        "cardName": "銀仔",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:24:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162706,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-069",
+        "cardGlobalKey": "OP12-069",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:46+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282703,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-070",
+        "cardGlobalKey": "OP12-070",
+        "cardName": "香吉士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282704,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-070",
+        "cardGlobalKey": "OP12-070",
+        "cardName": "香吉士",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 335,
+        "averagePrice": 350
+      },
+      {
+        "id": 162708,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-071",
+        "cardGlobalKey": "OP12-071",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:47+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 35
+      },
+      {
+        "id": 162709,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-072",
+        "cardGlobalKey": "OP12-072",
+        "cardName": "哲普",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282705,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-073",
+        "cardGlobalKey": "OP12-073",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282706,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-073",
+        "cardGlobalKey": "OP12-073",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 195,
+        "averagePrice": 190
+      },
+      {
+        "id": 162711,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-074",
+        "cardGlobalKey": "OP12-074",
+        "cardName": "派迪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162712,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-075",
+        "cardGlobalKey": "OP12-075",
+        "cardName": "Miss All星期天",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162713,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-076",
+        "cardGlobalKey": "OP12-076",
+        "cardName": "莫內",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162714,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-077",
+        "cardGlobalKey": "OP12-077",
+        "cardName": "這是將你製造的聲音全部消除的魔術",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162715,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-078",
+        "cardGlobalKey": "OP12-078",
+        "cardName": "串燒",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 162716,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-079",
+        "cardGlobalKey": "OP12-079",
+        "cardName": "魯夫是將要成為「海賊王」的男人!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162717,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-080",
+        "cardGlobalKey": "OP12-080",
+        "cardName": "芭拉蒂",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282707,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-081",
+        "cardGlobalKey": "OP12-081",
+        "cardName": "可亞拉",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282708,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-081",
+        "cardGlobalKey": "OP12-081",
+        "cardName": "可亞拉",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 280,
+        "averagePrice": 300
+      },
+      {
+        "id": 162719,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-082",
+        "cardGlobalKey": "OP12-082",
+        "cardName": "一笑",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:50+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162720,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-083",
+        "cardGlobalKey": "OP12-083",
+        "cardName": "雷電",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:50+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162721,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-084",
+        "cardGlobalKey": "OP12-084",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:51+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 162722,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-085",
+        "cardGlobalKey": "OP12-085",
+        "cardName": "卡拉司",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:51+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282709,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-086",
+        "cardGlobalKey": "OP12-086",
+        "cardName": "可亞拉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282710,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-086",
+        "cardGlobalKey": "OP12-086",
+        "cardName": "可亞拉",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 235,
+        "averagePrice": 250
+      },
+      {
+        "id": 282711,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-087",
+        "cardGlobalKey": "OP12-087",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 23,
+        "averagePrice": 20
+      },
+      {
+        "id": 282712,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-087",
+        "cardGlobalKey": "OP12-087",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 500
+      },
+      {
+        "id": 162725,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-088",
+        "cardGlobalKey": "OP12-088",
+        "cardName": "巴斯提憂",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162726,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-089",
+        "cardGlobalKey": "OP12-089",
+        "cardName": "哈克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162727,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-090",
+        "cardGlobalKey": "OP12-090",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162728,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-091",
+        "cardGlobalKey": "OP12-091",
+        "cardName": "波卡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162729,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-092",
+        "cardGlobalKey": "OP12-092",
+        "cardName": "米潔露卡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162730,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-093",
+        "cardGlobalKey": "OP12-093",
+        "cardName": "摩利",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:54+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282713,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-094",
+        "cardGlobalKey": "OP12-094",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 30
+      },
+      {
+        "id": 282714,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-094",
+        "cardGlobalKey": "OP12-094",
+        "cardName": "蒙其・D・多拉格",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 175,
+        "averagePrice": 250
+      },
+      {
+        "id": 162732,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-095",
+        "cardGlobalKey": "OP12-095",
+        "cardName": "林德伯格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:54+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162733,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-096",
+        "cardGlobalKey": "OP12-096",
+        "cardName": "熊之衝擊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:55+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162734,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-097",
+        "cardGlobalKey": "OP12-097",
+        "cardName": "軍隊長集結",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:55+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 162735,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-098",
+        "cardGlobalKey": "OP12-098",
+        "cardName": "夢打擊處裏拳",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:56+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162736,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-099",
+        "cardGlobalKey": "OP12-099",
+        "cardName": "卡爾葛拉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:56+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 20
+      },
+      {
+        "id": 162737,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-100",
+        "cardGlobalKey": "OP12-100",
+        "cardName": "薩波",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:56+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162738,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-101",
+        "cardGlobalKey": "OP12-101",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:57+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282715,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-102",
+        "cardGlobalKey": "OP12-102",
+        "cardName": "白星公主",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 40
+      },
+      {
+        "id": 282716,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-102",
+        "cardGlobalKey": "OP12-102",
+        "cardName": "白星公主",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 395,
+        "averagePrice": 350
+      },
+      {
+        "id": 162740,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-103",
+        "cardGlobalKey": "OP12-103",
+        "cardName": "賽特",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:57+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 162741,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-104",
+        "cardGlobalKey": "OP12-104",
+        "cardName": "戰桃丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:57+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162742,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-105",
+        "cardGlobalKey": "OP12-105",
+        "cardName": "托拉法爾加・菈米",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:58+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162743,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-106",
+        "cardGlobalKey": "OP12-106",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:23:58+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162744,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-107",
+        "cardGlobalKey": "OP12-107",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:23:58+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282717,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-108",
+        "cardGlobalKey": "OP12-108",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 282718,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-108",
+        "cardGlobalKey": "OP12-108",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 400
+      },
+      {
+        "id": 162746,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-109",
+        "cardGlobalKey": "OP12-109",
+        "cardName": "和平主義者",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:59+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162747,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-110",
+        "cardGlobalKey": "OP12-110",
+        "cardName": "水牛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:23:59+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 162757,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-111",
+        "cardGlobalKey": "OP12-111",
+        "cardName": "BABY5",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:24:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162748,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-112",
+        "cardGlobalKey": "OP12-112",
+        "cardName": "BABY5",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:24:00+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 17
+      },
+      {
+        "id": 162749,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-113",
+        "cardGlobalKey": "OP12-113",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:24:00+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162750,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-114",
+        "cardGlobalKey": "OP12-114",
+        "cardName": "瓦夷帕",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:24:01+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 162751,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-115",
+        "cardGlobalKey": "OP12-115",
+        "cardName": "我愛你喲!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-30T17:24:01+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 162752,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-116",
+        "cardGlobalKey": "OP12-116",
+        "cardName": "我會敲響鐘聲等著你!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-30T17:24:01+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 162753,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-117",
+        "cardGlobalKey": "OP12-117",
+        "cardName": "破壞弦",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-30T17:24:02+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282719,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-118",
+        "cardGlobalKey": "OP12-118",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 623
+      },
+      {
+        "id": 282720,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-118",
+        "cardGlobalKey": "OP12-118",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1100,
+        "averagePrice": 1000
+      },
+      {
+        "id": 282721,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-118",
+        "cardGlobalKey": "OP12-118",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "SEC漫畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 15000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282722,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-119",
+        "cardGlobalKey": "OP12-119",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 350
+      },
+      {
+        "id": 282723,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "OP12-119",
+        "cardGlobalKey": "OP12-119",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 680,
+        "averagePrice": 720
+      },
+      {
+        "id": 162763,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "ST13-011",
+        "cardGlobalKey": "ST13-011",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-30T17:27:30+08:00",
+        "lowestPrice": 2500,
+        "averagePrice": 1999
+      },
+      {
+        "id": 162764,
+        "game": "onejp",
+        "packId": "OP-12",
+        "packName": "師徒的情義",
+        "packCardId": "ST18-004",
+        "cardGlobalKey": "ST18-004",
+        "cardName": "索隆十郎",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-30T17:27:30+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 2000
+      }
+    ]
+  },
+  "message": "ok"
+}

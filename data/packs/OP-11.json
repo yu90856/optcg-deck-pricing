@@ -1,0 +1,2364 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282608,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-11",
+        "cardName": "神速之拳 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 15000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282609,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-11",
+        "cardName": "神速之拳 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 75,
+        "averagePrice": 75
+      },
+      {
+        "id": 160900,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "EB01-057",
+        "cardGlobalKey": "EB01-057",
+        "cardName": "白星",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-14T02:23:09+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 2000
+      },
+      {
+        "id": 282610,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282611,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP05-119",
+        "cardGlobalKey": "OP05-119",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SP2"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 160895,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP06-119",
+        "cardGlobalKey": "OP06-119",
+        "cardName": "香吉士",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-14T02:23:08+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 1999
+      },
+      {
+        "id": 160896,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP07-085",
+        "cardGlobalKey": "OP07-085",
+        "cardName": "絲媞希",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-14T02:23:08+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 2000
+      },
+      {
+        "id": 160897,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP09-005",
+        "cardGlobalKey": "OP09-005",
+        "cardName": "席爾巴斯・雷利",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-14T02:23:09+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 750
+      },
+      {
+        "id": 282612,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-001",
+        "cardGlobalKey": "OP11-001",
+        "cardName": "克比",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282613,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-001",
+        "cardGlobalKey": "OP11-001",
+        "cardName": "克比",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 300
+      },
+      {
+        "id": 160776,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-002",
+        "cardGlobalKey": "OP11-002",
+        "cardName": "艾茵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:00+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160777,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-003",
+        "cardGlobalKey": "OP11-003",
+        "cardName": "騙人布",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:00+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282614,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-004",
+        "cardGlobalKey": "OP11-004",
+        "cardName": "孔雀",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 10
+      },
+      {
+        "id": 282615,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-004",
+        "cardGlobalKey": "OP11-004",
+        "cardName": "孔雀",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 299
+      },
+      {
+        "id": 160779,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-005",
+        "cardGlobalKey": "OP11-005",
+        "cardName": "斯摩格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:01+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160780,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-006",
+        "cardGlobalKey": "OP11-006",
+        "cardName": "Z",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:01+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160781,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-007",
+        "cardGlobalKey": "OP11-007",
+        "cardName": "達絲琪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:01+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282616,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-008",
+        "cardGlobalKey": "OP11-008",
+        "cardName": "朵爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282617,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-008",
+        "cardGlobalKey": "OP11-008",
+        "cardName": "朵爾",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 175,
+        "averagePrice": 239
+      },
+      {
+        "id": 160783,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-009",
+        "cardGlobalKey": "OP11-009",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:02+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282618,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-010",
+        "cardGlobalKey": "OP11-010",
+        "cardName": "雲雀",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 2
+      },
+      {
+        "id": 282619,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-010",
+        "cardGlobalKey": "OP11-010",
+        "cardName": "雲雀",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 90
+      },
+      {
+        "id": 160785,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-011",
+        "cardGlobalKey": "OP11-011",
+        "cardName": "賓茲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:02+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160786,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-012",
+        "cardGlobalKey": "OP11-012",
+        "cardName": "佛朗基",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160787,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-013",
+        "cardGlobalKey": "OP11-013",
+        "cardName": "普林司・古勒斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160788,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-014",
+        "cardGlobalKey": "OP11-014",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160789,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-015",
+        "cardGlobalKey": "OP11-015",
+        "cardName": "蒙查",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160790,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-016",
+        "cardGlobalKey": "OP11-016",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160791,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-017",
+        "cardGlobalKey": "OP11-017",
+        "cardName": "X・多雷古",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282620,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-018",
+        "cardGlobalKey": "OP11-018",
+        "cardName": "誠實拳骨",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282621,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-018",
+        "cardGlobalKey": "OP11-018",
+        "cardName": "誠實拳骨",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1100,
+        "averagePrice": 900
+      },
+      {
+        "id": 160793,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-019",
+        "cardGlobalKey": "OP11-019",
+        "cardName": "黏土巢",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160794,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-020",
+        "cardGlobalKey": "OP11-020",
+        "cardName": "X狩場",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282622,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-021",
+        "cardGlobalKey": "OP11-021",
+        "cardName": "吉貝爾",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282623,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-021",
+        "cardGlobalKey": "OP11-021",
+        "cardName": "吉貝爾",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 140,
+        "averagePrice": 135
+      },
+      {
+        "id": 282624,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-022",
+        "cardGlobalKey": "OP11-022",
+        "cardName": "白星",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282625,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-022",
+        "cardGlobalKey": "OP11-022",
+        "cardName": "白星",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 550
+      },
+      {
+        "id": 282626,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-023",
+        "cardGlobalKey": "OP11-023",
+        "cardName": "惡龍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282627,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-023",
+        "cardGlobalKey": "OP11-023",
+        "cardName": "惡龍",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 25
+      },
+      {
+        "id": 160798,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-024",
+        "cardGlobalKey": "OP11-024",
+        "cardName": "阿拉丁",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160799,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-025",
+        "cardGlobalKey": "OP11-025",
+        "cardName": "伊希莉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160800,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-026",
+        "cardGlobalKey": "OP11-026",
+        "cardName": "鱗片",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160801,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-027",
+        "cardGlobalKey": "OP11-027",
+        "cardName": "凸眼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160802,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-028",
+        "cardGlobalKey": "OP11-028",
+        "cardName": "近海霸主",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160803,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-029",
+        "cardGlobalKey": "OP11-029",
+        "cardName": "夏洛特・普萊麗芮",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160804,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-030",
+        "cardGlobalKey": "OP11-030",
+        "cardName": "白星",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282628,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-031",
+        "cardGlobalKey": "OP11-031",
+        "cardName": "吉貝爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 282629,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-031",
+        "cardGlobalKey": "OP11-031",
+        "cardName": "吉貝爾",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 40
+      },
+      {
+        "id": 160806,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-032",
+        "cardGlobalKey": "OP11-032",
+        "cardName": "魷魚",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160807,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-033",
+        "cardGlobalKey": "OP11-033",
+        "cardName": "鳥類",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160808,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-034",
+        "cardGlobalKey": "OP11-034",
+        "cardName": "小八",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160809,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-035",
+        "cardGlobalKey": "OP11-035",
+        "cardName": "費雪・泰格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160810,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-036",
+        "cardGlobalKey": "OP11-036",
+        "cardName": "斑點",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160811,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-037",
+        "cardGlobalKey": "OP11-037",
+        "cardName": "“古代兵器”「海神」",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160812,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-038",
+        "cardGlobalKey": "OP11-038",
+        "cardName": "橡膠象槍亂打",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 160813,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-039",
+        "cardGlobalKey": "OP11-039",
+        "cardName": "武賴貫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282630,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-040",
+        "cardGlobalKey": "OP11-040",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282631,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-040",
+        "cardGlobalKey": "OP11-040",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1600,
+        "averagePrice": 800
+      },
+      {
+        "id": 282632,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-041",
+        "cardGlobalKey": "OP11-041",
+        "cardName": "娜美",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282633,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-041",
+        "cardGlobalKey": "OP11-041",
+        "cardName": "娜美",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:12+08:00",
+        "lowestPrice": 1500,
+        "averagePrice": 1400
+      },
+      {
+        "id": 160816,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-042",
+        "cardGlobalKey": "OP11-042",
+        "cardName": "比特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160817,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-043",
+        "cardGlobalKey": "OP11-043",
+        "cardName": "賓什莫克・伊吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160818,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-044",
+        "cardGlobalKey": "OP11-044",
+        "cardName": "賓什莫克・賈吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160819,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-045",
+        "cardGlobalKey": "OP11-045",
+        "cardName": "賓什莫克・尼吉士",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160820,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-046",
+        "cardGlobalKey": "OP11-046",
+        "cardName": "賓什莫克・約吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282634,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-047",
+        "cardGlobalKey": "OP11-047",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282635,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-047",
+        "cardGlobalKey": "OP11-047",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 122
+      },
+      {
+        "id": 160822,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-048",
+        "cardGlobalKey": "OP11-048",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160823,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-049",
+        "cardGlobalKey": "OP11-049",
+        "cardName": "凱洛特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 160824,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-050",
+        "cardGlobalKey": "OP11-050",
+        "cardName": "高弟",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282636,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-051",
+        "cardGlobalKey": "OP11-051",
+        "cardName": "香吉士",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282637,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-051",
+        "cardGlobalKey": "OP11-051",
+        "cardName": "香吉士",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 85,
+        "averagePrice": 80
+      },
+      {
+        "id": 160826,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-052",
+        "cardGlobalKey": "OP11-052",
+        "cardName": "夏洛特・羅拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160827,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-053",
+        "cardGlobalKey": "OP11-053",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282638,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-054",
+        "cardGlobalKey": "OP11-054",
+        "cardName": "娜美",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 70
+      },
+      {
+        "id": 282639,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-054",
+        "cardGlobalKey": "OP11-054",
+        "cardName": "娜美",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 700,
+        "averagePrice": 700
+      },
+      {
+        "id": 160829,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-055",
+        "cardGlobalKey": "OP11-055",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160830,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-056",
+        "cardGlobalKey": "OP11-056",
+        "cardName": "布魯克",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160831,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-057",
+        "cardGlobalKey": "OP11-057",
+        "cardName": "佩特羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160832,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-058",
+        "cardGlobalKey": "OP11-058",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 160833,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-059",
+        "cardGlobalKey": "OP11-059",
+        "cardName": "橡膠眼鏡王蛇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160834,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-060",
+        "cardGlobalKey": "OP11-060",
+        "cardName": "來破壞典禮吧!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 160835,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-061",
+        "cardGlobalKey": "OP11-061",
+        "cardName": "橡膠JET大蛇砲",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282640,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-062",
+        "cardGlobalKey": "OP11-062",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282641,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-062",
+        "cardGlobalKey": "OP11-062",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 280
+      },
+      {
+        "id": 160837,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-063",
+        "cardGlobalKey": "OP11-063",
+        "cardName": "小莎蒂",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160838,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-064",
+        "cardGlobalKey": "OP11-064",
+        "cardName": "薩魯戴斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160839,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-065",
+        "cardGlobalKey": "OP11-065",
+        "cardName": "夏洛特・亞娜娜",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 160840,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-066",
+        "cardGlobalKey": "OP11-066",
+        "cardName": "夏洛特・歐本",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282642,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-067",
+        "cardGlobalKey": "OP11-067",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 49,
+        "averagePrice": 60
+      },
+      {
+        "id": 282643,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-067",
+        "cardGlobalKey": "OP11-067",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 258
+      },
+      {
+        "id": 160842,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-068",
+        "cardGlobalKey": "OP11-068",
+        "cardName": "夏洛特・代佛克",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 160843,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-069",
+        "cardGlobalKey": "OP11-069",
+        "cardName": "夏洛特・布璃叡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282644,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-070",
+        "cardGlobalKey": "OP11-070",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 11
+      },
+      {
+        "id": 282645,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-070",
+        "cardGlobalKey": "OP11-070",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 250
+      },
+      {
+        "id": 160845,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-071",
+        "cardGlobalKey": "OP11-071",
+        "cardName": "夏洛特・裴洛斯培勒",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 160846,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-072",
+        "cardGlobalKey": "OP11-072",
+        "cardName": "夏洛特・蒙德爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282646,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-073",
+        "cardGlobalKey": "OP11-073",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 282647,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-073",
+        "cardGlobalKey": "OP11-073",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 95,
+        "averagePrice": 99
+      },
+      {
+        "id": 160848,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-074",
+        "cardGlobalKey": "OP11-074",
+        "cardName": "蘇特羅慎",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160849,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-075",
+        "cardGlobalKey": "OP11-075",
+        "cardName": "哈古瓦爾・D・薩烏羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160850,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-076",
+        "cardGlobalKey": "OP11-076",
+        "cardName": "般若拔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 160851,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-077",
+        "cardGlobalKey": "OP11-077",
+        "cardName": "藍道夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160852,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-078",
+        "cardGlobalKey": "OP11-078",
+        "cardName": "10個孩子們",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160853,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-079",
+        "cardGlobalKey": "OP11-079",
+        "cardName": "男人的較量…不需要那種膚淺的掩護!!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282648,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-080",
+        "cardGlobalKey": "OP11-080",
+        "cardName": "二檔",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282649,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-080",
+        "cardGlobalKey": "OP11-080",
+        "cardName": "二檔",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 9000,
+        "averagePrice": 6000
+      },
+      {
+        "id": 160855,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-081",
+        "cardGlobalKey": "OP11-081",
+        "cardName": "皇帝劍破破刃",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160856,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-082",
+        "cardGlobalKey": "OP11-082",
+        "cardName": "荒卷",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 160857,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-083",
+        "cardGlobalKey": "OP11-083",
+        "cardName": "格列佛",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 15
+      },
+      {
+        "id": 282650,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-084",
+        "cardGlobalKey": "OP11-084",
+        "cardName": "庫山",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282651,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-084",
+        "cardGlobalKey": "OP11-084",
+        "cardName": "庫山",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 55,
+        "averagePrice": 80
+      },
+      {
+        "id": 160859,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-085",
+        "cardGlobalKey": "OP11-085",
+        "cardName": "黑炭大蛇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 160860,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-086",
+        "cardGlobalKey": "OP11-086",
+        "cardName": "柯列佛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160861,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-087",
+        "cardGlobalKey": "OP11-087",
+        "cardName": "蛇頭妖",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160862,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-088",
+        "cardGlobalKey": "OP11-088",
+        "cardName": "修恩",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160863,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-089",
+        "cardGlobalKey": "OP11-089",
+        "cardName": "黑瑪麗亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160864,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-090",
+        "cardGlobalKey": "OP11-090",
+        "cardName": "布利斯哥拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160865,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-091",
+        "cardGlobalKey": "OP11-091",
+        "cardName": "貝里古德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282652,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-092",
+        "cardGlobalKey": "OP11-092",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 282653,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-092",
+        "cardGlobalKey": "OP11-092",
+        "cardName": "貝魯梅柏",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 145,
+        "averagePrice": 200
+      },
+      {
+        "id": 160867,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-093",
+        "cardGlobalKey": "OP11-093",
+        "cardName": "波卡托",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160868,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-094",
+        "cardGlobalKey": "OP11-094",
+        "cardName": "蒙卡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282654,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-095",
+        "cardGlobalKey": "OP11-095",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 5
+      },
+      {
+        "id": 282655,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-095",
+        "cardGlobalKey": "OP11-095",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 85,
+        "averagePrice": 90
+      },
+      {
+        "id": 160870,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-096",
+        "cardGlobalKey": "OP11-096",
+        "cardName": "梨帕",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 160871,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-097",
+        "cardGlobalKey": "OP11-097",
+        "cardName": "已經年老力衰了……!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 15
+      },
+      {
+        "id": 160872,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-098",
+        "cardGlobalKey": "OP11-098",
+        "cardName": "海底落下",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160873,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-099",
+        "cardGlobalKey": "OP11-099",
+        "cardName": "我可是…要成為海軍將軍的男人!!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160874,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-100",
+        "cardGlobalKey": "OP11-100",
+        "cardName": "乙姬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282656,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-101",
+        "cardGlobalKey": "OP11-101",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 282657,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-101",
+        "cardGlobalKey": "OP11-101",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 160876,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-102",
+        "cardGlobalKey": "OP11-102",
+        "cardName": "海咪",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160877,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-103",
+        "cardGlobalKey": "OP11-103",
+        "cardName": "戽斗",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160878,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-104",
+        "cardGlobalKey": "OP11-104",
+        "cardName": "雪莉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160879,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-105",
+        "cardGlobalKey": "OP11-105",
+        "cardName": "夏洛特・雪紡",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282658,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-106",
+        "cardGlobalKey": "OP11-106",
+        "cardName": "宙斯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 50
+      },
+      {
+        "id": 282659,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-106",
+        "cardGlobalKey": "OP11-106",
+        "cardName": "宙斯",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 940,
+        "averagePrice": 950
+      },
+      {
+        "id": 160881,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-107",
+        "cardGlobalKey": "OP11-107",
+        "cardName": "丁髷",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160882,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-108",
+        "cardGlobalKey": "OP11-108",
+        "cardName": "尼普頓",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-05-14T02:09:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160883,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-109",
+        "cardGlobalKey": "OP11-109",
+        "cardName": "帕帕克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160884,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-110",
+        "cardGlobalKey": "OP11-110",
+        "cardName": "鯊星",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160885,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-111",
+        "cardGlobalKey": "OP11-111",
+        "cardName": "翻車星",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160886,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-112",
+        "cardGlobalKey": "OP11-112",
+        "cardName": "梅卡洛",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160887,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-113",
+        "cardGlobalKey": "OP11-113",
+        "cardName": "皇星",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282660,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-114",
+        "cardGlobalKey": "OP11-114",
+        "cardName": "橡膠火拳槍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282661,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-114",
+        "cardGlobalKey": "OP11-114",
+        "cardName": "橡膠火拳槍",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 1300,
+        "averagePrice": 1200
+      },
+      {
+        "id": 160889,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-115",
+        "cardGlobalKey": "OP11-115",
+        "cardName": "你不是我喜歡的類型啦…………!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-05-14T02:09:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 160890,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-116",
+        "cardGlobalKey": "OP11-116",
+        "cardName": "人魚柔術　超級海流",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 160891,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-117",
+        "cardGlobalKey": "OP11-117",
+        "cardName": "魚人島",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-05-14T02:09:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282662,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-118",
+        "cardGlobalKey": "OP11-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 282663,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-118",
+        "cardGlobalKey": "OP11-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 600
+      },
+      {
+        "id": 282664,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-118",
+        "cardGlobalKey": "OP11-118",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SEC漫畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 30000,
+        "averagePrice": 0
+      },
+      {
+        "id": 282665,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-119",
+        "cardGlobalKey": "OP11-119",
+        "cardName": "克比",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 50
+      },
+      {
+        "id": 282666,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "OP11-119",
+        "cardGlobalKey": "OP11-119",
+        "cardName": "克比",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2026-04-17T02:10:13+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 160898,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "ST16-004",
+        "cardGlobalKey": "ST16-004",
+        "cardName": "傑克",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-14T02:23:09+08:00",
+        "lowestPrice": 1900,
+        "averagePrice": 1650
+      },
+      {
+        "id": 160899,
+        "game": "onejp",
+        "packId": "OP-11",
+        "packName": "神速之拳",
+        "packCardId": "ST18-005",
+        "cardGlobalKey": "ST18-005",
+        "cardName": "魯夫太郎",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-05-14T02:23:09+08:00",
+        "lowestPrice": 9500,
+        "averagePrice": 4199
+      }
+    ]
+  },
+  "message": "ok"
+}

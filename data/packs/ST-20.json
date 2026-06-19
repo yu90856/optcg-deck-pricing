@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162433,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-20-000P",
+        "cardName": "起始牌組 黃 夏洛特・卡塔克利",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:39:06+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 50
+      },
+      {
+        "id": 21148,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "OP03-099",
+        "cardGlobalKey": "OP03-099",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "L 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 20758,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "OP03-106",
+        "cardGlobalKey": "OP03-106",
+        "cardName": "夏洛特・歐佩拉",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21512,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "OP03-107",
+        "cardGlobalKey": "OP03-107",
+        "cardName": "夏洛特・賈萊特",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20998,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "OP03-110",
+        "cardGlobalKey": "OP03-110",
+        "cardName": "夏洛特・斯姆吉",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 21787,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "OP03-112",
+        "cardGlobalKey": "OP03-112",
+        "cardName": "夏洛特・普琳(異圖卡)",
+        "rare": [
+          "R 異圖六"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21316,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "OP03-115",
+        "cardGlobalKey": "OP03-115",
+        "cardName": "蘇特羅慎",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22285,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "OP03-118",
+        "cardGlobalKey": "OP03-118",
+        "cardName": "威國",
+        "rare": [
+          "UC 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21299,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "OP03-121",
+        "cardGlobalKey": "OP03-121",
+        "cardName": "雷霆(異圖卡)",
+        "rare": [
+          "C 異圖四"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21176,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "ST07-005",
+        "cardGlobalKey": "ST07-005",
+        "cardName": "夏洛特・代佛克",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20722,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "ST07-014",
+        "cardGlobalKey": "ST07-014",
+        "cardName": "波哥姆斯",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 650,
+        "averagePrice": 0
+      },
+      {
+        "id": 21874,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "ST20-001",
+        "cardGlobalKey": "ST20-001",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 15
+      },
+      {
+        "id": 22061,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "ST20-002",
+        "cardGlobalKey": "ST20-002",
+        "cardName": "夏洛特・慨烈卡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22645,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "ST20-003",
+        "cardGlobalKey": "ST20-003",
+        "cardName": "夏洛特・布璃叡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22524,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "ST20-004",
+        "cardGlobalKey": "ST20-004",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22344,
+        "game": "onejp",
+        "packId": "ST-20",
+        "packName": "黃 夏洛特・卡塔克利",
+        "packCardId": "ST20-005",
+        "cardGlobalKey": "ST20-005",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 10
+      }
+    ]
+  },
+  "message": "ok"
+}

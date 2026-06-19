@@ -1,0 +1,2274 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 282239,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-04-000P",
+        "cardName": "陰謀王國 補充包（未拆封）",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 282240,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP-04-000P",
+        "cardName": "陰謀王國 補充包（未拆封）",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 0
+      },
+      {
+        "id": 21087,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP01-047",
+        "cardGlobalKey": "OP01-047",
+        "cardName": "托拉法爾加・羅(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2500,
+        "averagePrice": 1500
+      },
+      {
+        "id": 21619,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP01-078",
+        "cardGlobalKey": "OP01-078",
+        "cardName": "波雅・漢考克(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 13900,
+        "averagePrice": 9000
+      },
+      {
+        "id": 21328,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP02-004",
+        "cardGlobalKey": "OP02-004",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 950
+      },
+      {
+        "id": 22087,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP02-085",
+        "cardGlobalKey": "OP02-085",
+        "cardName": "麥哲倫(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 500
+      },
+      {
+        "id": 21363,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP02-099",
+        "cardGlobalKey": "OP02-099",
+        "cardName": "盃(異圖卡)",
+        "rare": [
+          "SP卡 異圖三"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1000,
+        "averagePrice": 500
+      },
+      {
+        "id": 282241,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-001",
+        "cardGlobalKey": "OP04-001",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282242,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-001",
+        "cardGlobalKey": "OP04-001",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 2750,
+        "averagePrice": 2400
+      },
+      {
+        "id": 21357,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-002",
+        "cardGlobalKey": "OP04-002",
+        "cardName": "尹卡蘭姆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22229,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-003",
+        "cardGlobalKey": "OP04-003",
+        "cardName": "騙人布",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20962,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-004",
+        "cardGlobalKey": "OP04-004",
+        "cardName": "飛毛腿",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20753,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-005",
+        "cardGlobalKey": "OP04-005",
+        "cardName": "功夫海牛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20815,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-006",
+        "cardGlobalKey": "OP04-006",
+        "cardName": "寇沙",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21265,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-007",
+        "cardGlobalKey": "OP04-007",
+        "cardName": "香吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21000,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-008",
+        "cardGlobalKey": "OP04-008",
+        "cardName": "加卡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22694,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-009",
+        "cardGlobalKey": "OP04-009",
+        "cardName": "超級飛毛腿鴨部隊",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21910,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-010",
+        "cardGlobalKey": "OP04-010",
+        "cardName": "多尼多尼・喬巴(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 22487,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-011",
+        "cardGlobalKey": "OP04-011",
+        "cardName": "娜美",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20621,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-012",
+        "cardGlobalKey": "OP04-012",
+        "cardName": "納菲魯塔利・寇布拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282243,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-013",
+        "cardGlobalKey": "OP04-013",
+        "cardName": "貝爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 282244,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-013",
+        "cardGlobalKey": "OP04-013",
+        "cardName": "貝爾",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 20624,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-014",
+        "cardGlobalKey": "OP04-014",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 21301,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-015",
+        "cardGlobalKey": "OP04-015",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 22653,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-016",
+        "cardGlobalKey": "OP04-016",
+        "cardName": "違反禮儀之踢",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 21738,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-017",
+        "cardGlobalKey": "OP04-017",
+        "cardName": "幸福的一擊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 22142,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-018",
+        "cardGlobalKey": "OP04-018",
+        "cardName": "魅惑的頭昏眼花舞",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 282245,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-019",
+        "cardGlobalKey": "OP04-019",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282246,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-019",
+        "cardGlobalKey": "OP04-019",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 350
+      },
+      {
+        "id": 282247,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-020",
+        "cardGlobalKey": "OP04-020",
+        "cardName": "一笑",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 282248,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-020",
+        "cardGlobalKey": "OP04-020",
+        "cardName": "一笑",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 280,
+        "averagePrice": 280
+      },
+      {
+        "id": 21539,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-021",
+        "cardGlobalKey": "OP04-021",
+        "cardName": "碧歐菈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22078,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-022",
+        "cardGlobalKey": "OP04-022",
+        "cardName": "艾利克",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22121,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-023",
+        "cardGlobalKey": "OP04-023",
+        "cardName": "克洛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282249,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-024",
+        "cardGlobalKey": "OP04-024",
+        "cardName": "砂糖",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 30
+      },
+      {
+        "id": 282250,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-024",
+        "cardGlobalKey": "OP04-024",
+        "cardName": "砂糖",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 22035,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-025",
+        "cardGlobalKey": "OP04-025",
+        "cardName": "喬菈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21242,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-026",
+        "cardGlobalKey": "OP04-026",
+        "cardName": "粉紅先生",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 20737,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-027",
+        "cardGlobalKey": "OP04-027",
+        "cardName": "達迪・馬斯達森",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282251,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-028",
+        "cardGlobalKey": "OP04-028",
+        "cardName": "帝雅曼鐵",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 0
+      },
+      {
+        "id": 282252,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-028",
+        "cardGlobalKey": "OP04-028",
+        "cardName": "帝雅曼鐵",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 0
+      },
+      {
+        "id": 21429,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-029",
+        "cardGlobalKey": "OP04-029",
+        "cardName": "德林傑",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282253,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-030",
+        "cardGlobalKey": "OP04-030",
+        "cardName": "托雷波爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 282254,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-030",
+        "cardGlobalKey": "OP04-030",
+        "cardName": "托雷波爾",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 282255,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-031",
+        "cardGlobalKey": "OP04-031",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282256,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-031",
+        "cardGlobalKey": "OP04-031",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 20619,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-032",
+        "cardGlobalKey": "OP04-032",
+        "cardName": "BABY5",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22475,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-033",
+        "cardGlobalKey": "OP04-033",
+        "cardName": "馬赫拜茲",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 20540,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-034",
+        "cardGlobalKey": "OP04-034",
+        "cardName": "拉歐G",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21864,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-035",
+        "cardGlobalKey": "OP04-035",
+        "cardName": "蜘蛛築巢",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 15
+      },
+      {
+        "id": 22359,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-036",
+        "cardGlobalKey": "OP04-036",
+        "cardName": "唐吉訶德家族",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21091,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-037",
+        "cardGlobalKey": "OP04-037",
+        "cardName": "羽擊線",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21253,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-038",
+        "cardGlobalKey": "OP04-038",
+        "cardName": "弱者連死法都不能夠選擇!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282257,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-039",
+        "cardGlobalKey": "OP04-039",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 10
+      },
+      {
+        "id": 282258,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-039",
+        "cardGlobalKey": "OP04-039",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 750,
+        "averagePrice": 800
+      },
+      {
+        "id": 282259,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-040",
+        "cardGlobalKey": "OP04-040",
+        "cardName": "QUEEN",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282260,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-040",
+        "cardGlobalKey": "OP04-040",
+        "cardName": "QUEEN",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 0
+      },
+      {
+        "id": 22253,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-041",
+        "cardGlobalKey": "OP04-041",
+        "cardName": "阿碧絲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22080,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-042",
+        "cardGlobalKey": "OP04-042",
+        "cardName": "賣一刀",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21911,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-043",
+        "cardGlobalKey": "OP04-043",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282261,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-044",
+        "cardGlobalKey": "OP04-044",
+        "cardName": "海道",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 282262,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-044",
+        "cardGlobalKey": "OP04-044",
+        "cardName": "海道",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 100
+      },
+      {
+        "id": 21886,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-045",
+        "cardGlobalKey": "OP04-045",
+        "cardName": "KING",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 22202,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-046",
+        "cardGlobalKey": "OP04-046",
+        "cardName": "QUEEN",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20632,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-047",
+        "cardGlobalKey": "OP04-047",
+        "cardName": "冰鬼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22086,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-048",
+        "cardGlobalKey": "OP04-048",
+        "cardName": "佐佐木",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20931,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-049",
+        "cardGlobalKey": "OP04-049",
+        "cardName": "JACK",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22346,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-050",
+        "cardGlobalKey": "OP04-050",
+        "cardName": "漢葛先生",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282263,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-051",
+        "cardGlobalKey": "OP04-051",
+        "cardName": "福茲胡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282264,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-051",
+        "cardGlobalKey": "OP04-051",
+        "cardName": "福茲胡",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 22554,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-052",
+        "cardGlobalKey": "OP04-052",
+        "cardName": "黑瑪麗亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 22488,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-053",
+        "cardGlobalKey": "OP04-053",
+        "cardName": "培濟萬",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 21417,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-054",
+        "cardGlobalKey": "OP04-054",
+        "cardName": "六鬼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21908,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-055",
+        "cardGlobalKey": "OP04-055",
+        "cardName": "瘟禍彈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21730,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-056",
+        "cardGlobalKey": "OP04-056",
+        "cardName": "橡膠業火手槍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 20
+      },
+      {
+        "id": 22585,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-057",
+        "cardGlobalKey": "OP04-057",
+        "cardName": "龍捲壞風",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 282265,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-058",
+        "cardGlobalKey": "OP04-058",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 282266,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-058",
+        "cardGlobalKey": "OP04-058",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 400
+      },
+      {
+        "id": 21285,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-059",
+        "cardGlobalKey": "OP04-059",
+        "cardName": "艾斯巴古",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282267,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-060",
+        "cardGlobalKey": "OP04-060",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 5
+      },
+      {
+        "id": 282268,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-060",
+        "cardGlobalKey": "OP04-060",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 100
+      },
+      {
+        "id": 21017,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-061",
+        "cardGlobalKey": "OP04-061",
+        "cardName": "湯姆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21028,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-062",
+        "cardGlobalKey": "OP04-062",
+        "cardName": "香蕉鱷魚",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22567,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-063",
+        "cardGlobalKey": "OP04-063",
+        "cardName": "佛朗基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282269,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-064",
+        "cardGlobalKey": "OP04-064",
+        "cardName": "Miss All星期天",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 8
+      },
+      {
+        "id": 282270,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-064",
+        "cardGlobalKey": "OP04-064",
+        "cardName": "Miss All星期天",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 199,
+        "averagePrice": 250
+      },
+      {
+        "id": 21346,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-065",
+        "cardGlobalKey": "OP04-065",
+        "cardName": "Miss黃金週(瑪莉安奴)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21084,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-066",
+        "cardGlobalKey": "OP04-066",
+        "cardName": "Miss情人節(米琪塔)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21997,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-067",
+        "cardGlobalKey": "OP04-067",
+        "cardName": "Miss聖誕節(多蘿菲)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21819,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-068",
+        "cardGlobalKey": "OP04-068",
+        "cardName": "橫綱",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21716,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-069",
+        "cardGlobalKey": "OP04-069",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 21531,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-070",
+        "cardGlobalKey": "OP04-070",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20710,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-071",
+        "cardGlobalKey": "OP04-071",
+        "cardName": "Mr.4(貝布)",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282271,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-072",
+        "cardGlobalKey": "OP04-072",
+        "cardName": "Mr.5(傑姆)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 282272,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-072",
+        "cardGlobalKey": "OP04-072",
+        "cardName": "Mr.5(傑姆)",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 21159,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-073",
+        "cardGlobalKey": "OP04-073",
+        "cardName": "Mr.13&Miss星期五",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22385,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-074",
+        "cardGlobalKey": "OP04-074",
+        "cardName": "彩色陷阱",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20885,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-075",
+        "cardGlobalKey": "OP04-075",
+        "cardName": "鼻空想砲",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20762,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-076",
+        "cardGlobalKey": "OP04-076",
+        "cardName": "弱小真是…一種罪惡吶…",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21802,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-077",
+        "cardGlobalKey": "OP04-077",
+        "cardName": "伊迪歐",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21856,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-078",
+        "cardGlobalKey": "OP04-078",
+        "cardName": "歐伊摩&卡西",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21493,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-079",
+        "cardGlobalKey": "OP04-079",
+        "cardName": "歐隆拜斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20645,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-080",
+        "cardGlobalKey": "OP04-080",
+        "cardName": "加茲",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 22002,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-081",
+        "cardGlobalKey": "OP04-081",
+        "cardName": "卡文迪許",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282273,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-082",
+        "cardGlobalKey": "OP04-082",
+        "cardName": "居魯士",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282274,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-082",
+        "cardGlobalKey": "OP04-082",
+        "cardName": "居魯士",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 70,
+        "averagePrice": 70
+      },
+      {
+        "id": 282275,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-083",
+        "cardGlobalKey": "OP04-083",
+        "cardName": "薩波(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 282276,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-083",
+        "cardGlobalKey": "OP04-083",
+        "cardName": "薩波(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 2550
+      },
+      {
+        "id": 282277,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-083",
+        "cardGlobalKey": "OP04-083",
+        "cardName": "薩波(異圖卡)",
+        "rare": [
+          "SR 異圖三"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 22136,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-084",
+        "cardGlobalKey": "OP04-084",
+        "cardName": "絲媞希",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20544,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-085",
+        "cardGlobalKey": "OP04-085",
+        "cardName": "蘇萊曼",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 4
+      },
+      {
+        "id": 22325,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-086",
+        "cardGlobalKey": "OP04-086",
+        "cardName": "青椒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22235,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-087",
+        "cardGlobalKey": "OP04-087",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21358,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-088",
+        "cardGlobalKey": "OP04-088",
+        "cardName": "哈爾汀",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21243,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-089",
+        "cardGlobalKey": "OP04-089",
+        "cardName": "巴特洛馬",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282278,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-090",
+        "cardGlobalKey": "OP04-090",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 282279,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-090",
+        "cardGlobalKey": "OP04-090",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 850,
+        "averagePrice": 450
+      },
+      {
+        "id": 21367,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-091",
+        "cardGlobalKey": "OP04-091",
+        "cardName": "雷奧",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21319,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-092",
+        "cardGlobalKey": "OP04-092",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 10
+      },
+      {
+        "id": 21391,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-093",
+        "cardGlobalKey": "OP04-093",
+        "cardName": "橡膠大猿王槍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 20877,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-094",
+        "cardGlobalKey": "OP04-094",
+        "cardName": "轟雷破壞劍",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21961,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-095",
+        "cardGlobalKey": "OP04-095",
+        "cardName": "防～～～～護罩‼(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21912,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-096",
+        "cardGlobalKey": "OP04-096",
+        "cardName": "鬥牛鬥技場",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 22024,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-097",
+        "cardGlobalKey": "OP04-097",
+        "cardName": "玉兒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22674,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-098",
+        "cardGlobalKey": "OP04-098",
+        "cardName": "子瀚",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 3
+      },
+      {
+        "id": 20921,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-099",
+        "cardGlobalKey": "OP04-099",
+        "cardName": "阿莉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 0
+      },
+      {
+        "id": 282280,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-100",
+        "cardGlobalKey": "OP04-100",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 282281,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-100",
+        "cardGlobalKey": "OP04-100",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 21445,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-101",
+        "cardGlobalKey": "OP04-101",
+        "cardName": "卡爾梅露",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 21320,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-102",
+        "cardGlobalKey": "OP04-102",
+        "cardName": "錦右衛門",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 21260,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-103",
+        "cardGlobalKey": "OP04-103",
+        "cardName": "光月日和",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282282,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-104",
+        "cardGlobalKey": "OP04-104",
+        "cardName": "香吉士",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 282283,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-104",
+        "cardGlobalKey": "OP04-104",
+        "cardName": "香吉士",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 20652,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-105",
+        "cardGlobalKey": "OP04-105",
+        "cardName": "夏洛特・亞蔓德(異圖卡)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 1
+      },
+      {
+        "id": 22175,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-106",
+        "cardGlobalKey": "OP04-106",
+        "cardName": "夏洛特・巴伐洛亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21254,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-107",
+        "cardGlobalKey": "OP04-107",
+        "cardName": "夏洛特・裴洛斯培勒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 20559,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-108",
+        "cardGlobalKey": "OP04-108",
+        "cardName": "夏洛特・摩斯卡特",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 22654,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-109",
+        "cardGlobalKey": "OP04-109",
+        "cardName": "土康",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22411,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-110",
+        "cardGlobalKey": "OP04-110",
+        "cardName": "潘德",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 21935,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-111",
+        "cardGlobalKey": "OP04-111",
+        "cardName": "赫拉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 0
+      },
+      {
+        "id": 282284,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-112",
+        "cardGlobalKey": "OP04-112",
+        "cardName": "大和(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 282285,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-112",
+        "cardGlobalKey": "OP04-112",
+        "cardName": "大和(異圖卡)",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 220,
+        "averagePrice": 300
+      },
+      {
+        "id": 20971,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-113",
+        "cardGlobalKey": "OP04-113",
+        "cardName": "拉賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 20535,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-114",
+        "cardGlobalKey": "OP04-114",
+        "cardName": "藍道夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21909,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-115",
+        "cardGlobalKey": "OP04-115",
+        "cardName": "槍・擬鬼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22732,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-116",
+        "cardGlobalKey": "OP04-116",
+        "cardName": "惡魔風腳 頰肉SHOOT",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-02-20T05:15:31+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 10
+      },
+      {
+        "id": 20803,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-117",
+        "cardGlobalKey": "OP04-117",
+        "cardName": "天堂烈火",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 0
+      },
+      {
+        "id": 282286,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-118",
+        "cardGlobalKey": "OP04-118",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 200
+      },
+      {
+        "id": 282287,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-118",
+        "cardGlobalKey": "OP04-118",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 800
+      },
+      {
+        "id": 282288,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-119",
+        "cardGlobalKey": "OP04-119",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 30
+      },
+      {
+        "id": 282289,
+        "game": "onejp",
+        "packId": "OP-04",
+        "packName": "陰謀王國",
+        "packCardId": "OP04-119",
+        "cardGlobalKey": "OP04-119",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "SEC 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:10:09+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      }
+    ]
+  },
+  "message": "ok"
+}

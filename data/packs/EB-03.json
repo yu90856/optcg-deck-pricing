@@ -1,0 +1,1389 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 187511,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "000P",
+        "cardGlobalKey": "EB-03-000P",
+        "cardName": "特殊補充包 ONE PIECE Heroines Edition(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-10-24T18:51:52+08:00",
+        "lowestPrice": 4990,
+        "averagePrice": 4000
+      },
+      {
+        "id": 187512,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "000P",
+        "cardGlobalKey": "EB-03-000P",
+        "cardName": "特殊補充包 ONE PIECE Heroines Edition(未拆封)",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2025-10-24T18:51:52+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 60
+      },
+      {
+        "id": 187421,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "001",
+        "cardGlobalKey": "EB03-001",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-10-24T18:42:46+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 187422,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "001",
+        "cardGlobalKey": "EB03-001",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "L異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:46+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 120
+      },
+      {
+        "id": 187423,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "002",
+        "cardGlobalKey": "EB03-002",
+        "cardName": "艾茵",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187424,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "003",
+        "cardGlobalKey": "EB03-003",
+        "cardName": "美音",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 6300,
+        "averagePrice": 8800
+      },
+      {
+        "id": 187425,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "003",
+        "cardGlobalKey": "EB03-003",
+        "cardName": "美音",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 15
+      },
+      {
+        "id": 187426,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "003",
+        "cardGlobalKey": "EB03-003",
+        "cardName": "美音",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 200
+      },
+      {
+        "id": 187427,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "004",
+        "cardGlobalKey": "EB03-004",
+        "cardName": "卡莉娜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 187428,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "005",
+        "cardGlobalKey": "EB03-005",
+        "cardName": "砂糖",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187429,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "006",
+        "cardGlobalKey": "EB03-006",
+        "cardName": "娜美",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 187430,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "007",
+        "cardGlobalKey": "EB03-007",
+        "cardName": "芭卡拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187431,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "008",
+        "cardGlobalKey": "EB03-008",
+        "cardName": "雲雀",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187432,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "008",
+        "cardGlobalKey": "EB03-008",
+        "cardName": "雲雀",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 190
+      },
+      {
+        "id": 187433,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "009",
+        "cardGlobalKey": "EB03-009",
+        "cardName": "瑪姬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:47+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 187434,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "010",
+        "cardGlobalKey": "EB03-010",
+        "cardName": "莫內",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 187435,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "011",
+        "cardGlobalKey": "EB03-011",
+        "cardName": "下次見面的時候…你們還會叫我夥伴嗎？",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 187436,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "012",
+        "cardGlobalKey": "EB03-012",
+        "cardName": "玉兒",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187437,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "013",
+        "cardGlobalKey": "EB03-013",
+        "cardName": "凱洛特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187438,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "013",
+        "cardGlobalKey": "EB03-013",
+        "cardName": "凱洛特",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:48+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 80
+      },
+      {
+        "id": 187439,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "014",
+        "cardGlobalKey": "EB03-014",
+        "cardName": "克伊娜",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187440,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "015",
+        "cardGlobalKey": "EB03-015",
+        "cardName": "海咪",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187441,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "016",
+        "cardGlobalKey": "EB03-016",
+        "cardName": "光月日和",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:48+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187442,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "017",
+        "cardGlobalKey": "EB03-017",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 187443,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "018",
+        "cardGlobalKey": "EB03-018",
+        "cardName": "達絲琪",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 3490,
+        "averagePrice": 3500
+      },
+      {
+        "id": 187444,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "018",
+        "cardGlobalKey": "EB03-018",
+        "cardName": "達絲琪",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 5
+      },
+      {
+        "id": 187445,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "018",
+        "cardGlobalKey": "EB03-018",
+        "cardName": "達絲琪",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 85,
+        "averagePrice": 80
+      },
+      {
+        "id": 187446,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "019",
+        "cardGlobalKey": "EB03-019",
+        "cardName": "萬妲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187447,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "020",
+        "cardGlobalKey": "EB03-020",
+        "cardName": "出現了!真是不服輸～",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187448,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "021",
+        "cardGlobalKey": "EB03-021",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187449,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "022",
+        "cardGlobalKey": "EB03-022",
+        "cardName": "伊絲卡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187450,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "023",
+        "cardGlobalKey": "EB03-023",
+        "cardName": "可雅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:49+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 187451,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "024",
+        "cardGlobalKey": "EB03-024",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 5200
+      },
+      {
+        "id": 187452,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "024",
+        "cardGlobalKey": "EB03-024",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 29,
+        "averagePrice": 50
+      },
+      {
+        "id": 187453,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "024",
+        "cardGlobalKey": "EB03-024",
+        "cardName": "納菲魯塔利・薇薇",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 800
+      },
+      {
+        "id": 187454,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "025",
+        "cardGlobalKey": "EB03-025",
+        "cardName": "希娜",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187455,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "025",
+        "cardGlobalKey": "EB03-025",
+        "cardName": "希娜",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 45
+      },
+      {
+        "id": 187456,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "026",
+        "cardGlobalKey": "EB03-026",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 43000,
+        "averagePrice": 0
+      },
+      {
+        "id": 187457,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "026",
+        "cardGlobalKey": "EB03-026",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 31
+      },
+      {
+        "id": 187458,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "026",
+        "cardGlobalKey": "EB03-026",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 1300
+      },
+      {
+        "id": 187459,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "027",
+        "cardGlobalKey": "EB03-027",
+        "cardName": "雛菊",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 187460,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "028",
+        "cardGlobalKey": "EB03-028",
+        "cardName": "小悠",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187461,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "029",
+        "cardGlobalKey": "EB03-029",
+        "cardName": "無禮的傢伙‼給我退下‼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187462,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "030",
+        "cardGlobalKey": "EB03-030",
+        "cardName": "碧歐菈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:50+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187463,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "031",
+        "cardGlobalKey": "EB03-031",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 99999,
+        "averagePrice": 4680
+      },
+      {
+        "id": 187464,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "031",
+        "cardGlobalKey": "EB03-031",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 25
+      },
+      {
+        "id": 187465,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "031",
+        "cardGlobalKey": "EB03-031",
+        "cardName": "賓什莫克・麗珠",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 199,
+        "averagePrice": 130
+      },
+      {
+        "id": 187466,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "032",
+        "cardGlobalKey": "EB03-032",
+        "cardName": "夏洛特・芙蘭佩",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187467,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "033",
+        "cardGlobalKey": "EB03-033",
+        "cardName": "夏洛特・布璃叡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187468,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "034",
+        "cardGlobalKey": "EB03-034",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 187469,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "034",
+        "cardGlobalKey": "EB03-034",
+        "cardName": "夏洛特・莉莉",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 95,
+        "averagePrice": 124
+      },
+      {
+        "id": 187470,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "035",
+        "cardGlobalKey": "EB03-035",
+        "cardName": "夏洛特・普琳",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 187471,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "036",
+        "cardGlobalKey": "EB03-036",
+        "cardName": "BABY5",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187472,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "037",
+        "cardGlobalKey": "EB03-037",
+        "cardName": "莉姆",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:51+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187473,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "038",
+        "cardGlobalKey": "EB03-038",
+        "cardName": "多謝招待♡",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187474,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "039",
+        "cardGlobalKey": "EB03-039",
+        "cardName": "烏爾蒂",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187475,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "040",
+        "cardGlobalKey": "EB03-040",
+        "cardName": "卡莉法",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187476,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "041",
+        "cardGlobalKey": "EB03-041",
+        "cardName": "孔雀",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187477,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "041",
+        "cardGlobalKey": "EB03-041",
+        "cardName": "孔雀",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 140,
+        "averagePrice": 150
+      },
+      {
+        "id": 187478,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "042",
+        "cardGlobalKey": "EB03-042",
+        "cardName": "可亞拉",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 3000,
+        "averagePrice": 2950
+      },
+      {
+        "id": 187479,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "042",
+        "cardGlobalKey": "EB03-042",
+        "cardName": "可亞拉",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 9
+      },
+      {
+        "id": 187480,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "042",
+        "cardGlobalKey": "EB03-042",
+        "cardName": "可亞拉",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 111
+      },
+      {
+        "id": 187481,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "043",
+        "cardGlobalKey": "EB03-043",
+        "cardName": "絲媞希",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 187482,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "044",
+        "cardGlobalKey": "EB03-044",
+        "cardName": "黑瑪麗亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:52+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187483,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "045",
+        "cardGlobalKey": "EB03-045",
+        "cardName": "培羅娜",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 19000,
+        "averagePrice": 7500
+      },
+      {
+        "id": 187484,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "045",
+        "cardGlobalKey": "EB03-045",
+        "cardName": "培羅娜",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 8
+      },
+      {
+        "id": 187485,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "045",
+        "cardGlobalKey": "EB03-045",
+        "cardName": "培羅娜",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 300
+      },
+      {
+        "id": 187486,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "046",
+        "cardGlobalKey": "EB03-046",
+        "cardName": "Miss雙手指(薩菈)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187487,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "047",
+        "cardGlobalKey": "EB03-047",
+        "cardName": "Miss情人節(米琪塔)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187488,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "048",
+        "cardGlobalKey": "EB03-048",
+        "cardName": "蕾貝卡",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187489,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "049",
+        "cardGlobalKey": "EB03-049",
+        "cardName": "果然是你們造成的大騷動",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187490,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "050",
+        "cardGlobalKey": "EB03-050",
+        "cardName": "柯妮絲",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187491,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "051",
+        "cardGlobalKey": "EB03-051",
+        "cardName": "夏洛特・斯姆吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187492,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "052",
+        "cardGlobalKey": "EB03-052",
+        "cardName": "白星公主",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:53+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187493,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "053",
+        "cardGlobalKey": "EB03-053",
+        "cardName": "娜美",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 19000,
+        "averagePrice": 14000
+      },
+      {
+        "id": 187494,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "053",
+        "cardGlobalKey": "EB03-053",
+        "cardName": "娜美",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 170,
+        "averagePrice": 163
+      },
+      {
+        "id": 187495,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "053",
+        "cardGlobalKey": "EB03-053",
+        "cardName": "娜美",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 1290,
+        "averagePrice": 1300
+      },
+      {
+        "id": 187496,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "054",
+        "cardGlobalKey": "EB03-054",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187497,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "055",
+        "cardGlobalKey": "EB03-055",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 17000,
+        "averagePrice": 12000
+      },
+      {
+        "id": 187498,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "055",
+        "cardGlobalKey": "EB03-055",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 130
+      },
+      {
+        "id": 187499,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "055",
+        "cardGlobalKey": "EB03-055",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "SR異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 800
+      },
+      {
+        "id": 187500,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "056",
+        "cardGlobalKey": "EB03-056",
+        "cardName": "貝洛・蓓媞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187501,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "057",
+        "cardGlobalKey": "EB03-057",
+        "cardName": "大和",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 10
+      },
+      {
+        "id": 187502,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "057",
+        "cardGlobalKey": "EB03-057",
+        "cardName": "大和",
+        "rare": [
+          "R異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 170,
+        "averagePrice": 170
+      },
+      {
+        "id": 187503,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "058",
+        "cardGlobalKey": "EB03-058",
+        "cardName": "莉莉絲",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187504,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "059",
+        "cardGlobalKey": "EB03-059",
+        "cardName": "S-蛇",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-10-24T18:42:54+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 20
+      },
+      {
+        "id": 187505,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "060",
+        "cardGlobalKey": "EB03-060",
+        "cardName": "你要當我的僕人嗎？",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-10-24T18:42:55+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 187506,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "061",
+        "cardGlobalKey": "EB03-061",
+        "cardName": "美音",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2025-10-24T18:42:55+08:00",
+        "lowestPrice": 90,
+        "averagePrice": 90
+      },
+      {
+        "id": 187507,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "061",
+        "cardGlobalKey": "EB03-061",
+        "cardName": "美音",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:55+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 449
+      },
+      {
+        "id": 187508,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "061",
+        "cardGlobalKey": "EB03-061",
+        "cardName": "美音",
+        "rare": [
+          "SEC漫畫"
+        ],
+        "createdTime": "2025-10-24T18:42:55+08:00",
+        "lowestPrice": 20000,
+        "averagePrice": 0
+      },
+      {
+        "id": 187509,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "062",
+        "cardGlobalKey": "EB03-062",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2025-10-24T18:42:55+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 120
+      },
+      {
+        "id": 187510,
+        "game": "onejp",
+        "packId": "EB-03",
+        "packName": "女主角系列",
+        "packCardId": "062",
+        "cardGlobalKey": "EB03-062",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SEC異畫"
+        ],
+        "createdTime": "2025-10-24T18:42:55+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 500
+      }
+    ]
+  },
+  "message": "ok"
+}

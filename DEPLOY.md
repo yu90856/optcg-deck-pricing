@@ -34,7 +34,14 @@ git push -u origin main
 
 ---
 
-## 注意事項
+查價時若卡拍拍回傳 403，通常是 **Render 等雲端 IP 被擋**。解法：
+
+1. 在本機執行 `python3 build_cache.py` 更新 `data/packs/`
+2. `git push` 重新部署
+
+線上版會自動使用內建價格快取（`KAPAIPAI_CACHE_FIRST=1`）。
+
+---
 
 | 項目 | 說明 |
 |------|------|

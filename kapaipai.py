@@ -2,11 +2,13 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 from dataclasses import dataclass, field
-from functools import lru_cache
 from typing import Literal
+from pathlib import Path
+from urllib.error import HTTPError, URLError
 from urllib.parse import quote
 from urllib.request import Request, urlopen
 
@@ -15,7 +17,88 @@ KAPAIPAI_PACK_API = (
 )
 KAPAIPAI_IMAGE_BASE = "https://static.kapaipai.tw/image/card"
 KAPAIPAI_CARD_URL = "https://trade.kapaipai.tw/card/{card_id}"
-USER_AGENT = "OPTCG-Deck-Pricing/1.0"
+KAPAIPAI_ORIGIN = "https://trade.kapaipai.tw"
+DISK_CACHE_DIR = Path(__file__).resolve().parent / "data" / "packs"
+
+_pack_cache: dict[str, tuple[float, list[dict]]] = {}
+CACHE_TTL = 3600
+
+
+def _request_headers() -> dict[str, str]:
+    return {
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "zh-TW,zh;q=0.9,en;q=0.8",
+        "Origin": KAPAIPAI_ORIGIN,
+        "Referer": f"{KAPAIPAI_ORIGIN}/",
+    }
+
+
+def _disk_cache_path(pack_id: str) -> Path:
+    safe = pack_id.replace("/", "_")
+    return DISK_CACHE_DIR / f"{safe}.json"
+
+
+def load_disk_cache(pack_id: str) -> list[dict] | None:
+    path = _disk_cache_path(pack_id)
+    if not path.is_file():
+        return None
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if data.get("code") != 0:
+        return []
+    return data.get("data", {}).get("list", []) or []
+
+
+def fetch_kapaipai_json(pack_id: str) -> dict:
+    url = KAPAIPAI_PACK_API.format(pack=pack_id)
+    errors: list[str] = []
+
+    # Render 等雲端 IP 常被卡拍拍擋下，優先讀內建快取
+    if os.environ.get("RENDER") == "true" or os.environ.get("KAPAIPAI_CACHE_FIRST") == "1":
+        cached = load_disk_cache(pack_id)
+        if cached is not None:
+            return {"code": 0, "data": {"list": cached}, "_from_disk_cache": True}
+
+    try:
+        from curl_cffi import requests as cffi_requests
+
+        resp = cffi_requests.get(
+            url,
+            headers=_request_headers(),
+            impersonate="chrome124",
+            timeout=60,
+        )
+        if resp.status_code == 200:
+            return resp.json()
+        errors.append(f"curl_cffi HTTP {resp.status_code}")
+    except Exception as exc:
+        errors.append(f"curl_cffi: {exc}")
+
+    try:
+        req = Request(url, headers=_request_headers())
+        with urlopen(req, timeout=60) as resp:
+            return json.loads(resp.read().decode("utf-8", errors="ignore"))
+    except HTTPError as exc:
+        errors.append(f"urllib HTTP {exc.code}")
+    except URLError as exc:
+        errors.append(f"urllib: {exc.reason}")
+    except Exception as exc:
+        errors.append(str(exc))
+
+    cached = load_disk_cache(pack_id)
+    if cached is not None:
+        return {"code": 0, "data": {"list": cached}, "_from_disk_cache": True}
+
+    hint = (
+        "卡拍拍可能阻擋雲端主機 IP（Render 等）。"
+        "請在本機執行 python3 build_cache.py 更新 data/packs/ 後重新部署。"
+    )
+    raise RuntimeError(f"無法取得 {pack_id} 卡表（{'；'.join(errors)}）。{hint}")
+
 
 PACK_MAP = {
     "OP01": "OP-01", "OP02": "OP-02", "OP03": "OP-03", "OP04": "OP-04",
@@ -36,15 +119,6 @@ PACK_MAP = {
 DECK_ENTRY_RE = re.compile(r"(\d+)x([A-Z]+\d*-[A-Z0-9]+)", re.I)
 CARD_ID_RE = re.compile(r"^([A-Z]+)(\d+)-(\d+[A-Z]?)$", re.I)
 ALT_MARKERS = ("異圖", "異畫", "漫畫", "SP", "SP2")
-
-_pack_cache: dict[str, tuple[float, list[dict]]] = {}
-CACHE_TTL = 3600
-
-
-def fetch_text(url: str, timeout: int = 60) -> str:
-    req = Request(url, headers={"User-Agent": USER_AGENT})
-    with urlopen(req, timeout=timeout) as resp:
-        return resp.read().decode("utf-8", errors="ignore")
 
 
 def pack_ids_for_set(set_code: str) -> list[str]:
@@ -94,8 +168,8 @@ def fetch_pack(pack_id: str) -> list[dict]:
     cached = _pack_cache.get(pack_id)
     if cached and now - cached[0] < CACHE_TTL:
         return cached[1]
-    url = KAPAIPAI_PACK_API.format(pack=pack_id)
-    data = json.loads(fetch_text(url))
+
+    data = fetch_kapaipai_json(pack_id)
     if data.get("code") != 0:
         cards: list[dict] = []
     else:

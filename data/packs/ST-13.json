@@ -1,0 +1,549 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162440,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-13-000P",
+        "cardName": "究極牌組 三兄弟的情誼",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:41:00+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 289928,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-001",
+        "cardGlobalKey": "ST13-001",
+        "cardName": "薩波",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 80
+      },
+      {
+        "id": 289929,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-001",
+        "cardGlobalKey": "ST13-001",
+        "cardName": "薩波",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1190,
+        "averagePrice": 0
+      },
+      {
+        "id": 289930,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-002",
+        "cardGlobalKey": "ST13-002",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 25
+      },
+      {
+        "id": 289931,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-002",
+        "cardGlobalKey": "ST13-002",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1800,
+        "averagePrice": 900
+      },
+      {
+        "id": 289932,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-003",
+        "cardGlobalKey": "ST13-003",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 75
+      },
+      {
+        "id": 289933,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-003",
+        "cardGlobalKey": "ST13-003",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 6000,
+        "averagePrice": 2888
+      },
+      {
+        "id": 289934,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-004",
+        "cardGlobalKey": "ST13-004",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289935,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-004",
+        "cardGlobalKey": "ST13-004",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 0
+      },
+      {
+        "id": 289936,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-005",
+        "cardGlobalKey": "ST13-005",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 289937,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-005",
+        "cardGlobalKey": "ST13-005",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "R 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 289938,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-006",
+        "cardGlobalKey": "ST13-006",
+        "cardName": "卡莉・達坦",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289939,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-006",
+        "cardGlobalKey": "ST13-006",
+        "cardName": "卡莉・達坦",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 80
+      },
+      {
+        "id": 289940,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-007",
+        "cardGlobalKey": "ST13-007",
+        "cardName": "薩波",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 2
+      },
+      {
+        "id": 289941,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-007",
+        "cardGlobalKey": "ST13-007",
+        "cardName": "薩波",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 450
+      },
+      {
+        "id": 289942,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-008",
+        "cardGlobalKey": "ST13-008",
+        "cardName": "薩波",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 8
+      },
+      {
+        "id": 289943,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-008",
+        "cardGlobalKey": "ST13-008",
+        "cardName": "薩波",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 400
+      },
+      {
+        "id": 289944,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-009",
+        "cardGlobalKey": "ST13-009",
+        "cardName": "傑克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289945,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-009",
+        "cardGlobalKey": "ST13-009",
+        "cardName": "傑克",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 300,
+        "averagePrice": 300
+      },
+      {
+        "id": 289946,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-010",
+        "cardGlobalKey": "ST13-010",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 289947,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-010",
+        "cardGlobalKey": "ST13-010",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 500
+      },
+      {
+        "id": 289948,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-011",
+        "cardGlobalKey": "ST13-011",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 35,
+        "averagePrice": 35
+      },
+      {
+        "id": 289949,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-011",
+        "cardGlobalKey": "ST13-011",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 800
+      },
+      {
+        "id": 289950,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-012",
+        "cardGlobalKey": "ST13-012",
+        "cardName": "瑪姬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 289951,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-012",
+        "cardGlobalKey": "ST13-012",
+        "cardName": "瑪姬",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 90
+      },
+      {
+        "id": 289952,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-013",
+        "cardGlobalKey": "ST13-013",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 30
+      },
+      {
+        "id": 289953,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-013",
+        "cardGlobalKey": "ST13-013",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 250
+      },
+      {
+        "id": 289954,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-014",
+        "cardGlobalKey": "ST13-014",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 289955,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-014",
+        "cardGlobalKey": "ST13-014",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 500,
+        "averagePrice": 500
+      },
+      {
+        "id": 289956,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-015",
+        "cardGlobalKey": "ST13-015",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 25
+      },
+      {
+        "id": 289957,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-015",
+        "cardGlobalKey": "ST13-015",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1300,
+        "averagePrice": 1314
+      },
+      {
+        "id": 289958,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-016",
+        "cardGlobalKey": "ST13-016",
+        "cardName": "大和",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 289959,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-016",
+        "cardGlobalKey": "ST13-016",
+        "cardName": "大和",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 800
+      },
+      {
+        "id": 21324,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-017",
+        "cardGlobalKey": "ST13-017",
+        "cardName": "「火焰」龍王",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 70
+      },
+      {
+        "id": 22007,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-018",
+        "cardGlobalKey": "ST13-018",
+        "cardName": "橡膠JET矛",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 21290,
+        "game": "onejp",
+        "packId": "ST-13",
+        "packName": "三兄弟的情誼",
+        "packCardId": "ST13-019",
+        "cardGlobalKey": "ST13-019",
+        "cardName": "3兄弟的羈絆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 3
+      }
+    ]
+  },
+  "message": "ok"
+}

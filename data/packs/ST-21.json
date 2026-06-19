@@ -1,0 +1,504 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162432,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-21-000P",
+        "cardName": "起始牌組EX GEAR5",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:38:50+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 2000
+      },
+      {
+        "id": 289960,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-001",
+        "cardGlobalKey": "ST21-001",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 575
+      },
+      {
+        "id": 289961,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-001",
+        "cardGlobalKey": "ST21-001",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 14000,
+        "averagePrice": 9998
+      },
+      {
+        "id": 289962,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-002",
+        "cardGlobalKey": "ST21-002",
+        "cardName": "騙人布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 289963,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-002",
+        "cardGlobalKey": "ST21-002",
+        "cardName": "騙人布",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 60,
+        "averagePrice": 0
+      },
+      {
+        "id": 289964,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-003",
+        "cardGlobalKey": "ST21-003",
+        "cardName": "香吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 15
+      },
+      {
+        "id": 289965,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-003",
+        "cardGlobalKey": "ST21-003",
+        "cardName": "香吉士",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 740,
+        "averagePrice": 500
+      },
+      {
+        "id": 289966,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-004",
+        "cardGlobalKey": "ST21-004",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289967,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-004",
+        "cardGlobalKey": "ST21-004",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:15+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 150
+      },
+      {
+        "id": 289968,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-005",
+        "cardGlobalKey": "ST21-005",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 289969,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-005",
+        "cardGlobalKey": "ST21-005",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 58,
+        "averagePrice": 50
+      },
+      {
+        "id": 289970,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-006",
+        "cardGlobalKey": "ST21-006",
+        "cardName": "絲媞希",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 289971,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-006",
+        "cardGlobalKey": "ST21-006",
+        "cardName": "絲媞希",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 150,
+        "averagePrice": 150
+      },
+      {
+        "id": 289972,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-007",
+        "cardGlobalKey": "ST21-007",
+        "cardName": "戰桃丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289973,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-007",
+        "cardGlobalKey": "ST21-007",
+        "cardName": "戰桃丸",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 0
+      },
+      {
+        "id": 289974,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-008",
+        "cardGlobalKey": "ST21-008",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289975,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-008",
+        "cardGlobalKey": "ST21-008",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 450
+      },
+      {
+        "id": 289976,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-009",
+        "cardGlobalKey": "ST21-009",
+        "cardName": "娜美",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 289977,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-009",
+        "cardGlobalKey": "ST21-009",
+        "cardName": "娜美",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1100,
+        "averagePrice": 400
+      },
+      {
+        "id": 289978,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-010",
+        "cardGlobalKey": "ST21-010",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 8,
+        "averagePrice": 10
+      },
+      {
+        "id": 289979,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-010",
+        "cardGlobalKey": "ST21-010",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 20000,
+        "averagePrice": 400
+      },
+      {
+        "id": 289980,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-011",
+        "cardGlobalKey": "ST21-011",
+        "cardName": "佛朗基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289981,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-011",
+        "cardGlobalKey": "ST21-011",
+        "cardName": "佛朗基",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 53
+      },
+      {
+        "id": 289982,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-012",
+        "cardGlobalKey": "ST21-012",
+        "cardName": "布魯克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 4
+      },
+      {
+        "id": 289983,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-012",
+        "cardGlobalKey": "ST21-012",
+        "cardName": "布魯克",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 200
+      },
+      {
+        "id": 289984,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-013",
+        "cardGlobalKey": "ST21-013",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 289985,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-013",
+        "cardGlobalKey": "ST21-013",
+        "cardName": "貝卡帕庫",
+        "rare": [
+          "C 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 100
+      },
+      {
+        "id": 289986,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-014",
+        "cardGlobalKey": "ST21-014",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 80
+      },
+      {
+        "id": 289987,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-014",
+        "cardGlobalKey": "ST21-014",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1290,
+        "averagePrice": 600
+      },
+      {
+        "id": 289988,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-015",
+        "cardGlobalKey": "ST21-015",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 45,
+        "averagePrice": 47
+      },
+      {
+        "id": 289989,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-015",
+        "cardGlobalKey": "ST21-015",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "SR 異圖二"
+        ],
+        "createdTime": "2026-04-17T02:11:16+08:00",
+        "lowestPrice": 1080,
+        "averagePrice": 800
+      },
+      {
+        "id": 22345,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-016",
+        "cardGlobalKey": "ST21-016",
+        "cardName": "橡膠黎明鞭",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 5
+      },
+      {
+        "id": 20801,
+        "game": "onejp",
+        "packId": "ST-21",
+        "packName": "GEAR5",
+        "packCardId": "ST21-017",
+        "cardGlobalKey": "ST21-017",
+        "cardName": "橡膠鼴鼠槍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 34,
+        "averagePrice": 40
+      }
+    ]
+  },
+  "message": "ok"
+}

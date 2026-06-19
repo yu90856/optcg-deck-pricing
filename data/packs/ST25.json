@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 320533,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "000T",
+        "cardGlobalKey": "ST25-000T",
+        "cardName": "起始牌組 藍 巴其(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-05-09T18:12:13+08:00",
+        "lowestPrice": 80,
+        "averagePrice": 180
+      },
+      {
+        "id": 173460,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-042",
+        "cardGlobalKey": "OP09-042",
+        "cardName": "巴其",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-07-11T15:36:16+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 20
+      },
+      {
+        "id": 173461,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-043",
+        "cardGlobalKey": "OP09-043",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:36:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173462,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-045",
+        "cardGlobalKey": "OP09-045",
+        "cardName": "卡巴吉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:36:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173463,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-051",
+        "cardGlobalKey": "OP09-051",
+        "cardName": "巴其",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:36:16+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 10
+      },
+      {
+        "id": 173464,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-053",
+        "cardGlobalKey": "OP09-053",
+        "cardName": "摩奇",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:36:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173465,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-054",
+        "cardGlobalKey": "OP09-054",
+        "cardName": "利基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:36:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173466,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-055",
+        "cardGlobalKey": "OP09-055",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:36:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173467,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-056",
+        "cardGlobalKey": "OP09-056",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:36:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173469,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "OP09-057",
+        "cardGlobalKey": "OP09-057",
+        "cardName": "十字公會",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:39:02+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 1
+      },
+      {
+        "id": 173468,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "P-084",
+        "cardGlobalKey": "P-084",
+        "cardName": "巴其",
+        "rare": [
+          "P"
+        ],
+        "createdTime": "2025-07-11T15:36:17+08:00",
+        "lowestPrice": 9,
+        "averagePrice": 10
+      },
+      {
+        "id": 173470,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "ST25-001",
+        "cardGlobalKey": "ST25-001",
+        "cardName": "亞爾麗塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:39:03+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 10
+      },
+      {
+        "id": 173471,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "ST25-002",
+        "cardGlobalKey": "ST25-002",
+        "cardName": "卡巴吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:39:03+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 173472,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "ST25-003",
+        "cardGlobalKey": "ST25-003",
+        "cardName": "克洛克達爾＆密佛格",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:39:03+08:00",
+        "lowestPrice": 30,
+        "averagePrice": 29
+      },
+      {
+        "id": 173473,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "ST25-004",
+        "cardGlobalKey": "ST25-004",
+        "cardName": "巴其",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:39:03+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 25
+      },
+      {
+        "id": 173474,
+        "game": "onejp",
+        "packId": "ST25",
+        "packName": "起始牌組 藍 巴其",
+        "packCardId": "ST25-005",
+        "cardGlobalKey": "ST25-005",
+        "cardName": "摩奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:39:03+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      }
+    ]
+  },
+  "message": "ok"
+}

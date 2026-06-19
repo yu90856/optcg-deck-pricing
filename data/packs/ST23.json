@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 320526,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "000T",
+        "cardGlobalKey": "ST23-000T",
+        "cardName": "起始牌組 紅 傑克(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-05-09T18:12:05+08:00",
+        "lowestPrice": 420,
+        "averagePrice": 410
+      },
+      {
+        "id": 173430,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-001",
+        "cardGlobalKey": "OP09-001",
+        "cardName": "傑克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:18:27+08:00",
+        "lowestPrice": 20,
+        "averagePrice": 29
+      },
+      {
+        "id": 173431,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-006",
+        "cardGlobalKey": "OP09-006",
+        "cardName": "華林格葛布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:18:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173432,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-010",
+        "cardGlobalKey": "OP09-010",
+        "cardName": "彭克・潘奇",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:18:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173433,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-011",
+        "cardGlobalKey": "OP09-011",
+        "cardName": "北鄉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:18:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173434,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-012",
+        "cardGlobalKey": "OP09-012",
+        "cardName": "蒙斯塔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173435,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-013",
+        "cardGlobalKey": "OP09-013",
+        "cardName": "耶穌布",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173436,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-014",
+        "cardGlobalKey": "OP09-014",
+        "cardName": "萊姆吉斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173437,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-015",
+        "cardGlobalKey": "OP09-015",
+        "cardName": "拉奇・魯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173438,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-016",
+        "cardGlobalKey": "OP09-016",
+        "cardName": "洛克斯達",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 173439,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "OP09-020",
+        "cardGlobalKey": "OP09-020",
+        "cardName": "來吧…!!!就由我們來當對手!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173440,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "ST23-001",
+        "cardGlobalKey": "ST23-001",
+        "cardName": "美音",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 200,
+        "averagePrice": 236
+      },
+      {
+        "id": 173441,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "ST23-002",
+        "cardGlobalKey": "ST23-002",
+        "cardName": "傑克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 40,
+        "averagePrice": 30
+      },
+      {
+        "id": 173442,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "ST23-003",
+        "cardGlobalKey": "ST23-003",
+        "cardName": "班・貝克曼",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 173443,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "ST23-004",
+        "cardGlobalKey": "ST23-004",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:18:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 173444,
+        "game": "onejp",
+        "packId": "ST23",
+        "packName": "起始牌組 紅 傑克",
+        "packCardId": "ST23-005",
+        "cardGlobalKey": "ST23-005",
+        "cardName": "耶穌布",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-07-11T15:18:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      }
+    ]
+  },
+  "message": "ok"
+}

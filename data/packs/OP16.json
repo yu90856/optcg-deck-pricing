@@ -1,0 +1,2394 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 326462,
+        "game": "onejp",
+        "packId": "DONG-T",
+        "packName": "咚！卡",
+        "packCardId": "DONG(OP16)",
+        "cardGlobalKey": "DONG",
+        "cardName": "咚！！",
+        "rare": [
+          "DON"
+        ],
+        "createdTime": "2026-05-29T14:34:50+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 326463,
+        "game": "onejp",
+        "packId": "DONG-T",
+        "packName": "咚！卡",
+        "packCardId": "DONG(OP16)",
+        "cardGlobalKey": "DONG",
+        "cardName": "咚！！",
+        "rare": [
+          "金DON"
+        ],
+        "createdTime": "2026-05-29T14:34:50+08:00",
+        "lowestPrice": 100,
+        "averagePrice": 100
+      },
+      {
+        "id": 318952,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP16-000P",
+        "cardName": "補充包 決戰時刻(未拆封)",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2026-05-04T15:31:47+08:00",
+        "lowestPrice": 3650,
+        "averagePrice": 3380
+      },
+      {
+        "id": 318953,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "000P",
+        "cardGlobalKey": "OP16-000P",
+        "cardName": "補充包 決戰時刻(未拆封)",
+        "rare": [
+          "散包"
+        ],
+        "createdTime": "2026-05-04T15:31:47+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 326457,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "EB04-054",
+        "cardGlobalKey": "EB04-054",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-05-29T14:29:43+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 2000
+      },
+      {
+        "id": 326458,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP10-045",
+        "cardGlobalKey": "OP10-045",
+        "cardName": "卡文迪許",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-05-29T14:29:44+08:00",
+        "lowestPrice": 1700,
+        "averagePrice": 1600
+      },
+      {
+        "id": 326459,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP11-067",
+        "cardGlobalKey": "OP11-067",
+        "cardName": "夏洛特・卡塔克利",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-05-29T14:29:45+08:00",
+        "lowestPrice": 2500,
+        "averagePrice": 2200
+      },
+      {
+        "id": 326460,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP14-029",
+        "cardGlobalKey": "OP14-029",
+        "cardName": "達絲琪",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-05-29T14:29:47+08:00",
+        "lowestPrice": 2970,
+        "averagePrice": 4000
+      },
+      {
+        "id": 326461,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP14-084",
+        "cardGlobalKey": "OP14-084",
+        "cardName": "Miss All星期天",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-05-29T14:29:48+08:00",
+        "lowestPrice": 16300,
+        "averagePrice": 16000
+      },
+      {
+        "id": 322854,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-001",
+        "cardGlobalKey": "OP16-001",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-05-26T17:43:54+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 326464,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-001",
+        "cardGlobalKey": "OP16-001",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-05-29T14:28:59+08:00",
+        "lowestPrice": 2000,
+        "averagePrice": 2600
+      },
+      {
+        "id": 322855,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-002",
+        "cardGlobalKey": "OP16-002",
+        "cardName": "以藏",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:43:55+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322856,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-003",
+        "cardGlobalKey": "OP16-003",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:43:55+08:00",
+        "lowestPrice": 18,
+        "averagePrice": 45
+      },
+      {
+        "id": 326465,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-003",
+        "cardGlobalKey": "OP16-003",
+        "cardName": "艾德華・紐蓋特",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:01+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 488
+      },
+      {
+        "id": 322857,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-004",
+        "cardGlobalKey": "OP16-004",
+        "cardName": "克利耶爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:43:56+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322858,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-005",
+        "cardGlobalKey": "OP16-005",
+        "cardName": "薩吉",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:43:56+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322859,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-006",
+        "cardGlobalKey": "OP16-006",
+        "cardName": "傑克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:43:56+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322860,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-007",
+        "cardGlobalKey": "OP16-007",
+        "cardName": "裘斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:43:57+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322861,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-008",
+        "cardGlobalKey": "OP16-008",
+        "cardName": "史庫亞德",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:43:57+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322862,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-009",
+        "cardGlobalKey": "OP16-009",
+        "cardName": "史比托・吉爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:43:58+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322863,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-010",
+        "cardGlobalKey": "OP16-010",
+        "cardName": "納米爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:43:58+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322864,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-011",
+        "cardGlobalKey": "OP16-011",
+        "cardName": "比斯塔",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:43:58+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322865,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-012",
+        "cardGlobalKey": "OP16-012",
+        "cardName": "班・貝克曼",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:43:59+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 6
+      },
+      {
+        "id": 322866,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-013",
+        "cardGlobalKey": "OP16-013",
+        "cardName": "馬克凱",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:43:59+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322867,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-014",
+        "cardGlobalKey": "OP16-014",
+        "cardName": "馬可",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:00+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 326466,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-014",
+        "cardGlobalKey": "OP16-014",
+        "cardName": "馬可",
+        "rare": [
+          "R異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:02+08:00",
+        "lowestPrice": 350,
+        "averagePrice": 350
+      },
+      {
+        "id": 322868,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-015",
+        "cardGlobalKey": "OP16-015",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:00+08:00",
+        "lowestPrice": 25,
+        "averagePrice": 28
+      },
+      {
+        "id": 326467,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-015",
+        "cardGlobalKey": "OP16-015",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:04+08:00",
+        "lowestPrice": 2900,
+        "averagePrice": 2240
+      },
+      {
+        "id": 322869,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-016",
+        "cardGlobalKey": "OP16-016",
+        "cardName": "蘭巴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:00+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322870,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-017",
+        "cardGlobalKey": "OP16-017",
+        "cardName": "小歐斯Jr.",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:01+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322871,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-018",
+        "cardGlobalKey": "OP16-018",
+        "cardName": "洛克斯達",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:02+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322872,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-019",
+        "cardGlobalKey": "OP16-019",
+        "cardName": "讓他們看看我們的力量!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:02+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322873,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-020",
+        "cardGlobalKey": "OP16-020",
+        "cardName": "要跟隨我的人拋棄生命跟我來吧!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322874,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-021",
+        "cardGlobalKey": "OP16-021",
+        "cardName": "白鯨號",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 8
+      },
+      {
+        "id": 326468,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-021",
+        "cardGlobalKey": "OP16-021",
+        "cardName": "白鯨號",
+        "rare": [
+          "R異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:05+08:00",
+        "lowestPrice": 450,
+        "averagePrice": 499
+      },
+      {
+        "id": 322875,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-022",
+        "cardGlobalKey": "OP16-022",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-05-26T17:44:03+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 326469,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-022",
+        "cardGlobalKey": "OP16-022",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:07+08:00",
+        "lowestPrice": 5000,
+        "averagePrice": 4200
+      },
+      {
+        "id": 322876,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-023",
+        "cardGlobalKey": "OP16-023",
+        "cardName": "惡龍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322877,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-024",
+        "cardGlobalKey": "OP16-024",
+        "cardName": "雷電",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322878,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-025",
+        "cardGlobalKey": "OP16-025",
+        "cardName": "烏薩科夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:04+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322879,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-026",
+        "cardGlobalKey": "OP16-026",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:05+08:00",
+        "lowestPrice": 14,
+        "averagePrice": 46
+      },
+      {
+        "id": 326470,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-026",
+        "cardGlobalKey": "OP16-026",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:08+08:00",
+        "lowestPrice": 285,
+        "averagePrice": 300
+      },
+      {
+        "id": 322880,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-027",
+        "cardGlobalKey": "OP16-027",
+        "cardName": "吉貝爾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:05+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 322881,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-028",
+        "cardGlobalKey": "OP16-028",
+        "cardName": "斯摩格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322882,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-029",
+        "cardGlobalKey": "OP16-029",
+        "cardName": "角科夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322883,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-030",
+        "cardGlobalKey": "OP16-030",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:06+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322884,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-031",
+        "cardGlobalKey": "OP16-031",
+        "cardName": "巴其",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:07+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322885,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-032",
+        "cardGlobalKey": "OP16-032",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:07+08:00",
+        "lowestPrice": 99,
+        "averagePrice": 124
+      },
+      {
+        "id": 326471,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-032",
+        "cardGlobalKey": "OP16-032",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:10+08:00",
+        "lowestPrice": 3900,
+        "averagePrice": 4000
+      },
+      {
+        "id": 322886,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-033",
+        "cardGlobalKey": "OP16-033",
+        "cardName": "摩利",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322887,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-034",
+        "cardGlobalKey": "OP16-034",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 8
+      },
+      {
+        "id": 326472,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-034",
+        "cardGlobalKey": "OP16-034",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:11+08:00",
+        "lowestPrice": 800,
+        "averagePrice": 800
+      },
+      {
+        "id": 322888,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-035",
+        "cardGlobalKey": "OP16-035",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:08+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322889,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-036",
+        "cardGlobalKey": "OP16-036",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322890,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-037",
+        "cardGlobalKey": "OP16-037",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:09+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322891,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-038",
+        "cardGlobalKey": "OP16-038",
+        "cardName": "走吧～～～!!!去海軍本部～～～!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:10+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322892,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-039",
+        "cardGlobalKey": "OP16-039",
+        "cardName": "橡膠雙重JET槍",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:11+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322893,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-040",
+        "cardGlobalKey": "OP16-040",
+        "cardName": "橡膠鐵鎚螺旋槍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322894,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-041",
+        "cardGlobalKey": "OP16-041",
+        "cardName": "巴其",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-05-26T17:44:12+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 326473,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-041",
+        "cardGlobalKey": "OP16-041",
+        "cardName": "巴其",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:12+08:00",
+        "lowestPrice": 730,
+        "averagePrice": 900
+      },
+      {
+        "id": 322895,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-042",
+        "cardGlobalKey": "OP16-042",
+        "cardName": "推進城的囚犯",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:12+08:00",
+        "lowestPrice": 50,
+        "averagePrice": 50
+      },
+      {
+        "id": 326618,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-042",
+        "cardGlobalKey": "OP16-042",
+        "cardName": "推進城的囚犯",
+        "rare": [
+          "TR"
+        ],
+        "createdTime": "2026-05-29T14:29:14+08:00",
+        "lowestPrice": 1700,
+        "averagePrice": 1500
+      },
+      {
+        "id": 322896,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-043",
+        "cardGlobalKey": "OP16-043",
+        "cardName": "騙人布",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322897,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-044",
+        "cardGlobalKey": "OP16-044",
+        "cardName": "艾波利歐・伊娃柯夫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:13+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322898,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-045",
+        "cardGlobalKey": "OP16-045",
+        "cardName": "克洛克達爾",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322899,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-046",
+        "cardGlobalKey": "OP16-046",
+        "cardName": "吉貝爾",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:14+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322900,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-047",
+        "cardGlobalKey": "OP16-047",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322901,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-048",
+        "cardGlobalKey": "OP16-048",
+        "cardName": "巴其",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:15+08:00",
+        "lowestPrice": 29,
+        "averagePrice": 58
+      },
+      {
+        "id": 326475,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-048",
+        "cardGlobalKey": "OP16-048",
+        "cardName": "巴其",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:15+08:00",
+        "lowestPrice": 400,
+        "averagePrice": 400
+      },
+      {
+        "id": 322902,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-049",
+        "cardGlobalKey": "OP16-049",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:15+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322903,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-050",
+        "cardGlobalKey": "OP16-050",
+        "cardName": "奧莉芙",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322904,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-051",
+        "cardGlobalKey": "OP16-051",
+        "cardName": "摩奇＆卡巴吉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322905,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-052",
+        "cardGlobalKey": "OP16-052",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:16+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322906,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-053",
+        "cardGlobalKey": "OP16-053",
+        "cardName": "羅羅亞・索隆",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322907,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-054",
+        "cardGlobalKey": "OP16-054",
+        "cardName": "Mr.1(達茲・波涅士)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:17+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 16
+      },
+      {
+        "id": 322908,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-055",
+        "cardGlobalKey": "OP16-055",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:18+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 9
+      },
+      {
+        "id": 326476,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-055",
+        "cardGlobalKey": "OP16-055",
+        "cardName": "Mr.2・馮・克雷(班薩姆)",
+        "rare": [
+          "R異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:17+08:00",
+        "lowestPrice": 390,
+        "averagePrice": 315
+      },
+      {
+        "id": 322909,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-056",
+        "cardGlobalKey": "OP16-056",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:18+08:00",
+        "lowestPrice": 520,
+        "averagePrice": 550
+      },
+      {
+        "id": 326477,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-056",
+        "cardGlobalKey": "OP16-056",
+        "cardName": "Mr.3(賈爾迪諾)",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:18+08:00",
+        "lowestPrice": 2500,
+        "averagePrice": 1700
+      },
+      {
+        "id": 322910,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-057",
+        "cardGlobalKey": "OP16-057",
+        "cardName": "我們的救世主!!!巴其船長!!!!",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322911,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-058",
+        "cardGlobalKey": "OP16-058",
+        "cardName": "囚犯們開始大鬧啦～～～!!!",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322912,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-059",
+        "cardGlobalKey": "OP16-059",
+        "cardName": "變成超華麗大作戰吧～～～!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322913,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-060",
+        "cardGlobalKey": "OP16-060",
+        "cardName": "戰國",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-05-26T17:44:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 326478,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-060",
+        "cardGlobalKey": "OP16-060",
+        "cardName": "戰國",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:20+08:00",
+        "lowestPrice": 550,
+        "averagePrice": 500
+      },
+      {
+        "id": 322914,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-061",
+        "cardGlobalKey": "OP16-061",
+        "cardName": "海兵兄",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322915,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-062",
+        "cardGlobalKey": "OP16-062",
+        "cardName": "海兵弟",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:20+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322916,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-063",
+        "cardGlobalKey": "OP16-063",
+        "cardName": "庫山",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:21+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 15
+      },
+      {
+        "id": 326479,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-063",
+        "cardGlobalKey": "OP16-063",
+        "cardName": "庫山",
+        "rare": [
+          "R異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:21+08:00",
+        "lowestPrice": 340,
+        "averagePrice": 379
+      },
+      {
+        "id": 326480,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-063",
+        "cardGlobalKey": "OP16-063",
+        "cardName": "庫山",
+        "rare": [
+          "R漫畫"
+        ],
+        "createdTime": "2026-05-29T14:29:23+08:00",
+        "lowestPrice": 0,
+        "averagePrice": 0
+      },
+      {
+        "id": 322917,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-064",
+        "cardGlobalKey": "OP16-064",
+        "cardName": "克比",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 15
+      },
+      {
+        "id": 322918,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-065",
+        "cardGlobalKey": "OP16-065",
+        "cardName": "盃",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:22+08:00",
+        "lowestPrice": 55,
+        "averagePrice": 60
+      },
+      {
+        "id": 326481,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-065",
+        "cardGlobalKey": "OP16-065",
+        "cardName": "盃",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:24+08:00",
+        "lowestPrice": 1250,
+        "averagePrice": 1100
+      },
+      {
+        "id": 326482,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-065",
+        "cardGlobalKey": "OP16-065",
+        "cardName": "盃",
+        "rare": [
+          "SR漫畫"
+        ],
+        "createdTime": "2026-05-29T14:29:25+08:00",
+        "lowestPrice": 68000,
+        "averagePrice": 0
+      },
+      {
+        "id": 322919,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-066",
+        "cardGlobalKey": "OP16-066",
+        "cardName": "戰國",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322920,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-067",
+        "cardGlobalKey": "OP16-067",
+        "cardName": "阿鶴",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 6
+      },
+      {
+        "id": 322921,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-068",
+        "cardGlobalKey": "OP16-068",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322922,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-069",
+        "cardGlobalKey": "OP16-069",
+        "cardName": "唐吉訶德・多佛朗明哥",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:23+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322923,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-070",
+        "cardGlobalKey": "OP16-070",
+        "cardName": "唐吉訶德・羅希南特",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 322924,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-071",
+        "cardGlobalKey": "OP16-071",
+        "cardName": "波頭的仁王",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:24+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322925,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-072",
+        "cardGlobalKey": "OP16-072",
+        "cardName": "般若拔",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322926,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-073",
+        "cardGlobalKey": "OP16-073",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 326483,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-073",
+        "cardGlobalKey": "OP16-073",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "R異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:27+08:00",
+        "lowestPrice": 750,
+        "averagePrice": 600
+      },
+      {
+        "id": 326484,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-073",
+        "cardGlobalKey": "OP16-073",
+        "cardName": "波爾薩利諾",
+        "rare": [
+          "R漫畫"
+        ],
+        "createdTime": "2026-05-29T14:29:28+08:00",
+        "lowestPrice": 70000,
+        "averagePrice": 49999
+      },
+      {
+        "id": 322927,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-074",
+        "cardGlobalKey": "OP16-074",
+        "cardName": "麥哲倫",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:25+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322928,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-075",
+        "cardGlobalKey": "OP16-075",
+        "cardName": "蒙其・D・卡普",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322929,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-076",
+        "cardGlobalKey": "OP16-076",
+        "cardName": "「三上將」!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:26+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 6
+      },
+      {
+        "id": 322930,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-077",
+        "cardGlobalKey": "OP16-077",
+        "cardName": "智將“佛之戰國”",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322931,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-078",
+        "cardGlobalKey": "OP16-078",
+        "cardName": "馬林福特",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322932,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-079",
+        "cardGlobalKey": "OP16-079",
+        "cardName": "大和",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-05-26T17:44:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 19
+      },
+      {
+        "id": 326485,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-079",
+        "cardGlobalKey": "OP16-079",
+        "cardName": "大和",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:30+08:00",
+        "lowestPrice": 2800,
+        "averagePrice": 3000
+      },
+      {
+        "id": 322933,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-080",
+        "cardGlobalKey": "OP16-080",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2026-05-26T17:44:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 326486,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-080",
+        "cardGlobalKey": "OP16-080",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "L異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:31+08:00",
+        "lowestPrice": 1450,
+        "averagePrice": 1499
+      },
+      {
+        "id": 322934,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-081",
+        "cardGlobalKey": "OP16-081",
+        "cardName": "玉兒",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:28+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322935,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-082",
+        "cardGlobalKey": "OP16-082",
+        "cardName": "錦右衛門",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:29+08:00",
+        "lowestPrice": 75,
+        "averagePrice": 98
+      },
+      {
+        "id": 326487,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-082",
+        "cardGlobalKey": "OP16-082",
+        "cardName": "錦右衛門",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:33+08:00",
+        "lowestPrice": 600,
+        "averagePrice": 600
+      },
+      {
+        "id": 322936,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-083",
+        "cardGlobalKey": "OP16-083",
+        "cardName": "光月御田",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322937,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-084",
+        "cardGlobalKey": "OP16-084",
+        "cardName": "光月桃之助",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:29+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 5
+      },
+      {
+        "id": 322938,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-085",
+        "cardGlobalKey": "OP16-085",
+        "cardName": "光月桃之助",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 6
+      },
+      {
+        "id": 326488,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-085",
+        "cardGlobalKey": "OP16-085",
+        "cardName": "光月桃之助",
+        "rare": [
+          "R異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:34+08:00",
+        "lowestPrice": 750,
+        "averagePrice": 750
+      },
+      {
+        "id": 322939,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-086",
+        "cardGlobalKey": "OP16-086",
+        "cardName": "香吉士",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322940,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-087",
+        "cardGlobalKey": "OP16-087",
+        "cardName": "忍",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322941,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-088",
+        "cardGlobalKey": "OP16-088",
+        "cardName": "霜月牛丸",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322942,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-089",
+        "cardGlobalKey": "OP16-089",
+        "cardName": "喬拉可爾・密佛格",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:31+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322943,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-090",
+        "cardGlobalKey": "OP16-090",
+        "cardName": "多尼多尼・喬巴",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:32+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 322944,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-091",
+        "cardGlobalKey": "OP16-091",
+        "cardName": "娜美",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:32+08:00",
+        "lowestPrice": 5,
+        "averagePrice": 12
+      },
+      {
+        "id": 322945,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-092",
+        "cardGlobalKey": "OP16-092",
+        "cardName": "妮可・羅賓",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 322946,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-093",
+        "cardGlobalKey": "OP16-093",
+        "cardName": "巴索羅繆・大熊",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:33+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322947,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-094",
+        "cardGlobalKey": "OP16-094",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:34+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322948,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-095",
+        "cardGlobalKey": "OP16-095",
+        "cardName": "蒙其・D・魯夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:34+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 12
+      },
+      {
+        "id": 322949,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-096",
+        "cardGlobalKey": "OP16-096",
+        "cardName": "大和",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:35+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 9
+      },
+      {
+        "id": 322950,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-097",
+        "cardGlobalKey": "OP16-097",
+        "cardName": "大和",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:35+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 23
+      },
+      {
+        "id": 322951,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-098",
+        "cardGlobalKey": "OP16-098",
+        "cardName": "大和",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:35+08:00",
+        "lowestPrice": 99,
+        "averagePrice": 100
+      },
+      {
+        "id": 326489,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-098",
+        "cardGlobalKey": "OP16-098",
+        "cardName": "大和",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:36+08:00",
+        "lowestPrice": 1700,
+        "averagePrice": 1900
+      },
+      {
+        "id": 322952,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-099",
+        "cardGlobalKey": "OP16-099",
+        "cardName": "我是來切斷那份“親緣”的!!!",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322953,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-100",
+        "cardGlobalKey": "OP16-100",
+        "cardName": "冰諸斬",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322954,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-101",
+        "cardGlobalKey": "OP16-101",
+        "cardName": "馬幻刃",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:36+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322955,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-102",
+        "cardGlobalKey": "OP16-102",
+        "cardName": "亞帕羅・比薩羅",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:37+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322956,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-103",
+        "cardGlobalKey": "OP16-103",
+        "cardName": "范・歐葛",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:37+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322957,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-104",
+        "cardGlobalKey": "OP16-104",
+        "cardName": "卡達莉納・戴彭",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:38+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 322958,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-105",
+        "cardGlobalKey": "OP16-105",
+        "cardName": "月光・摩利亞",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:38+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322959,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-106",
+        "cardGlobalKey": "OP16-106",
+        "cardName": "薩方・烏爾夫",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:38+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 8
+      },
+      {
+        "id": 322960,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-107",
+        "cardGlobalKey": "OP16-107",
+        "cardName": "吉札士・伯吉斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:39+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322961,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-108",
+        "cardGlobalKey": "OP16-108",
+        "cardName": "矢龍",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2026-05-26T17:44:39+08:00",
+        "lowestPrice": 24,
+        "averagePrice": 28
+      },
+      {
+        "id": 326490,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-108",
+        "cardGlobalKey": "OP16-108",
+        "cardName": "矢龍",
+        "rare": [
+          "SR異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:37+08:00",
+        "lowestPrice": 529,
+        "averagePrice": 530
+      },
+      {
+        "id": 322962,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-109",
+        "cardGlobalKey": "OP16-109",
+        "cardName": "Q醫生",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:40+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 4
+      },
+      {
+        "id": 322963,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-110",
+        "cardGlobalKey": "OP16-110",
+        "cardName": "巴斯可・簫特",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:40+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322964,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-111",
+        "cardGlobalKey": "OP16-111",
+        "cardName": "波雅・桑塔索妮雅",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:41+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322965,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-112",
+        "cardGlobalKey": "OP16-112",
+        "cardName": "波雅・漢考克",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:41+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322966,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-113",
+        "cardGlobalKey": "OP16-113",
+        "cardName": "波雅・瑪莉哥德",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:42+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322967,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-114",
+        "cardGlobalKey": "OP16-114",
+        "cardName": "拉菲特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:42+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 322968,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-115",
+        "cardGlobalKey": "OP16-115",
+        "cardName": "闇水",
+        "rare": [
+          "UC"
+        ],
+        "createdTime": "2026-05-26T17:44:42+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 3
+      },
+      {
+        "id": 322969,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-116",
+        "cardGlobalKey": "OP16-116",
+        "cardName": "賊哈哈哈哈哈哈！",
+        "rare": [
+          "R"
+        ],
+        "createdTime": "2026-05-26T17:44:43+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 13
+      },
+      {
+        "id": 326491,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-116",
+        "cardGlobalKey": "OP16-116",
+        "cardName": "賊哈哈哈哈哈哈！",
+        "rare": [
+          "R異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:38+08:00",
+        "lowestPrice": 9999,
+        "averagePrice": 7800
+      },
+      {
+        "id": 322970,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-117",
+        "cardGlobalKey": "OP16-117",
+        "cardName": "黑暗地道",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2026-05-26T17:44:43+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 322971,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-118",
+        "cardGlobalKey": "OP16-118",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-05-26T17:44:44+08:00",
+        "lowestPrice": 250,
+        "averagePrice": 260
+      },
+      {
+        "id": 326493,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-118",
+        "cardGlobalKey": "OP16-118",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SEC異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:40+08:00",
+        "lowestPrice": 1350,
+        "averagePrice": 1200
+      },
+      {
+        "id": 322972,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-119",
+        "cardGlobalKey": "OP16-119",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SEC"
+        ],
+        "createdTime": "2026-05-26T17:44:44+08:00",
+        "lowestPrice": 1200,
+        "averagePrice": 1066
+      },
+      {
+        "id": 326494,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "OP16-119",
+        "cardGlobalKey": "OP16-119",
+        "cardName": "馬歇爾・D・汀奇",
+        "rare": [
+          "SEC異圖"
+        ],
+        "createdTime": "2026-05-29T14:29:41+08:00",
+        "lowestPrice": 3050,
+        "averagePrice": 2800
+      },
+      {
+        "id": 326495,
+        "game": "onejp",
+        "packId": "OP16",
+        "packName": "決戰時刻",
+        "packCardId": "ST15-005",
+        "cardGlobalKey": "ST15-005",
+        "cardName": "波特卡斯・D・艾斯",
+        "rare": [
+          "SP"
+        ],
+        "createdTime": "2026-05-29T14:29:50+08:00",
+        "lowestPrice": 8333,
+        "averagePrice": 7999
+      }
+    ]
+  },
+  "message": "ok"
+}

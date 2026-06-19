@@ -1,0 +1,279 @@
+{
+  "code": 0,
+  "data": {
+    "createdTimeDesc": false,
+    "list": [
+      {
+        "id": 162449,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "000P",
+        "cardGlobalKey": "ST-02-000P",
+        "cardName": "起始牌組 最可怕世代",
+        "rare": [
+          "原盒"
+        ],
+        "createdTime": "2025-05-27T16:43:14+08:00",
+        "lowestPrice": 180,
+        "averagePrice": 200
+      },
+      {
+        "id": 21424,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-001",
+        "cardGlobalKey": "ST02-001",
+        "cardName": "尤斯塔斯・基德(異圖卡)",
+        "rare": [
+          "L"
+        ],
+        "createdTime": "2025-02-20T05:15:23+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 15
+      },
+      {
+        "id": 21744,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-002",
+        "cardGlobalKey": "ST02-002",
+        "cardName": "比特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 3,
+        "averagePrice": 0
+      },
+      {
+        "id": 20705,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-003",
+        "cardGlobalKey": "ST02-003",
+        "cardName": "烏魯基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 22615,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-004",
+        "cardGlobalKey": "ST02-004",
+        "cardName": "卡波涅・培基",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:30+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      },
+      {
+        "id": 21792,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-005",
+        "cardGlobalKey": "ST02-005",
+        "cardName": "奇拉",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22209,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-006",
+        "cardGlobalKey": "ST02-006",
+        "cardName": "克比",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 21303,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-007",
+        "cardGlobalKey": "ST02-007",
+        "cardName": "珠寶・波妮",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:22+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 2
+      },
+      {
+        "id": 20567,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-008",
+        "cardGlobalKey": "ST02-008",
+        "cardName": "刮盤人・亞普(異圖卡)",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:18+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 20720,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-009",
+        "cardGlobalKey": "ST02-009",
+        "cardName": "托拉法爾加・羅",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 15,
+        "averagePrice": 15
+      },
+      {
+        "id": 21100,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-010",
+        "cardGlobalKey": "ST02-010",
+        "cardName": "巴吉魯・霍金斯",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:21+08:00",
+        "lowestPrice": 2,
+        "averagePrice": 0
+      },
+      {
+        "id": 21755,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-011",
+        "cardGlobalKey": "ST02-011",
+        "cardName": "希特",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:25+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 20808,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-012",
+        "cardGlobalKey": "ST02-012",
+        "cardName": "培波",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 1
+      },
+      {
+        "id": 22322,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-013",
+        "cardGlobalKey": "ST02-013",
+        "cardName": "尤斯塔斯・基德(異圖卡)",
+        "rare": [
+          "SR"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 10,
+        "averagePrice": 9
+      },
+      {
+        "id": 20826,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-014",
+        "cardGlobalKey": "ST02-014",
+        "cardName": "X・多雷古",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:19+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22218,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-015",
+        "cardGlobalKey": "ST02-015",
+        "cardName": "手術刀",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:28+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 21537,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-016",
+        "cardGlobalKey": "ST02-016",
+        "cardName": "反彈",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:24+08:00",
+        "lowestPrice": 4,
+        "averagePrice": 0
+      },
+      {
+        "id": 22113,
+        "game": "onejp",
+        "packId": "ST-02",
+        "packName": "最可怕世代",
+        "packCardId": "ST02-017",
+        "cardGlobalKey": "ST02-017",
+        "cardName": "稻草手刀",
+        "rare": [
+          "C"
+        ],
+        "createdTime": "2025-02-20T05:15:27+08:00",
+        "lowestPrice": 1,
+        "averagePrice": 0
+      }
+    ]
+  },
+  "message": "ok"
+}
