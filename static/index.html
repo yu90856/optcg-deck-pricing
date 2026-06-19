@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OPTCG 組牌造價｜卡拍拍</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="header-row">
+          <div>
+            <h1>OPTCG 組牌造價</h1>
+            <p>
+              貼上 OPTCG SIM 牌組，向
+              <a href="https://trade.kapaipai.tw/" target="_blank" rel="noopener"
+                >卡拍拍</a
+              >
+              查詢市場均價，估算組牌成本。
+            </p>
+          </div>
+            <div class="header-badge" id="env-badge">本機版</div>
+        </div>
+      </header>
+
+      <div class="layout">
+        <section class="panel">
+          <h2>匯入牌組</h2>
+          <textarea
+            id="deck-input"
+            placeholder="從 OPTCG SIM 複製牌組後貼上，例如：&#10;4xOP10-024&#10;4xOP10-025&#10;2xST21-017"
+            spellcheck="false"
+          ></textarea>
+          <p class="example">
+            格式：<code>數量x編號</code>（如 <code>4xOP10-024</code>）。支援每行一張或空格分隔。
+          </p>
+          <div class="controls">
+            <button id="price-btn" class="primary">查詢造價</button>
+            <button id="paste-btn" class="secondary">貼上剪貼簿</button>
+            <button id="clear-btn" class="secondary">清除</button>
+            <label class="file-btn secondary">
+              匯入 .txt
+              <input id="file-input" type="file" accept=".txt,text/plain" />
+            </label>
+          </div>
+          <div class="controls options">
+            <label class="mode">
+              卡面版本
+              <select id="price-mode">
+                <option value="standard">標準版（非異圖）</option>
+                <option value="cheapest">全版本最便宜</option>
+              </select>
+            </label>
+            <label class="mode">
+              價格基準
+              <select id="price-basis">
+                <option value="average" selected>市場均價</option>
+                <option value="lowest">最低掛單價</option>
+              </select>
+            </label>
+            <label class="mode">
+              排序
+              <select id="sort-mode">
+                <option value="cost">依小計（高→低）</option>
+                <option value="id">依編號</option>
+              </select>
+            </label>
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-head">
+            <h2>造價結果</h2>
+            <button id="export-btn" class="secondary small" disabled>
+              匯出 CSV
+            </button>
+          </div>
+          <div id="status" class="status"></div>
+          <div class="summary">
+            <div class="stat total">
+              <div class="label">預估總價</div>
+              <div id="total-price" class="value">—</div>
+            </div>
+            <div class="stat">
+              <div class="label">牌組張數</div>
+              <div id="total-cards" class="value">—</div>
+            </div>
+            <div class="stat">
+              <div class="label">不同卡牌</div>
+              <div id="unique-cards" class="value">—</div>
+            </div>
+          </div>
+          <div id="card-list" class="card-list">
+            <div class="empty">貼上 OPTCG SIM 牌組後按「查詢造價」</div>
+          </div>
+        </section>
+      </div>
+    </div>
+    <script src="/static/app.js"></script>
+  </body>
+</html>
